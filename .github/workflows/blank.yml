@@ -23,7 +23,7 @@ jobs:
         run: |
           git config --global user.email 2362020227@qq.com
           git config --global user.name azmiao
-          git add .
+          git add ./
           git commit -m "Action:`date` - data update finished!"
           git pull --rebase
       - name: Git push
