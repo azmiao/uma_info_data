@@ -2,6 +2,7 @@ name: uma_info_data_auto
 on:
   schedule:
     - cron: "0 18 * * *"
+  workflow_dispatch: {}
 jobs:
   build:
     runs-on: ubuntu-latest
