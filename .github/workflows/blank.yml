@@ -17,7 +17,7 @@ jobs:
           pip install -r requirements.txt
       - name: Run main job
         run: |
-          python update.py
+          python update.py -key ${{secrets.APIKEY}}
       - name: Git commit
         run: |
           git config --global user.email 2362020227@qq.com
@@ -28,4 +28,4 @@ jobs:
       - name: Git push
         uses: ad-m/github-push-action@main
         with:
-          github_token: ${{ secrets.AUTO_UPDATE_TOKEN }}
+          github_token: ${{secrets.AUTO_UPDATE_TOKEN}}
