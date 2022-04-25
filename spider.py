@@ -110,6 +110,13 @@ async def get_info(en_name, APIKEY):
     category = uma_data['acf']['category']['value']
     try:
         voice = uma_data['acf']['voice']
+        flag = await DownloadFile(en_name, voice)
+        if flag == 'exist':
+            logging.info(f'{en_name}的语音文件已存在，将不会重新下载')
+        elif flag == 'finish':
+            logging.info(f'{en_name}的语音文件已成功下载')
+        elif flag == 'failed':
+            logging.error(f'{en_name}的语音文件下载失败')
     except:
         voice = ''
     try:
@@ -145,7 +152,7 @@ async def get_info(en_name, APIKEY):
 
 # ocr识别
 async def download_ocr(en_name, url, APIKEY):
-    path = os.path.join(os.path.dirname(__file__), 'data/')
+    path = os.path.join(os.path.dirname(__file__), 'background_data/')
     if not os.path.exists(path):
         os.mkdir(path)
     response = httpx.get(url, timeout=10)
@@ -218,3 +225,20 @@ async def download_ocr(en_name, url, APIKEY):
     if en_name == 'fujikiseki':
         cv = '松井恵理子'
     return cv, bir, height, weight, measurements
+
+# 下载语音
+async def DownloadFile(en_name, mp3_url):
+    mp3_name = en_name + '.mp3'
+    path = os.path.join(os.path.dirname(__file__), 'voice_data/')
+    if not os.path.exists(path):
+        os.mkdir(path)
+    file_path = os.path.join(path, f'{mp3_name}')
+    if os.path.exists(file_path):
+        return 'exist'
+    res = httpx.get(mp3_url, stream=True)
+    if 200 == res.status_code:
+        with open(file_path, 'wb') as fd:
+            fd.write(res.content)
+        return 'finish'
+    else:
+        return 'failed'
