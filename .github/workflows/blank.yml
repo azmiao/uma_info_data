@@ -1,0 +1,31 @@
+name: uma_info_data_auto
+on:
+  schedule:
+    - cron: "0 18 * * *"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.8.12
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8.12
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Run main job
+        run: |
+          python update.py
+      - name: Git commit
+        run: |
+          git config --global user.email 2362020227@qq.com
+          git config --global user.name azmiao
+          git add .
+          git commit -m "Action:`date` - data update finished!"
+          git pull --rebase
+      - name: Git push
+        uses: ad-m/github-push-action@main
+        with:
+          github_token: ${{ secrets.AUTO_UPDATE_TOKEN }}
