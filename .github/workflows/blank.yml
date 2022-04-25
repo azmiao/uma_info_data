@@ -27,6 +27,6 @@ jobs:
           git commit -m "Action:`date` - data update finished!"
           git pull --rebase
       - name: Git push
-        uses: ad-m/github-push-action@main
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{secrets.AUTO_UPDATE_TOKEN}}
