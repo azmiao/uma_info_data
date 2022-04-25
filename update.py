@@ -30,21 +30,21 @@ async def auto_update_info(APIKEY):
             msg = f'马娘数据库自动更新完成，开始更新对应中文名'
             logging.info(msg)
         else:
-            msg = f'马娘数据库更新在更新{except_uma}时遇到问题，3分钟后将从该马娘开始继续更新'
+            msg = f'马娘数据库更新在更新{except_uma}时遇到问题，2分钟后将从该马娘开始继续更新'
             logging.error(msg)
-            await asyncio.sleep(180)
-            await auto_update_info()
+            await asyncio.sleep(120)
+            await auto_update_info(APIKEY)
             return
     except (IndexError, TypeError):
-        logging.error('马娘数据 OCR_SPACE API响应失败！将在3分钟后继续自动更新')
-        await asyncio.sleep(180)
-        await auto_update_info()
+        logging.error('马娘数据 OCR_SPACE API响应失败！将在2分钟后继续自动更新')
+        await asyncio.sleep(120)
+        await auto_update_info(APIKEY)
         return
     except Exception as e:
-        msg = f'马娘数据库自动更新失败，将在3分钟后继续自动更新，原因：{e}'
+        msg = f'马娘数据库自动更新失败，将在2分钟后继续自动更新，原因：{e}'
         logging.error(msg)
-        await asyncio.sleep(180)
-        await auto_update_info()
+        await asyncio.sleep(120)
+        await auto_update_info(APIKEY)
         return
     await get_cn(current_dir_tmp)
     await replace_config(current_dir_tmp, current_dir)

@@ -39,7 +39,7 @@ async def uma_spider(current_dir, APIKEY):
             break
         try:
             data, next_en_name, en_name = await get_info(en_name, APIKEY)
-        except httpx._exceptions:
+        except httpx.ReadTimeout:
             return en_name
         uma_data['current_chara'] = en_name
         uma_data[en_name] = data
