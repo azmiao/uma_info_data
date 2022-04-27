@@ -3,6 +3,7 @@ import os
 import asyncio
 import logging
 import argparse
+import datetime
 
 from spider import uma_spider, get_cn, replace_config
 
@@ -49,6 +50,11 @@ async def auto_update_info(APIKEY):
     await get_cn(current_dir_tmp)
     await replace_config(current_dir_tmp, current_dir)
     logging.info('马娘数据库中文名更新完成！任务结束！')
+    # 版本号，以时间存储
+    version_dir = os.path.join(os.path.dirname(__file__), 'version.txt')
+    now_time = datetime.datetime.now()
+    with open(version_dir, 'w', encoding='UTF-8') as f:
+        f.write(str(now_time))
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(add_help=False)
@@ -57,3 +63,4 @@ if __name__ == '__main__':
     APIKEY = args.key
     loop = asyncio.get_event_loop()
     loop.run_until_complete(auto_update_info(APIKEY))
+    logging.info(f'Action successed!')
