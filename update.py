@@ -18,7 +18,7 @@ async def auto_update_info(APIKEY):
             json.dump(data, af, indent=4, ensure_ascii=False)
         current_dir_tmp = current_dir
     else:
-        logging.info(f'====马娘数据库配置文件已，正在开始创建副本，完成后会覆盖原文件====')
+        logging.info(f'====马娘数据库配置文件已存在，正在开始创建副本，完成后会覆盖原文件====')
         data = {}
         current_dir_tmp = os.path.join(os.path.dirname(__file__), 'config_tmp.json')
         if not os.path.exists(current_dir_tmp):

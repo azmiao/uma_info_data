@@ -224,6 +224,10 @@ async def download_ocr(en_name, url, APIKEY):
         cv = '渡部優衣'
     if en_name == 'fujikiseki':
         cv = '松井恵理子'
+    if en_name == 'akasakamisato':
+        cv = '明坂聡美'
+    if en_name == 'hosoejunko':
+        cv = '細江純子'
     return cv, bir, height, weight, measurements
 
 # 下载语音
