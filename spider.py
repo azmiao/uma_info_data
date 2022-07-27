@@ -117,6 +117,8 @@ async def get_info(en_name, APIKEY):
             logging.info(f'{en_name}的语音文件已成功下载')
         elif flag == 'failed':
             logging.error(f'{en_name}的语音文件下载失败')
+        elif flag == 'no':
+            logging.info(f'{en_name}还没有语音')
     except Exception as e:
         logging.error(f'{en_name}的语音文件下载失败, {e}')
         voice = ''
@@ -240,6 +242,7 @@ async def DownloadFile(en_name, mp3_url):
     file_path = os.path.join(path, f'{mp3_name}')
     if os.path.exists(file_path):
         return 'exist'
+    if not mp3_url: return 'no'
     res = httpx.get(mp3_url)
     if 200 == res.status_code:
         with open(file_path, 'wb') as fd:
