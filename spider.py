@@ -117,7 +117,8 @@ async def get_info(en_name, APIKEY):
             logging.info(f'{en_name}的语音文件已成功下载')
         elif flag == 'failed':
             logging.error(f'{en_name}的语音文件下载失败')
-    except:
+    except Exception as e:
+        logging.error(f'{en_name}的语音文件下载失败, {e}')
         voice = ''
     try:
         uniform_img = uma_data['acf']['chara_img'][0]['image']
