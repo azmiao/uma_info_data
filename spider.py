@@ -240,7 +240,7 @@ async def DownloadFile(en_name, mp3_url):
     file_path = os.path.join(path, f'{mp3_name}')
     if os.path.exists(file_path):
         return 'exist'
-    res = httpx.get(mp3_url, stream=True)
+    res = httpx.get(mp3_url)
     if 200 == res.status_code:
         with open(file_path, 'wb') as fd:
             fd.write(res.content)
