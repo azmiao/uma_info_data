@@ -1,5 +1,7 @@
 # uma_info_data
 
+## Be sure to abide by the open source license GPL3.0, or you will suffer the consequences.
+
 a uma_data for [uma_plugin](https://github.com/azmiao/uma_plugin)
 
 This repository automatically updates data in the form of workflows, more basic data may be added here in the future.
