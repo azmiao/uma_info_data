@@ -1,116 +1,47 @@
 from bs4 import BeautifulSoup
-from urllib.parse import unquote
-import bs4
-import re
 import httpx
 
-headers = {'User-Agent': '"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; TencentTraveler 4.0)"'}
+com_str = ['grass', 'mud', 'short', 'middle', 'long', 'run_away', 'first', 'center', 'chase']
 
-async def get_cn_name():
-    url = 'https://wiki.biligame.com/umamusume/支援卡图鉴'
-    response = httpx.get(url, timeout=7)
-    resp_data = response.text
-    soup = BeautifulSoup(resp_data, 'lxml')
-    _tbody = get_tbody(soup)
-    trs = _tbody.find_all('tr')
-    att_dict = {'头像': 0, '名称': 1}
-    start_index = 2
-    index = 2
-    for th in trs[0].find_all('th')[start_index:]:
-        text = th.text
-        if text[-1] == '\n':
-            text = text[:-1]
-        att_dict[text] = index
-        index += 1
-    uma_dict = {}
-    for tr in trs[1:]:
-        member_dict = {}
-        tds = tr.find_all('td')
-        info_list = att_dict.keys()
-        for key in info_list:
-            attr = ''
-            td = tds[att_dict[key]]
-            last_tag = unquote(_find_last_tag(td, attr), 'utf-8')
-            member_dict[key] = last_tag
-            member_dict = intermediate_check(member_dict, key, td)
-        # print(member_dict) # 这是全部的数据
-        jp_name_tmp = re.search(r'\S+】(\S+)', member_dict['名称'])
-        jp_name = jp_name_tmp.group(1)
-        uma_dict[jp_name] = {}
-        uma_dict[jp_name]['cn_name'] = member_dict['关联角色']
-        try:
-            uma_dict[jp_name]['grass'] = re.search(r'(\S)图标', member_dict['草地']).group(1)
-            uma_dict[jp_name]['mud'] = re.search(r'(\S)图标', member_dict['泥地']).group(1)
-            uma_dict[jp_name]['short'] = re.search(r'(\S)图标', member_dict['短距']).group(1)
-            uma_dict[jp_name]['mile'] = re.search(r'(\S)图标', member_dict['英里']).group(1)
-            uma_dict[jp_name]['middle'] = re.search(r'(\S)图标', member_dict['中距']).group(1)
-            uma_dict[jp_name]['long'] = re.search(r'(\S)图标', member_dict['长距']).group(1)
-            uma_dict[jp_name]['run_away'] = re.search(r'(\S)图标', member_dict['逃']).group(1)
-            uma_dict[jp_name]['first'] = re.search(r'(\S)图标', member_dict['先行']).group(1)
-            uma_dict[jp_name]['center'] = re.search(r'(\S)图标', member_dict['差行']).group(1)
-            uma_dict[jp_name]['chase'] = re.search(r'(\S)图标', member_dict['追']).group(1)
-        except:
-            uma_dict[jp_name]['grass'] = ''
-            uma_dict[jp_name]['mud'] = ''
-            uma_dict[jp_name]['short'] = ''
-            uma_dict[jp_name]['mile'] = ''
-            uma_dict[jp_name]['middle'] = ''
-            uma_dict[jp_name]['long'] = ''
-            uma_dict[jp_name]['run_away'] = ''
-            uma_dict[jp_name]['first'] = ''
-            uma_dict[jp_name]['center'] = ''
-            uma_dict[jp_name]['chase'] = ''
-        # 什么？我绿帽难道不应该是马娘战神吗？
-        if uma_dict[jp_name]['cn_name'] == '骏川缰绳':
-            uma_dict[jp_name]['grass'] = 'S'
-            uma_dict[jp_name]['mud'] = 'S'
-            uma_dict[jp_name]['short'] = 'S'
-            uma_dict[jp_name]['mile'] = 'S'
-            uma_dict[jp_name]['middle'] = 'S'
-            uma_dict[jp_name]['long'] = 'S'
-            uma_dict[jp_name]['run_away'] = 'S'
-            uma_dict[jp_name]['first'] = 'S'
-            uma_dict[jp_name]['center'] = 'S'
-            uma_dict[jp_name]['chase'] = 'S'
+# 获取马娘的适应性 | 和支援卡的适应性略有不同
+async def get_com_uma(uma_dict):
+    url = 'https://wiki.biligame.com/umamusume/赛马娘图鉴'
+    res = httpx.get(url, timeout=15)
+    soup = BeautifulSoup(res.text, 'lxml')
+    uma_list_tmp = soup.find_all('tr')
+    uma_list = [x for x in uma_list_tmp if x.get('data-param1') in ['3', '2', '1']]
+    for uma_info in uma_list:
+        jp_name = uma_info.find_all('span', {'lang':'ja'})[1].text
+        if jp_name not in uma_dict:
+            uma_dict[jp_name] = {'cn_name': uma_info.find_all('span', {'lang':'ja'})[1].find('a').get('title').split('】')[-1]}
+        com_list = uma_info.find_all('div', {'style':'display:none'})
+        i = 0
+        for c_type in com_str:
+            uma_dict[jp_name][c_type] = com_list[i].text.strip()
+            i += 1
     return uma_dict
 
-def get_tbody(soup: bs4.BeautifulSoup):
-    max_count = 0
-    _tbody = None
-    for tbody in soup.find_all('tbody'):
-        if len(tbody.find_all('tr')) > max_count:
-            _tbody = tbody
-            max_count = len(tbody.find_all('tr'))
-    return _tbody
-
-def _find_last_tag(element: bs4.element.Tag, attr: str) -> str:
-    last_tag = []
-    for des in element.descendants:
-        last_tag.append(des)
-    if len(last_tag) == 1 and last_tag[0] == '\n':
-        last_tag = ''
-    elif last_tag[-1] == '\n':
-        last_tag = last_tag[-2]
-    else:
-        last_tag = last_tag[-1]
-    if attr and str(last_tag):
-        last_tag = last_tag[attr]
-    elif str(last_tag).find('<img') != -1:
-        if last_tag.get('srcset'):
-            last_tag = str(last_tag.get('srcset')).strip().split(' ')[-2].strip()
-        else:
-            last_tag = last_tag['src']
-    else:
-        last_tag = str(last_tag)
-    if str(last_tag) and str(last_tag)[-1] == '\n':
-        last_tag = str(last_tag)[:-1]
-    return last_tag
-
-def intermediate_check(member_dict: dict, key: str, td: bs4.element.Tag):
-    if key == '获取方式':
-        obtain = []
-        for x in str(td.text).replace('\n', '').strip().split('、'):
-            if x:
-                obtain.append(x)
-        member_dict['获取方式'] = obtain
-    return member_dict
+async def get_cn_name():
+    uma_dict = {}
+    url = 'https://wiki.biligame.com/umamusume/支援卡图鉴'
+    res = httpx.get(url, timeout=15)
+    soup = BeautifulSoup(res.text, 'lxml')
+    # 青春杯获取的适应性
+    uma_list_tmp = soup.find_all('tr')
+    uma_list = [x for x in uma_list_tmp if x.get('data-param1') in ['SSR', 'SR', 'R']]
+    for uma_info in uma_list:
+        jp_name = uma_info.find('div', {'style':'position:relative;width:100px;margin:auto;'}).find('a').get('title').split('】')[-1]
+        com_list = uma_info.find_all('td', {'class':'visible-md visible-sm visible-lg'})
+        if com_list[2].text.strip() == '团队': continue
+        uma_dict[jp_name] = {}
+        uma_dict[jp_name]['cn_name'] = com_list[0].text.strip()
+        i = 0
+        for c_type in com_str:
+            uma_dict[jp_name][c_type] = com_list[i+4].text.strip()
+            i += 1
+    # 实际马娘适应性
+    uma_dict = await get_com_uma(uma_dict)
+    # 绿帽战神
+    for c_type in com_str:
+        uma_dict['駿川たづな'][c_type] = 'S'
+    return uma_dict
