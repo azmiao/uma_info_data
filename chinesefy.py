@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import httpx
 
-com_str = ['grass', 'mud', 'short', 'middle', 'long', 'run_away', 'first', 'center', 'chase']
+com_str = ['grass', 'mud', 'short', 'mile', 'middle', 'long', 'run_away', 'first', 'center', 'chase']
 
 # 获取马娘的适应性 | 和支援卡的适应性略有不同
 async def get_com_uma(uma_dict):
