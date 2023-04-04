@@ -11,6 +11,8 @@ async def get_com_uma(uma_dict):
     uma_list_tmp = soup.find_all('tr')
     uma_list = [x for x in uma_list_tmp if x.get('data-param1') in ['3', '2', '1']]
     for uma_info in uma_list:
+        if uma_info.find_all('span', {'lang':'ja'})[0].text == '[[测试/模板:赛马娘|]]':
+            continue
         jp_name = uma_info.find_all('span', {'lang':'ja'})[1].text
         if jp_name not in uma_dict:
             uma_dict[jp_name] = {'cn_name': uma_info.find_all('span', {'lang':'ja'})[1].find('a').get('title').split('】')[-1]}
