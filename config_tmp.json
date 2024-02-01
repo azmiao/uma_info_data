@@ -698,7 +698,7 @@
         "run_away": "G",
         "first": "C",
         "center": "A",
-        "chase": "C"
+        "chase": "A"
     },
     "mihonobourbon": {
         "id": 5111,
@@ -802,7 +802,7 @@
         "next_en_name": "riceshower",
         "cn_name": "雪之美人",
         "grass": "A",
-        "mud": "B",
+        "mud": "A",
         "short": "D",
         "mile": "A",
         "middle": "A",
