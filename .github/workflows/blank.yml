@@ -18,7 +18,7 @@ jobs:
           pip install -r requirements.txt
       - name: Run main job
         run: |
-          python update.py -key ${{secrets.APIKEY}}
+          python update.py
       - name: Git commit
         run: |
           git config --global user.email 2362020227@qq.com

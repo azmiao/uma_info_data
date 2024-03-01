@@ -1,5 +1,5 @@
-beautifulsoup4==4.10.0
-httpx==0.22.0
-Pillow==9.0.1
-lxml==4.7.1
-datetime==4.4
+beautifulsoup4~=4.12.0
+httpx~=0.26.0
+lxml~=4.8.0
+datetime~=4.4
+python-dateutil~=2.8.2

@@ -1,252 +1,129 @@
-import json
-import httpx
-import logging
 import re
-import os
-from PIL import Image
+
+from bs4 import BeautifulSoup
 
 from chinesefy import get_cn_name
+from detail_class import uma_from_dict, Uma, Adapt, uma_to_dict
+from utils import *
 
-# 将缓存文件内容拷贝到真实的配置文件内
-async def replace_config(current_dir_tmp, current_dir):
-    with open(current_dir_tmp, 'r', encoding = 'UTF-8') as f:
-        uma_data = json.load(f)
-        f.close()
-    with open(current_dir, 'w', encoding = 'UTF-8') as af:
-        json.dump(uma_data, af, indent=4, ensure_ascii=False)
 
-class Dict(dict):
-    __setattr__ = dict.__setitem__
-    __getattr__ = dict.__getitem__
+# consistent with the result of using the "window.__ NUXT__.config" command through the browser console
+async def get_nuxt_config() -> dict:
+    logging.info('> Start getting nuxt config...')
+    response = await async_request(f'https://{uma_domain}/character')
+    soup = BeautifulSoup(response.text, 'lxml')
+    soup_find = soup.find('script', text=re.compile(r'window\.__NUXT__\.config'))
+    if soup_find is None:
+        raise Exception('Cannot find nuxt_config in html!')
+    find_text = soup_find.text
+    strip_list = find_text.split(';')
 
-async def uma_spider(current_dir, APIKEY):
-    with open(current_dir, 'r', encoding = 'UTF-8') as f:
-        uma_data = json.load(f)
-        f.close()
-    try:
-        en_name = uma_data['current_chara']
-    except:
-        en_name = 'specialweek'
-    if en_name == 'specialweek':
-        uma_data = {}
-    next_en_name = ''
-    while(1):
-        if next_en_name == 'specialweek':
-            uma_data['current_chara'] = 'specialweek'
-            with open(current_dir, 'w', encoding = 'UTF-8') as af:
-                json.dump(uma_data, af, indent=4, ensure_ascii=False)
-                af.close()
-            break
-        try:
-            data, next_en_name, en_name = await get_info(en_name, APIKEY)
-        except httpx.ReadTimeout:
-            return en_name
-        uma_data['current_chara'] = en_name
-        uma_data[en_name] = data
-        logging.info(f'成功处理{en_name}的数据！')
-        en_name = next_en_name
-        with open(current_dir, 'w', encoding = 'UTF-8') as af:
-            json.dump(uma_data, af, indent=4, ensure_ascii=False)
-            af.close()
-    return ''
+    # json parse
+    nuxt_config = {}
+    for strip in strip_list:
+        if 'window.__NUXT__.config' in strip:
+            raw_config = strip.replace('window.__NUXT__.config=', '')
+            # format json
+            valid_json_data = re.sub(r'(?!https?)\b(\w+):', r'"\1":', raw_config)
+            nuxt_config = json.loads(valid_json_data)
+    logging.info(f'nuxt config: {nuxt_config}')
+    if not nuxt_config:
+        raise Exception('Parse nuxt_config failed!')
+    return nuxt_config
 
-# 拿到中文名字
-async def get_cn(current_dir):
-    uma_dict = await get_cn_name()
-    with open(current_dir, 'r', encoding = 'UTF-8') as f:
-        f_data = json.load(f)
-        f.close()
-    name_list = list(f_data.keys())
-    name_list.remove('current_chara')
-    for en_name in name_list:
-        jp_name = f_data[en_name]['jp_name']
-        try:
-            cn_name = uma_dict[jp_name]['cn_name']
-            if cn_name == '乌拉拉':
-                cn_name = '春' + cn_name
-        except:
-            cn_name = ''
-        try:
-            grass = uma_dict[jp_name]['grass']
-            mud = uma_dict[jp_name]['mud']
-            short = uma_dict[jp_name]['short']
-            mile = uma_dict[jp_name]['mile']
-            middle = uma_dict[jp_name]['middle']
-            long = uma_dict[jp_name]['long']
-            run_away = uma_dict[jp_name]['run_away']
-            first = uma_dict[jp_name]['first']
-            center = uma_dict[jp_name]['center']
-            chase = uma_dict[jp_name]['chase']
-        except:
-            grass, mud, short, mile, middle, long, run_away, first, center, chase = '', '', '', '', '', '', '', '', '', ''
-        f_data[en_name]['cn_name'] = cn_name
-        f_data[en_name]['grass'] = grass
-        f_data[en_name]['mud'] = mud
-        f_data[en_name]['short'] = short
-        f_data[en_name]['mile'] = mile
-        f_data[en_name]['middle'] = middle
-        f_data[en_name]['long'] = long
-        f_data[en_name]['run_away'] = run_away
-        f_data[en_name]['first'] = first
-        f_data[en_name]['center'] = center
-        f_data[en_name]['chase'] = chase
 
-    with open(current_dir, 'w', encoding = 'UTF-8') as af:
-        json.dump(f_data, af, indent=4, ensure_ascii=False)
-        af.close()
+# get id list from character page
+async def get_uma_id_list(nuxt_config: dict) -> list:
+    logging.info('> Start getting uma id list...')
+    micro_cms = nuxt_config.get('public', {}).get('microCMS', {})
+    micro_key = micro_cms.get('apiKey', '')
+    micro_domain = micro_cms.get('serviceDomain', '')
+    default_headers['X-Microcms-Api-Key'] = micro_key
 
-# 获取官网数据
-async def get_info(en_name, APIKEY):
-    url = f'https://umamusume.jp/app/wp-json/wp/v2/character?slug={en_name}'
-    params = {
-        'pragma': 'no-cache',
-        'referer': f'https://umamusume.jp/character/detail/?name={en_name}'
-    }
-    uma_res = httpx.get(url, params = params, timeout = 10)
-    uma_json = uma_res.json(object_hook=Dict)
-    uma_data = uma_json[0]
-    detail_img = uma_data['acf']['detail_img']['pc']
-    cv, bir, height, weight, measurements = await download_ocr(en_name, detail_img, APIKEY)
-    category = uma_data['acf']['category']['value']
-    try:
-        voice = uma_data['acf']['voice']
-        flag = await DownloadFile(en_name, voice)
-        if flag == 'exist':
-            logging.info(f'{en_name}的语音文件已存在，将不会重新下载')
-        elif flag == 'finish':
-            logging.info(f'{en_name}的语音文件已成功下载')
-        elif flag == 'failed':
-            logging.error(f'{en_name}的语音文件下载失败')
-        elif flag == 'no':
-            logging.info(f'{en_name}还没有语音')
-    except Exception as e:
-        logging.error(f'{en_name}的语音文件下载失败, {e}')
-        voice = ''
-    try:
-        uniform_img = uma_data['acf']['chara_img'][0]['image']
-    except:
-        uniform_img =''
-    try:
-        winning_suit_img = uma_data['acf']['chara_img'][1]['image']
-    except:
-        winning_suit_img = ''
-    try:
-        original_img = uma_data['acf']['chara_img'][2]['image']
-    except:
-        original_img = ''
-    data = {
-        'id': uma_data['id'],
-        'jp_name': uma_data['title']['rendered'],
-        'category': category,
-        'voice': voice,
-        'uniform_img': uniform_img,
-        'winning_suit_img': winning_suit_img,
-        'original_img': original_img,
-        'cv': cv,
-        'bir': bir,
-        'height': height,
-        'weight': weight,
-        'measurements': measurements,
-        'sns_icon': uma_data['acf']['sns_icon'],
-        'prev_en_name': uma_data['next']['slug'],
-        'next_en_name': uma_data['prev']['slug']
-    }
-    return data, data['next_en_name'], en_name
+    # params
+    params = [
+        ('fields', 'id'),
+        ('limit', 10000),
+        ('offset', 0)
+    ]
+    # request
+    response = await async_request(
+        f'https://{micro_domain}.microcms.io/api/v1/character',
+        headers=default_headers,
+        params=params,
+        timeout=600
+    )
+    response_json = dict(response.json())
 
-# ocr识别
-async def download_ocr(en_name, url, APIKEY):
-    path = os.path.join(os.path.dirname(__file__), 'background_data/')
-    if not os.path.exists(path):
-        os.mkdir(path)
-    response = httpx.get(url, timeout=10)
-    resp_data = response.content
-    current_dir = os.path.join(path, f'{en_name}.png')
-    with open(current_dir, 'wb') as f:
-        f.write(resp_data)
-    # 调整分辨率
-    img = Image.open(current_dir)
-    imgSize = img.size
-    if imgSize != (1292, 836):
-        out = img.resize((1292, 836), Image.ANTIALIAS)
-        out.save(current_dir)
+    # get id list
+    return [x.get('id', '') for x in response_json.get('contents', [])]
 
-    api = 'https://api.ocr.space/parse/image'
-    data = {
-        'apikey': APIKEY,
-        'language': 'jpn',
-        'filetype': 'PNG',
-        'scale': True,
-        'detectOrientation': False
-    }
-    with open(current_dir,'rb') as f:
-        resp = httpx.post(api, files = {f'{en_name}.png': f}, data = data, timeout = 60)
-        res_json = resp.json(object_hook=Dict)
-    text = res_json['ParsedResults'][0]['ParsedText'].replace('\r\n', '')
-    cv, bir, height, weight, measurements = '', '', '', '', ''
-    text = str(text)
-    cv_tmp = re.search(r'CV:(\S+)([0-9]+月)', text)
-    cv = cv_tmp.group(1) if cv_tmp else cv
-    # 修正ocr识别问题
-    cv = cv.replace('0', 'o').replace('、', '').replace('小自唯', '小仓唯')
-    bir_tmp = re.search(r'([0-9]+月[0-9]+日)', text)
-    if bir_tmp:
-        bir = bir_tmp.group(0) if bir_tmp else bir
-        bir = bir.replace('月', '-').replace('日', '')
-        bir_list = bir.split('-', 1)
-        bir = '-'.join(str(int(bir_num, 10)) for bir_num in bir_list)
-    height_tmp = re.search(r'([0-9][0-9][0-9])5', text)
-    height_tmp_2 = re.search(r'([0-9][0-9][0-9])(c|C|。)m', text)
-    height_tmp_3 = re.search(r'[0-9][0-9][0-9]', text)
-    if height_tmp:
-        height = height_tmp.group(1)
-        weight_tmp = re.search(r'([0-9][0-9][0-9])5(\S*)(B[0-9][0-9])', text)
-        weight = weight_tmp.group(2) if weight_tmp else weight
-    elif height_tmp_2:
-        height = height_tmp_2.group(1)
-        weight_tmp = re.search(r'([0-9][0-9][0-9])(c|C|。)m(\S*)(B[0-9][0-9])', text)
-        weight = weight_tmp.group(3) if weight_tmp else weight
-    elif height_tmp_3:
-        height = height_tmp_3.group(0)
-        weight_tmp = re.search(r'([0-9][0-9][0-9])(\S*)(B[0-9][0-9])', text)
-        weight = weight_tmp.group(2) if weight_tmp else weight
-    else:
-        height = height
-        weight = weight
-    measurements_tmp = re.search(r'(B[0-9]+・W[0-9]+・H[0-9]+)', text)
-    measurements = measurements_tmp.group(0) if measurements_tmp else measurements
-    # 这写ocr顺序有问题，正则匹配结果异常
-    if en_name == 'currenchan':
-        cv, weight = '篠原侑', 'ひ・み・つ'
-    if en_name == 'marveloussunday':
-        cv, bir, height, weight, measurements = '三宅麻理恵', '5-31', '145', 'マーベラス!', 'B87・W52・H77'
-    if en_name == 'bikopegasus':
-        cv, weight = '田中あいみ', '体重微増（いっぱい食べて大きくなる！）'
-    if en_name == 'kitasanblack':
-        cv, weight = '矢野妃菜喜', 'もりもり成長中!'
-    if en_name == 'winningticket':
-        cv = '渡部優衣'
-    if en_name == 'fujikiseki':
-        cv = '松井恵理子'
-    if en_name == 'akasakamisato':
-        cv = '明坂聡美'
-    if en_name == 'hosoejunko':
-        cv = '細江純子'
-    return cv, bir, height, weight, measurements
 
-# 下载语音
-async def DownloadFile(en_name, mp3_url):
-    mp3_name = en_name + '.mp3'
-    path = os.path.join(os.path.dirname(__file__), 'voice_data/')
-    if not os.path.exists(path):
-        os.mkdir(path)
-    file_path = os.path.join(path, f'{mp3_name}')
-    if os.path.exists(file_path):
-        return 'exist'
-    if not mp3_url: return 'no'
-    res = httpx.get(mp3_url)
-    if 200 == res.status_code:
-        with open(file_path, 'wb') as fd:
-            fd.write(res.content)
-        return 'finish'
-    else:
-        return 'failed'
+# get uma detail from character detail page
+async def get_uma_detail(nuxt_config: dict, uma_id: str) -> Uma:
+    micro_cms = nuxt_config.get('public', {}).get('microCMS', {})
+    micro_key = micro_cms.get('apiKey', '')
+    micro_domain = micro_cms.get('serviceDomain', '')
+    default_headers['X-Microcms-Api-Key'] = micro_key
+
+    # request
+    response = await async_request(
+        f'https://{micro_domain}.microcms.io/api/v1/character/{uma_id}',
+        headers=default_headers,
+        timeout=600
+    )
+    return uma_from_dict(json.loads(response.text))
+
+
+async def uma_spider(current_dir):
+    # result list
+    uma_json_dict = {}
+    # get micro_cms config
+    nuxt_config = await get_nuxt_config()
+    # get id list
+    id_list = await get_uma_id_list(nuxt_config)
+    logging.info(f'uma id list: {id_list}')
+    # get uma detail
+    uma_list = []
+    logging.info(f'> Start getting detail info...')
+    for uma_id in id_list:
+        logging.info(f' - {uma_id}')
+        uma_detail = await get_uma_detail(nuxt_config, uma_id)
+        uma_list.append(uma_detail)
+    logging.info(f'> Detail info query finished.')
+
+    # file_dir | mkdir if not exist
+    voice_dir = os.path.join(dir_name, 'voice_data')
+    if not os.path.exists(voice_dir):
+        logging.info('voice_data dir is not exist, we will create it.')
+        os.mkdir(voice_dir)
+
+    # add chinese's prop
+    cn_uma_dict = await get_cn_name()
+    for uma in uma_list:
+        jp_name = uma.name
+        uma_prop = cn_uma_dict.get(jp_name, {})
+        # cn_name
+        uma.cn_name = uma_prop.get('cn_name', '')
+        # adapt
+        uma.adapt = Adapt(
+            uma_prop.get('grass', ''),
+            uma_prop.get('mud', ''),
+            uma_prop.get('short', ''),
+            uma_prop.get('mile', ''),
+            uma_prop.get('middle', ''),
+            uma_prop.get('long', ''),
+            uma_prop.get('run_away', ''),
+            uma_prop.get('first', ''),
+            uma_prop.get('center', ''),
+            uma_prop.get('chase', ''),
+        )
+        # download voice
+        await download_file(uma.voice.url, voice_dir, f'{uma.id}.mp3')
+        # trans to json dict and save
+        uma_json_dict[uma.id] = uma_to_dict(uma)
+
+    # write into file
+    logging.info(f'uma_json_dict: {uma_json_dict}')
+    with open(current_dir, 'w', encoding='UTF-8') as af:
+        json.dump(uma_json_dict, af, indent=4, ensure_ascii=False)
