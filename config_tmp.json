@@ -16320,11 +16320,11 @@
     "rheinkraft": {
         "id": "rheinkraft",
         "createdAt": "2024-01-22T14:06:02.837000+00:00",
-        "updatedAt": "2024-03-12T05:54:48.539000+00:00",
+        "updatedAt": "2024-03-21T08:00:45.363000+00:00",
         "publishedAt": "2024-01-22T14:06:02.837000+00:00",
-        "revisedAt": "2024-03-12T05:54:48.539000+00:00",
+        "revisedAt": "2024-03-21T08:00:45.363000+00:00",
         "name": "ラインクラフト",
-        "cn_name": "",
+        "cn_name": "莱茵力量",
         "en": "Rhein Kraft",
         "catch": "一緒に日向ぼっこしませんか？\nよかったら、ここ……お隣どうぞ！",
         "cv": "小島菜々恵",
@@ -16349,7 +16349,7 @@
         "weight": "ほんわか",
         "size": "B85・W55・H83",
         "detail": "日向ぼっこが大好きな、明るく朗らかなウマ娘。\nトリプルティアラに並々ならぬ憧れと情熱を抱いており、自分もその道を継ぐ者になりたいと日々努力を重ねている。\n頑固さや行動力もありつつも、普段はのほほんとしており、周囲をほっこりとした気分にしてくれる。",
-        "movie_id": "",
+        "movie_id": "wHk3XH1JcFc",
         "is_top": true,
         "is_music": false,
         "list_thumb": {
@@ -16444,16 +16444,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "G",
+            "short": "A",
+            "mile": "A",
+            "middle": "B",
+            "long": "G",
+            "run_away": "E",
+            "first": "A",
+            "center": "C",
+            "chase": "G"
         }
     },
     "cesario": {
