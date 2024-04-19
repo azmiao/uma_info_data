@@ -15368,9 +15368,9 @@
     "soundsofearth": {
         "id": "soundsofearth",
         "createdAt": "2024-01-22T14:06:02.823000+00:00",
-        "updatedAt": "2024-03-12T05:54:11.183000+00:00",
+        "updatedAt": "2024-04-19T09:00:56.180000+00:00",
         "publishedAt": "2024-01-22T14:06:02.823000+00:00",
-        "revisedAt": "2024-03-12T05:54:11.183000+00:00",
+        "revisedAt": "2024-04-19T09:00:56.180000+00:00",
         "name": "サウンズオブアース",
         "cn_name": "万籁争鸣",
         "en": "Sounds of Earth",
@@ -15397,7 +15397,7 @@
         "weight": "ベニッシモ！",
         "size": "B80・W52・H81",
         "detail": "レースは地球とのアンサンブル、出走ウマ娘はセッション相手。\n『レースで最高の音を奏でる』、それこそが己の本懐だと言ってはばからない、音楽を何より愛する天性の芸術家。\n情熱的な性格で、認めたライバルを熱烈に口説くことも。\n特技はバイオリンの演奏、好きな花はハナミズキ。",
-        "movie_id": "",
+        "movie_id": "G3RpDfIv8G0",
         "is_top": true,
         "is_music": true,
         "list_thumb": {
@@ -15428,6 +15428,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b33ce60e64f44c9eaea3085fb1f8b6ac/soundsofearth_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d32020f93af44536ab1120de82fa5e27/soundsofearth_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f64f299d136940ab8413041dadc050d1/soundsofearth_02.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -15471,16 +15492,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "G",
+            "short": "G",
+            "mile": "F",
+            "middle": "A",
+            "long": "A",
+            "run_away": "G",
+            "first": "B",
+            "center": "A",
+            "chase": "E"
         }
     },
     "royceandroyce": {
