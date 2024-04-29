@@ -14023,9 +14023,9 @@
     "dantsuflame": {
         "id": "dantsuflame",
         "createdAt": "2024-01-22T14:06:02.842000+00:00",
-        "updatedAt": "2024-03-12T05:52:48.015000+00:00",
+        "updatedAt": "2024-04-28T12:28:41.451000+00:00",
         "publishedAt": "2024-01-22T14:06:02.842000+00:00",
-        "revisedAt": "2024-03-12T05:52:48.015000+00:00",
+        "revisedAt": "2024-04-28T12:28:41.451000+00:00",
         "name": "ダンツフレーム",
         "cn_name": "",
         "en": "Dantsu Flame",
@@ -14108,7 +14108,7 @@
             }
         ],
         "voice": {
-            "url": ""
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c79e5c12df2f4e4bb2f6d28263cfa0d9/dantsuflame_voice.mp3"
         },
         "download": {
             "fieldId": "download",
