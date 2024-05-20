@@ -12527,9 +12527,9 @@
     "northflight": {
         "id": "northflight",
         "createdAt": "2024-01-22T14:06:02.805000+00:00",
-        "updatedAt": "2024-03-27T07:04:40.641000+00:00",
+        "updatedAt": "2024-05-20T09:01:46.128000+00:00",
         "publishedAt": "2024-01-22T14:06:02.805000+00:00",
-        "revisedAt": "2024-03-27T07:04:40.641000+00:00",
+        "revisedAt": "2024-05-20T09:01:46.128000+00:00",
         "name": "ノースフライト",
         "cn_name": "北方飞翔",
         "en": "North Flight",
@@ -12554,7 +12554,7 @@
         "weight": "成長中",
         "size": "B82・W51・H80",
         "detail": "何でもドレスアップするのが大好きなお洒落さん。\n「どんな素材もデザインと着こなし次第で輝く」というのが彼女のモットーだが、それは彼女自身の体質と経験が基になっているようだ。\n『フーちゃんのファッションアドバイス』は学園のウマ娘たちの間で大人気。",
-        "movie_id": "",
+        "movie_id": "dM0K9ebwaSc",
         "is_top": null,
         "is_music": false,
         "list_thumb": {
@@ -12585,6 +12585,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9c691e0cf2c54935bbd07634aa233d14/northflight_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/403bfcdbe2a840db9e4decb65fcbe1e2/northflight_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/346b92186eaf40edb4034c30aecbfd10/northflight_02.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -12628,16 +12649,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "G",
+            "short": "C",
+            "mile": "A",
+            "middle": "B",
+            "long": "G",
+            "run_away": "D",
+            "first": "A",
+            "center": "D",
+            "chase": "C"
         }
     },
     "symbolikriss": {
