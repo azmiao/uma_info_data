@@ -4742,9 +4742,9 @@
     "inesfujin": {
         "id": "inesfujin",
         "createdAt": "2024-01-22T14:06:02.765000+00:00",
-        "updatedAt": "2024-03-12T05:39:34.386000+00:00",
+        "updatedAt": "2024-05-22T02:30:14.867000+00:00",
         "publishedAt": "2024-01-22T14:06:02.765000+00:00",
-        "revisedAt": "2024-03-12T05:39:34.386000+00:00",
+        "revisedAt": "2024-05-22T02:30:14.867000+00:00",
         "name": "アイネスフウジン",
         "cn_name": "艾尼斯风神",
         "en": "Ines Fujin",
@@ -4869,7 +4869,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/36be0cff20034adeb984e558f2a0bf52/inesfujin_voice.wav"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e5682980e9244b5d826da740f600c342/inesfujin_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -11747,9 +11747,9 @@
     "sakuralaurel": {
         "id": "sakuralaurel",
         "createdAt": "2024-01-22T14:06:02.802000+00:00",
-        "updatedAt": "2024-03-12T05:51:13.959000+00:00",
+        "updatedAt": "2024-05-22T02:30:37.336000+00:00",
         "publishedAt": "2024-01-22T14:06:02.802000+00:00",
-        "revisedAt": "2024-03-12T05:51:13.959000+00:00",
+        "revisedAt": "2024-05-22T02:30:37.336000+00:00",
         "name": "サクラローレル",
         "cn_name": "樱花桂冠",
         "en": "Sakura Laurel",
@@ -11853,7 +11853,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a78ed59227cc43cabc62bbf6360ca715/sakuralaurel_voice.wav"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1845d41e76d843fe90c05b6eb191a326/sakuralaurel_voice.mp3"
         },
         "download": {
             "fieldId": "download",
