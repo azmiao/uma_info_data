@@ -14044,9 +14044,9 @@
     "dantsuflame": {
         "id": "dantsuflame",
         "createdAt": "2024-01-22T14:06:02.842000+00:00",
-        "updatedAt": "2024-04-28T12:28:41.451000+00:00",
+        "updatedAt": "2024-05-24T10:03:07.449000+00:00",
         "publishedAt": "2024-01-22T14:06:02.842000+00:00",
-        "revisedAt": "2024-04-28T12:28:41.451000+00:00",
+        "revisedAt": "2024-05-24T10:03:07.449000+00:00",
         "name": "ダンツフレーム",
         "cn_name": "烈焰快驹",
         "en": "Dantsu Flame",
@@ -14073,7 +14073,7 @@
         "detail": "他人に頼まれたらついつい付き合っちゃう、お人よしなウマ娘。\n自分に自信はあんまりないけれど、いつまでもレースで走れたらいいな、と願ってひたむきに努力している。\n流されやすいため、個性的な同期たちによく振り回されているようだ。",
         "movie_id": "",
         "is_top": null,
-        "is_music": false,
+        "is_music": true,
         "list_thumb": {
             "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9367bd41586947ecb0d7d83e9a16e431/dantsuflame_list.png",
             "height": 389,
@@ -17027,9 +17027,9 @@
     "happymeek": {
         "id": "happymeek",
         "createdAt": "2024-01-22T14:06:01.640000+00:00",
-        "updatedAt": "2024-02-08T03:38:27.363000+00:00",
+        "updatedAt": "2024-05-24T10:05:59.328000+00:00",
         "publishedAt": "2024-01-22T14:06:01.640000+00:00",
-        "revisedAt": "2024-02-08T03:38:27.363000+00:00",
+        "revisedAt": "2024-05-24T10:05:59.328000+00:00",
         "name": "ハッピーミーク",
         "cn_name": "",
         "en": "Happy Meek",
@@ -17056,7 +17056,7 @@
         "detail": "のんびり、ぼんやり、ふんわり系ウマ娘。\n口数が少なく、ぼーっとしていることが多い。\nなにを考えているかわからないと言われがちだが……なにも考えていなかったりもする。\n担当トレーナーである桐生院葵の指導のもと、トゥインクル・シリーズでの活躍を目指す。",
         "movie_id": "",
         "is_top": null,
-        "is_music": true,
+        "is_music": false,
         "list_thumb": {
             "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2a04bc169cf4436a93ab79f19c19b966/happymik_list.png",
             "height": 389,
@@ -17597,9 +17597,9 @@
     "hayakawatazuna": {
         "id": "hayakawatazuna",
         "createdAt": "2024-01-22T14:06:01.640000+00:00",
-        "updatedAt": "2024-02-13T08:24:50.655000+00:00",
+        "updatedAt": "2024-05-24T10:04:13.252000+00:00",
         "publishedAt": "2024-01-22T14:06:01.640000+00:00",
-        "revisedAt": "2024-02-13T08:24:50.655000+00:00",
+        "revisedAt": "2024-05-24T10:04:13.252000+00:00",
         "name": "駿川たづな",
         "cn_name": "骏川缰绳",
         "en": "Hayakawa Tazuna",
@@ -17626,7 +17626,7 @@
         "detail": "トレセン学園の理事長秘書。\nトレーナー、生徒、そして理事長の優しいサポート役。\n『快適な学園生活を届けたい』という思いで、事務作業や掲示物の管理など、幅広く業務をさばいている。\n門限破りの違反者を捕まえることもあり、手腕だけでなく脚力も一級品。",
         "movie_id": "",
         "is_top": null,
-        "is_music": true,
+        "is_music": false,
         "list_thumb": {
             "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/10329e7971be44b99741c89492ef9d06/hayakawatazuna_list.png",
             "height": 389,
@@ -18737,9 +18737,9 @@
     "akasakamisato": {
         "id": "akasakamisato",
         "createdAt": "2024-01-22T14:06:01.641000+00:00",
-        "updatedAt": "2024-02-08T03:36:05.978000+00:00",
+        "updatedAt": "2024-05-24T10:04:22.580000+00:00",
         "publishedAt": "2024-01-22T14:06:01.641000+00:00",
-        "revisedAt": "2024-02-08T03:36:05.978000+00:00",
+        "revisedAt": "2024-05-24T10:04:22.580000+00:00",
         "name": "赤坂美聡",
         "cn_name": "",
         "en": "Akasaka Misato",
@@ -18766,7 +18766,7 @@
         "detail": "『トゥインクル・シリーズ』などの実況を務めている、実力派のアナウンサー。",
         "movie_id": "",
         "is_top": null,
-        "is_music": true,
+        "is_music": false,
         "list_thumb": {
             "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/69658f1d37444b62a8e451e9b8039fdc/akasakamisato_list.png",
             "height": 389,
