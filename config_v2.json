@@ -2,9 +2,9 @@
     "specialweek": {
         "id": "specialweek",
         "createdAt": "2024-01-22T14:06:02.686000+00:00",
-        "updatedAt": "2024-03-12T05:22:12.034000+00:00",
+        "updatedAt": "2024-06-11T09:31:43.680000+00:00",
         "publishedAt": "2024-01-22T14:06:02.686000+00:00",
-        "revisedAt": "2024-03-12T05:22:12.034000+00:00",
+        "revisedAt": "2024-06-11T09:31:43.680000+00:00",
         "name": "スペシャルウィーク",
         "cn_name": "特别周",
         "en": "Special Week",
@@ -59,9 +59,9 @@
                     "width": 198
                 },
                 "image": {
-                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/84098ae492ba4b52a195c10fbab10b49/specialweek_01.png",
-                    "height": 1320,
-                    "width": 750
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b83df291000248a193ca9e46a73ded56/specialweek_01.png",
+                    "height": 1980,
+                    "width": 1125
                 }
             },
             {
@@ -80,9 +80,9 @@
                     "width": 198
                 },
                 "image": {
-                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/fa3e4b48b10d4112b2760056a00daaf4/specialweek_02.png",
-                    "height": 1320,
-                    "width": 750
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/535a4ec994c1411b8e8cc04e3a3cf118/specialweek_02.png",
+                    "height": 1980,
+                    "width": 1125
                 }
             },
             {
@@ -101,9 +101,9 @@
                     "width": 198
                 },
                 "image": {
-                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0dd5da19fca6401f9a943a3b1420e488/specialweek_03.png",
-                    "height": 1320,
-                    "width": 750
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b05013e82ca84e61a2511e9b27258745/specialweek_03.png",
+                    "height": 1980,
+                    "width": 1125
                 }
             },
             {
@@ -122,9 +122,9 @@
                     "width": 198
                 },
                 "image": {
-                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/aea8182b8fcc4128a574074486c8a06e/specialweek_04.png",
-                    "height": 1320,
-                    "width": 750
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2fe65c07dd714acf86530e96bb35ecee/specialweek_04.png",
+                    "height": 1980,
+                    "width": 1125
                 }
             }
         ],
