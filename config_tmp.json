@@ -14339,9 +14339,9 @@
     "junglepocket": {
         "id": "junglepocket",
         "createdAt": "2024-01-22T14:06:02.820000+00:00",
-        "updatedAt": "2024-03-12T05:52:59.545000+00:00",
+        "updatedAt": "2024-06-13T09:00:45.726000+00:00",
         "publishedAt": "2024-01-22T14:06:02.820000+00:00",
-        "revisedAt": "2024-03-12T05:52:59.545000+00:00",
+        "revisedAt": "2024-06-13T09:00:45.726000+00:00",
         "name": "ジャングルポケット",
         "cn_name": "森林宝穴",
         "en": "Jungle Pocket",
@@ -14366,7 +14366,7 @@
         "weight": "知らねぇ",
         "size": "B77・W56・H80",
         "detail": "走りで最強を目指すと豪語するやんちゃなウマ娘。\n元はフリースタイル・レースの世界で荒くれ者たちを束ねるリーダーだったが、フジキセキの走りに衝撃を受け、公式レースの世界に飛び込んできた。\nダチの熱い声援を受け、今日も彼女はブッちぎる。",
-        "movie_id": "",
+        "movie_id": "ZbaKafqrn20",
         "is_top": null,
         "is_music": true,
         "list_thumb": {
@@ -14397,6 +14397,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/fe765184219342b498ddd1399610e108/junglepocket_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/87310c1690784e68b5887f14617b0cbd/junglepocket_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4201ced0eb7941528b7c9ca6d5c4b9d0/junglepocket_02.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -14440,16 +14461,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "G",
+            "short": "G",
+            "mile": "C",
+            "middle": "A",
+            "long": "B",
+            "run_away": "G",
+            "first": "D",
+            "center": "A",
+            "chase": "B"
         }
     },
     "noreason": {
