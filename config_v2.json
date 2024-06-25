@@ -14339,9 +14339,9 @@
     "junglepocket": {
         "id": "junglepocket",
         "createdAt": "2024-01-22T14:06:02.820000+00:00",
-        "updatedAt": "2024-06-13T09:00:45.726000+00:00",
+        "updatedAt": "2024-06-24T12:44:46.569000+00:00",
         "publishedAt": "2024-01-22T14:06:02.820000+00:00",
-        "revisedAt": "2024-06-13T09:00:45.726000+00:00",
+        "revisedAt": "2024-06-24T12:44:46.569000+00:00",
         "name": "ジャングルポケット",
         "cn_name": "森林宝穴",
         "en": "Jungle Pocket",
@@ -14425,6 +14425,27 @@
             {
                 "fieldId": "visual",
                 "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/cf03c6f741f04339b018630207bbd423/junglepocket_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b2cb26ef8d2d4918a2070aa246f0f8d5/junglepocket_03.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
                     "id": "v-004",
                     "createdAt": "2024-01-22T06:31:54.262000+00:00",
                     "updatedAt": "2024-01-22T06:31:54.262000+00:00",
@@ -14471,6 +14492,101 @@
             "first": "D",
             "center": "A",
             "chase": "B"
+        }
+    },
+    "believe": {
+        "id": "believe",
+        "createdAt": "2024-06-24T03:22:37.682000+00:00",
+        "updatedAt": "2024-06-24T12:46:33.032000+00:00",
+        "publishedAt": "2024-06-24T12:46:33.032000+00:00",
+        "revisedAt": "2024-06-24T12:46:33.032000+00:00",
+        "name": "ビリーヴ",
+        "cn_name": "",
+        "en": "Believe",
+        "catch": "手助けは不要です。\nこれは僕の仕事ですから",
+        "cv": "秋山実咲",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#4baece",
+        "color_sub": "#c63663",
+        "birthday": "4月26日",
+        "height": "156cm",
+        "weight": "堅実な仕上がり",
+        "size": "B72・W54・H77",
+        "detail": "確固たる信念を持つ、職人気質のウマ娘。\n黙々と努力を重ね、丁寧かつ完璧な仕事をこなす忍耐力、持続力の持ち主である。\nスピードにはこだわりがあり、『持続してこそ速さ』という信念のもと、短距離路線を邁進する。\n実は、かなりのおじいちゃん子なのだとか。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/142f6ac947e7444bb5235b1e17c8c5b7/believe_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/99b06bd9383c4b2880b2470fcdf81ef4/believe_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2a353d60ce5a4af88db0b1d33f776a73/believe_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/cbc254e838f149f0becff8f44cf984cc/believe_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/36609042c7e8458bae621a3bc319b79b/believe_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/575d943a9ac64d77bc550019ef548433/believe_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d0da778af6404cd8870e67bc6bc767a9/believe_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
         }
     },
     "noreason": {
@@ -16760,6 +16876,101 @@
             "chase": ""
         }
     },
+    "buenavista": {
+        "id": "buenavista",
+        "createdAt": "2024-06-24T03:24:36.716000+00:00",
+        "updatedAt": "2024-06-24T12:46:38.007000+00:00",
+        "publishedAt": "2024-06-24T12:46:38.007000+00:00",
+        "revisedAt": "2024-06-24T12:46:38.007000+00:00",
+        "name": "ブエナビスタ",
+        "cn_name": "",
+        "en": "Buena Vista",
+        "catch": "見たい景色があるの。\n絶対、この脚で辿り着いてみせるよ！",
+        "cv": "和泉風花",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#c0af3b",
+        "color_sub": "#583d3e",
+        "birthday": "3月14日",
+        "height": "159cm",
+        "weight": "微減（レース前で調整中）",
+        "size": "B81・W56・H81",
+        "detail": "純真無垢な心を持つ、優等生ウマ娘。\n明るく素直で人懐こく、誰にでも愛情深く接し、自分ごとのように感情移入してしまうタイプ。\n以前、あるレース観戦で目にした『絶景』――そこに辿り着き、大切な“約束”を果たすためにトゥインクル・シリーズをひた走る。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7f12ea9d50b44a4a9e0b8956eb1fd223/buenavista_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ae88eb0a5d8c4875bbb470bbca91849a/buenavista_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b5a5d7c07d104101ae5b63a449e6a86c/buenavista_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8f101c720e31473b8801a18e54b3afa3/buenavista_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/136539f7e76d43b1b8ae11e0f48d9ccb/buenavista_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b5f55dae42f14be08711d570e3921804/buenavista_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5d86565a7dd64e618073d53bfa35485b/buenavista_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
     "orfevre": {
         "id": "orfevre",
         "createdAt": "2024-01-22T14:06:01.637000+00:00",
@@ -17091,6 +17302,291 @@
             },
             "header": {
                 "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f3769b46d40040579bc0dabe46d00223/winvariation_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
+    "dreamjourney": {
+        "id": "dreamjourney",
+        "createdAt": "2024-06-24T03:25:56.474000+00:00",
+        "updatedAt": "2024-06-24T13:39:20.537000+00:00",
+        "publishedAt": "2024-06-24T12:46:41.602000+00:00",
+        "revisedAt": "2024-06-24T13:39:20.537000+00:00",
+        "name": "ドリームジャーニー",
+        "cn_name": "",
+        "en": "Dream Journey",
+        "catch": "よりよい旅には、万全の準備が不可欠です。\n丁寧に、着実にこなして参りましょう",
+        "cv": "吉岡茉祐",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#332d1f",
+        "color_sub": "#e6e08a",
+        "birthday": "2月24日",
+        "height": "144cm",
+        "weight": "不明",
+        "size": "B66・W48・H69",
+        "detail": "物腰柔らかな優等生で、オルフェーヴルの姉。\n幼い頃に出会った“アネゴ”に強い影響を受けており、彼女の語る“旅の果て”を見るためにレースを走っている。\n誰に対しても丁寧に接するその柔和な微笑みは、気遣いに満ちているように見えるのだが……？",
+        "movie_id": "6lCpXR60xEY",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7ec1f7674eb34eafb8bc4cec6e8ab343/dreamjourney_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5d4c1ba9347d4afa8069c5b97ff14a47/dreamjourney_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c8d7f0aba63540388d7d4a605eedaa1b/dreamjourney_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a9906794762440ae858b253ee233ecc8/dreamjourney_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3b80ed2dbf73473e99f2fe1695a19469/dreamjourney_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/47d286c259134c028c607563edbc2547/dreamjourney_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/36ca0dc291cd4ab6a643ba0a00077d37/dreamjourney_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
+    "calstonelighto": {
+        "id": "calstonelighto",
+        "createdAt": "2024-06-24T03:27:12.866000+00:00",
+        "updatedAt": "2024-06-24T12:46:45.748000+00:00",
+        "publishedAt": "2024-06-24T12:46:45.748000+00:00",
+        "revisedAt": "2024-06-24T12:46:45.748000+00:00",
+        "name": "カルストンライトオ",
+        "cn_name": "",
+        "en": "Calstone Light O",
+        "catch": "求めるのは最高速。誰よりも――\n鹿よりも、プロングホーンよりも速くなります！",
+        "cv": "望月ゆみこ",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#131b4c",
+        "color_sub": "#f7eb49",
+        "birthday": "5月3日",
+        "height": "159cm",
+        "weight": "最高速で成長中",
+        "size": "B80・W55・H80",
+        "detail": "生真面目かつクールな佇まい――の、直線番長！\n『最高速』を追い求め、その頂に辿り着かんと愚直にストイックに邁進する、猪突猛進系ウマ娘。\n1番速ければ誰よりも速い。つまり最高速です！\nとにかく素直で真っ直ぐなので、感情も行動もなにもかもが率直なタイプ。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f1702e191d4045e3854dca9f074228fe/calstonelighto_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/cdb7b900f3d547d2ae4980d7fe6cc56c/calstonelighto_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/aa2f1ececc674c5ea2b6af0ae32fb553/calstonelighto_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7a0c73cb22f446e98c28ace27eaf028e/calstonelighto_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1070cf568d02472dbdbb259ea812f6eb/calstonelighto_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c76ed7b6ba3e4211bc3327ca62e8cff6/calstonelighto_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/94434ea3917a4602891472a89db8ef7c/calstonelighto_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
+    "durandal": {
+        "id": "durandal",
+        "createdAt": "2024-06-24T03:28:32.109000+00:00",
+        "updatedAt": "2024-06-24T12:46:49.056000+00:00",
+        "publishedAt": "2024-06-24T12:46:49.056000+00:00",
+        "revisedAt": "2024-06-24T12:46:49.056000+00:00",
+        "name": "デュランダル",
+        "cn_name": "",
+        "en": "Durandal",
+        "catch": "忠義がため――\n我が聖剣にて、すべて薙ぎ払います",
+        "cv": "野木奏",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#efa605",
+        "color_sub": "#d22630",
+        "birthday": "5月25日",
+        "height": "162cm",
+        "weight": "忠実な仕上がり",
+        "size": "B89・W56・H85",
+        "detail": "騎士道精神に溢れ、礼節を重んじるウマ娘。\n剣のごとく“鋭く切れる末脚”を追い求めている。\n物語のような素敵な騎士として、忠義を尽くすべき王――運命のトレーナーと出会う日を夢見ているのだとか。\n常に礼儀正しく気品ある振る舞いを心がけている。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/54adb7d4190642e4a9d29b6e8da8ddf8/durandal_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d87f1198358a4dd5918c3207ca1cc1e5/durandal_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ce5f13ae13194d89966c3e3fd55735f6/durandal_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/720bfbd382fb4a61b9ad11889acccbb3/durandal_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/160f9fd0c37a435aaadc8053906d2738/durandal_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d396a938e026420f921707e2fafebddc/durandal_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a536f45779774d9f880d0a128af2dd20/durandal_header.png",
                 "height": 500,
                 "width": 1500
             }
