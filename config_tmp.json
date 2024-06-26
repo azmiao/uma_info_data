@@ -14687,9 +14687,9 @@
     "stillinlove": {
         "id": "stillinlove",
         "createdAt": "2024-01-22T14:06:02.821000+00:00",
-        "updatedAt": "2024-03-12T05:53:10.067000+00:00",
+        "updatedAt": "2024-06-26T10:48:03.229000+00:00",
         "publishedAt": "2024-01-22T14:06:02.821000+00:00",
-        "revisedAt": "2024-03-12T05:53:10.067000+00:00",
+        "revisedAt": "2024-06-26T10:48:03.229000+00:00",
         "name": "スティルインラブ",
         "cn_name": "",
         "en": "Still in Love",
@@ -14716,7 +14716,7 @@
         "detail": "一見、おしとやかで良識的、特徴といえばお菓子好きなところくらいの、影が薄いウマ娘。\nだが、ひとたびレースとなると強者と競い合い、喰らうことに愉悦を感じる獰猛な顔を見せる。\n普段は、そんな本能を理性で抑え込んでいるが、衝動に耐える姿は悩ましげで、謎の色気がある。",
         "movie_id": "",
         "is_top": null,
-        "is_music": false,
+        "is_music": true,
         "list_thumb": {
             "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ce53c7d0280049c3b9f474955ef9e51b/stillinlove_list.png",
             "height": 389,
@@ -17322,9 +17322,9 @@
     "dreamjourney": {
         "id": "dreamjourney",
         "createdAt": "2024-06-24T03:25:56.474000+00:00",
-        "updatedAt": "2024-06-24T13:39:20.537000+00:00",
+        "updatedAt": "2024-06-26T03:00:06.137000+00:00",
         "publishedAt": "2024-06-24T12:46:41.602000+00:00",
-        "revisedAt": "2024-06-24T13:39:20.537000+00:00",
+        "revisedAt": "2024-06-26T03:00:06.137000+00:00",
         "name": "ドリームジャーニー",
         "cn_name": "",
         "en": "Dream Journey",
@@ -17380,6 +17380,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a9906794762440ae858b253ee233ecc8/dreamjourney_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c79b1b2c4de54299be04f39632333162/dreamjourney_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0861bb9471564c1ba0e3d56d1d7e775a/dreamjourney_02.png",
                     "height": 1980,
                     "width": 1125
                 }
