@@ -17326,7 +17326,7 @@
         "publishedAt": "2024-06-24T12:46:41.602000+00:00",
         "revisedAt": "2024-06-26T03:00:06.137000+00:00",
         "name": "ドリームジャーニー",
-        "cn_name": "",
+        "cn_name": "梦之旅",
         "en": "Dream Journey",
         "catch": "よりよい旅には、万全の準備が不可欠です。\n丁寧に、着実にこなして参りましょう",
         "cv": "吉岡茉祐",
@@ -17423,16 +17423,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "G",
+            "short": "F",
+            "mile": "C",
+            "middle": "A",
+            "long": "A",
+            "run_away": "G",
+            "first": "G",
+            "center": "A",
+            "chase": "A"
         }
     },
     "calstonelighto": {
