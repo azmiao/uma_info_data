@@ -17438,11 +17438,11 @@
     "calstonelighto": {
         "id": "calstonelighto",
         "createdAt": "2024-06-24T03:27:12.866000+00:00",
-        "updatedAt": "2024-06-24T12:46:45.748000+00:00",
+        "updatedAt": "2024-07-19T09:02:34.465000+00:00",
         "publishedAt": "2024-06-24T12:46:45.748000+00:00",
-        "revisedAt": "2024-06-24T12:46:45.748000+00:00",
+        "revisedAt": "2024-07-19T09:02:34.465000+00:00",
         "name": "カルストンライトオ",
-        "cn_name": "",
+        "cn_name": "金镇之光",
         "en": "Calstone Light O",
         "catch": "求めるのは最高速。誰よりも――\n鹿よりも、プロングホーンよりも速くなります！",
         "cv": "望月ゆみこ",
@@ -17465,7 +17465,7 @@
         "weight": "最高速で成長中",
         "size": "B80・W55・H80",
         "detail": "生真面目かつクールな佇まい――の、直線番長！\n『最高速』を追い求め、その頂に辿り着かんと愚直にストイックに邁進する、猪突猛進系ウマ娘。\n1番速ければ誰よりも速い。つまり最高速です！\nとにかく素直で真っ直ぐなので、感情も行動もなにもかもが率直なタイプ。",
-        "movie_id": "",
+        "movie_id": "fF4qVDSOXZ0",
         "is_top": null,
         "is_music": false,
         "list_thumb": {
@@ -17499,6 +17499,27 @@
                     "height": 1980,
                     "width": 1125
                 }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ac9bd367ef35432aab35bbca604ce707/calstonelighto_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ce4c514517e04ce8b55742c46c3647ba/calstonelighto_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
             }
         ],
         "voice": {
@@ -17518,16 +17539,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "G",
+            "short": "A",
+            "mile": "D",
+            "middle": "G",
+            "long": "G",
+            "run_away": "A",
+            "first": "C",
+            "center": "G",
+            "chase": "G"
         }
     },
     "durandal": {
