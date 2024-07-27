@@ -11378,9 +11378,9 @@
     "tsurumarutsuyoshi": {
         "id": "tsurumarutsuyoshi",
         "createdAt": "2024-01-22T14:06:02.801000+00:00",
-        "updatedAt": "2024-03-12T05:50:24.129000+00:00",
+        "updatedAt": "2024-07-27T11:55:19.167000+00:00",
         "publishedAt": "2024-01-22T14:06:02.801000+00:00",
-        "revisedAt": "2024-03-12T05:50:24.129000+00:00",
+        "revisedAt": "2024-07-27T11:55:19.167000+00:00",
         "name": "ツルマルツヨシ",
         "cn_name": "鹤丸刚志",
         "en": "Tsurumaru Tsuyoshi",
@@ -11436,6 +11436,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/86929dbbed954b95b8210f59181292c4/tsurumarutsuyoshi_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/bc3e2992568848a09df1533156439a67/tsurumarutsuyoshi_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/19fccbb46ca24dcf87740a98d24951ef/tsurumarutsuyoshi_02.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -12200,9 +12221,9 @@
     "furioso": {
         "id": "furioso",
         "createdAt": "2024-01-22T14:06:02.804000+00:00",
-        "updatedAt": "2024-03-12T05:51:30.681000+00:00",
+        "updatedAt": "2024-07-27T11:55:36.996000+00:00",
         "publishedAt": "2024-01-22T14:06:02.804000+00:00",
-        "revisedAt": "2024-03-12T05:51:30.681000+00:00",
+        "revisedAt": "2024-07-27T11:55:36.996000+00:00",
         "name": "フリオーソ",
         "cn_name": "",
         "en": "Furioso",
@@ -12258,6 +12279,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/57f6d89f9bc24188a8f68434dae22ebb/furioso_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/dab043cc0bab4098b3759a261ff7bb3a/furioso_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/25760b04298446ef8b1e15e8512da510/furioso_02.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -12432,9 +12474,9 @@
     "espoircity": {
         "id": "espoircity",
         "createdAt": "2024-01-22T14:06:02.804000+00:00",
-        "updatedAt": "2024-03-12T05:51:42.943000+00:00",
+        "updatedAt": "2024-07-27T11:55:51.844000+00:00",
         "publishedAt": "2024-01-22T14:06:02.804000+00:00",
-        "revisedAt": "2024-03-12T05:51:42.943000+00:00",
+        "revisedAt": "2024-07-27T11:55:51.844000+00:00",
         "name": "エスポワールシチー",
         "cn_name": "",
         "en": "Espoir City",
@@ -12490,6 +12532,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6434712c24974ac4bf62878175b9e6c5/espoircity_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9433585dc16a4441a60e44a3f14e6c60/espoircity_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f136025cd5534272ad761eec5587205d/espoircity_02.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -14086,9 +14149,9 @@
     "dantsuflame": {
         "id": "dantsuflame",
         "createdAt": "2024-01-22T14:06:02.842000+00:00",
-        "updatedAt": "2024-05-24T10:03:07.449000+00:00",
+        "updatedAt": "2024-07-27T11:56:07.018000+00:00",
         "publishedAt": "2024-01-22T14:06:02.842000+00:00",
-        "revisedAt": "2024-05-24T10:03:07.449000+00:00",
+        "revisedAt": "2024-07-27T11:56:07.018000+00:00",
         "name": "ダンツフレーム",
         "cn_name": "烈焰快驹",
         "en": "Dantsu Flame",
@@ -14151,6 +14214,27 @@
             {
                 "fieldId": "visual",
                 "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b109205f3bd443e49c6c262901c15f05/dantsuflame_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1f4a96c2e4cd4e72ac168efeaef1ef1c/dantsuflame_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
                     "id": "v-004",
                     "createdAt": "2024-01-22T06:31:54.262000+00:00",
                     "updatedAt": "2024-01-22T06:31:54.262000+00:00",
@@ -14164,7 +14248,7 @@
                     "width": 198
                 },
                 "image": {
-                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f9dd226464704553a3a7e7e74c7544db/dantsuflame_04.png",
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/760a8c11e71c4be7bbfdf0d180b52ade/dantsuflame_04.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -14497,9 +14581,9 @@
     "believe": {
         "id": "believe",
         "createdAt": "2024-06-24T03:22:37.682000+00:00",
-        "updatedAt": "2024-06-24T12:46:33.032000+00:00",
+        "updatedAt": "2024-07-27T11:56:19.658000+00:00",
         "publishedAt": "2024-06-24T12:46:33.032000+00:00",
-        "revisedAt": "2024-06-24T12:46:33.032000+00:00",
+        "revisedAt": "2024-07-27T11:56:19.658000+00:00",
         "name": "ビリーヴ",
         "cn_name": "",
         "en": "Believe",
@@ -14558,6 +14642,27 @@
                     "height": 1980,
                     "width": 1125
                 }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/30f60d9ae18846f89c889c671ee33364/believe_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3136a8d8d2e24458a4ffd8cc9c1415d7/believe_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
             }
         ],
         "voice": {
@@ -14592,9 +14697,9 @@
     "noreason": {
         "id": "noreason",
         "createdAt": "2024-01-22T14:06:02.821000+00:00",
-        "updatedAt": "2024-03-12T05:53:04.603000+00:00",
+        "updatedAt": "2024-07-27T11:56:32.863000+00:00",
         "publishedAt": "2024-01-22T14:06:02.821000+00:00",
-        "revisedAt": "2024-03-12T05:53:04.603000+00:00",
+        "revisedAt": "2024-07-27T11:56:32.863000+00:00",
         "name": "ノーリーズン",
         "cn_name": "莫名其妙",
         "en": "No Reason",
@@ -14653,6 +14758,27 @@
                     "height": 1980,
                     "width": 1125
                 }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7ef500a5de624d9d905e2e52613124ac/noreason_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a24e338ac3ac47cd8a96dbcfb640d9c0/noreason_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
             }
         ],
         "voice": {
@@ -14687,9 +14813,9 @@
     "stillinlove": {
         "id": "stillinlove",
         "createdAt": "2024-01-22T14:06:02.821000+00:00",
-        "updatedAt": "2024-06-26T10:48:03.229000+00:00",
+        "updatedAt": "2024-07-27T11:56:46.946000+00:00",
         "publishedAt": "2024-01-22T14:06:02.821000+00:00",
-        "revisedAt": "2024-06-26T10:48:03.229000+00:00",
+        "revisedAt": "2024-07-27T11:56:46.946000+00:00",
         "name": "スティルインラブ",
         "cn_name": "",
         "en": "Still in Love",
@@ -14752,6 +14878,27 @@
             {
                 "fieldId": "visual",
                 "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d4f3ee289ae5420eac01cfa5e234d9c4/stillinlove_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d1b5c980264c4d84b4c14b085256f10b/stillinlove_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
                     "id": "v-004",
                     "createdAt": "2024-01-22T06:31:54.262000+00:00",
                     "updatedAt": "2024-01-22T06:31:54.262000+00:00",
@@ -14765,7 +14912,7 @@
                     "width": 198
                 },
                 "image": {
-                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/cd0eac24fae64b27a455209ae4ebbb98/stillinLove_04.png.png",
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d3bb128ba8c149888d6184dc09b0e322/stillinlove_04.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -16531,9 +16678,9 @@
     "cesario": {
         "id": "cesario",
         "createdAt": "2024-01-22T14:06:02.838000+00:00",
-        "updatedAt": "2024-04-25T11:25:13.662000+00:00",
+        "updatedAt": "2024-07-27T11:56:58.300000+00:00",
         "publishedAt": "2024-01-22T14:06:02.838000+00:00",
-        "revisedAt": "2024-04-25T11:25:13.662000+00:00",
+        "revisedAt": "2024-07-27T11:56:58.300000+00:00",
         "name": "シーザリオ",
         "cn_name": "",
         "en": "Cesario",
@@ -16596,6 +16743,27 @@
             {
                 "fieldId": "visual",
                 "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4515d1ad29ca415b9de7a2ee70932477/cesario_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a515d5960f374117958b93c2f9ef8802/cesario_02.png",
+                    "height": 1980,
+                    "width": 1123
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
                     "id": "v-004",
                     "createdAt": "2024-01-22T06:31:54.262000+00:00",
                     "updatedAt": "2024-01-22T06:31:54.262000+00:00",
@@ -16647,9 +16815,9 @@
     "airmessiah": {
         "id": "airmessiah",
         "createdAt": "2024-01-22T14:06:02.838000+00:00",
-        "updatedAt": "2024-04-25T11:26:14.532000+00:00",
+        "updatedAt": "2024-07-27T11:57:15.261000+00:00",
         "publishedAt": "2024-01-22T14:06:02.838000+00:00",
-        "revisedAt": "2024-04-25T11:26:14.532000+00:00",
+        "revisedAt": "2024-07-27T11:57:15.261000+00:00",
         "name": "エアメサイア",
         "cn_name": "",
         "en": "Air Messiah",
@@ -16712,6 +16880,27 @@
             {
                 "fieldId": "visual",
                 "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/cf6ba6492b5445e0973b24e3babe5909/airmessiah_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9d5f7649f2b94d929770c33e66bf482c/airmessiah_02.png",
+                    "height": 1980,
+                    "width": 1123
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
                     "id": "v-004",
                     "createdAt": "2024-01-22T06:31:54.262000+00:00",
                     "updatedAt": "2024-01-22T06:31:54.262000+00:00",
@@ -16725,9 +16914,9 @@
                     "width": 198
                 },
                 "image": {
-                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f13d3e0280e54800989b99d0870cc8a0/airmessiah_04.png",
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/478f258e190e4fe087804ce4eb9252b6/airmessiah_04.png",
                     "height": 1980,
-                    "width": 1125
+                    "width": 1123
                 }
             }
         ],
@@ -16763,9 +16952,9 @@
     "daringheart": {
         "id": "daringheart",
         "createdAt": "2024-01-22T14:06:01.628000+00:00",
-        "updatedAt": "2024-04-25T11:26:28.470000+00:00",
+        "updatedAt": "2024-07-27T11:57:30.405000+00:00",
         "publishedAt": "2024-01-22T14:06:01.628000+00:00",
-        "revisedAt": "2024-04-25T11:26:28.470000+00:00",
+        "revisedAt": "2024-07-27T11:57:30.405000+00:00",
         "name": "デアリングハート",
         "cn_name": "",
         "en": "Daring Heart",
@@ -16828,6 +17017,27 @@
             {
                 "fieldId": "visual",
                 "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6b573440416942b8bb50bc774e8e0d3e/daringheart_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/01288e4868ef4ae695425180eda7ceda/daringheart_02.png",
+                    "height": 1980,
+                    "width": 1123
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
                     "id": "v-004",
                     "createdAt": "2024-01-22T06:31:54.262000+00:00",
                     "updatedAt": "2024-01-22T06:31:54.262000+00:00",
@@ -16879,9 +17089,9 @@
     "buenavista": {
         "id": "buenavista",
         "createdAt": "2024-06-24T03:24:36.716000+00:00",
-        "updatedAt": "2024-06-24T12:46:38.007000+00:00",
+        "updatedAt": "2024-07-27T11:57:42.523000+00:00",
         "publishedAt": "2024-06-24T12:46:38.007000+00:00",
-        "revisedAt": "2024-06-24T12:46:38.007000+00:00",
+        "revisedAt": "2024-07-27T11:57:42.523000+00:00",
         "name": "ブエナビスタ",
         "cn_name": "",
         "en": "Buena Vista",
@@ -16940,6 +17150,27 @@
                     "height": 1980,
                     "width": 1125
                 }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0c9c2a4e91714fb69a501c1046420b14/buenavista_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/41d830aecd0145f898987aee7b40fc08/buenavista_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
             }
         ],
         "voice": {
@@ -16974,9 +17205,9 @@
     "orfevre": {
         "id": "orfevre",
         "createdAt": "2024-01-22T14:06:01.637000+00:00",
-        "updatedAt": "2024-04-25T11:26:38.679000+00:00",
+        "updatedAt": "2024-07-27T11:57:54.244000+00:00",
         "publishedAt": "2024-01-22T14:06:01.637000+00:00",
-        "revisedAt": "2024-04-25T11:26:38.679000+00:00",
+        "revisedAt": "2024-07-27T11:57:54.244000+00:00",
         "name": "オルフェーヴル",
         "cn_name": "黄金巨匠",
         "en": "Orfevre",
@@ -17039,6 +17270,27 @@
             {
                 "fieldId": "visual",
                 "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/57a2d59618c7472b91f7a5fba911f64d/orfevre_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/efc8ca6612ff457a84208685ca5b06cf/orfevre_02.png",
+                    "height": 1980,
+                    "width": 1350
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
                     "id": "v-004",
                     "createdAt": "2024-01-22T06:31:54.262000+00:00",
                     "updatedAt": "2024-01-22T06:31:54.262000+00:00",
@@ -17090,9 +17342,9 @@
     "gentildonna": {
         "id": "gentildonna",
         "createdAt": "2024-01-22T14:06:01.639000+00:00",
-        "updatedAt": "2024-05-28T12:01:13.373000+00:00",
+        "updatedAt": "2024-07-27T11:58:07.163000+00:00",
         "publishedAt": "2024-01-22T14:06:01.639000+00:00",
-        "revisedAt": "2024-05-28T12:01:13.373000+00:00",
+        "revisedAt": "2024-07-27T11:58:07.163000+00:00",
         "name": "ジェンティルドンナ",
         "cn_name": "贵妇人",
         "en": "Gentildonna",
@@ -17155,6 +17407,27 @@
             {
                 "fieldId": "visual",
                 "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6f9229116a45402ca8ff354c7b241759/gentildonna_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d7eede6083004c2bbe1c6c0726a7360d/gentildonna_02.png",
+                    "height": 1980,
+                    "width": 1160
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
                     "id": "v-004",
                     "createdAt": "2024-01-22T06:31:54.262000+00:00",
                     "updatedAt": "2024-01-22T06:31:54.262000+00:00",
@@ -17206,9 +17479,9 @@
     "winvariation": {
         "id": "winvariation",
         "createdAt": "2024-01-22T14:06:01.639000+00:00",
-        "updatedAt": "2024-04-25T11:27:32.460000+00:00",
+        "updatedAt": "2024-07-27T11:58:23.350000+00:00",
         "publishedAt": "2024-01-22T14:06:01.639000+00:00",
-        "revisedAt": "2024-04-25T11:27:32.460000+00:00",
+        "revisedAt": "2024-07-27T11:58:23.350000+00:00",
         "name": "ウインバリアシオン",
         "cn_name": "",
         "en": "Win Variation",
@@ -17271,6 +17544,27 @@
             {
                 "fieldId": "visual",
                 "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/09eec0c9654f4307bf924d2675d0c19a/winvariation_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/875a200914eb4392b54787a6a42c2ab2/winvariation_02.png",
+                    "height": 1980,
+                    "width": 1300
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
                     "id": "v-004",
                     "createdAt": "2024-01-22T06:31:54.262000+00:00",
                     "updatedAt": "2024-01-22T06:31:54.262000+00:00",
@@ -17284,7 +17578,7 @@
                     "width": 198
                 },
                 "image": {
-                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7ffc89940d714ac7bb4409ecdede559c/winvariation_04.png",
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c20b272a30114200a82a8433b7e7e7f1/winvariation_04.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -17438,9 +17732,9 @@
     "calstonelighto": {
         "id": "calstonelighto",
         "createdAt": "2024-06-24T03:27:12.866000+00:00",
-        "updatedAt": "2024-07-19T09:02:34.465000+00:00",
+        "updatedAt": "2024-07-27T11:58:49.270000+00:00",
         "publishedAt": "2024-06-24T12:46:45.748000+00:00",
-        "revisedAt": "2024-07-19T09:02:34.465000+00:00",
+        "revisedAt": "2024-07-27T11:58:49.270000+00:00",
         "name": "カルストンライトオ",
         "cn_name": "金镇之光",
         "en": "Calstone Light O",
@@ -17520,6 +17814,48 @@
                     "height": 1980,
                     "width": 1125
                 }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/02d58df1e91b49c38534b6e015079535/calstonelighto_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0b0f5e5e1ab1418e98d3a09fb6b9e63a/calstonelighto_03.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-004",
+                    "createdAt": "2024-01-22T06:31:54.262000+00:00",
+                    "updatedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "publishedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "revisedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "title": "<small>STARTING<br>FUTURE</small>"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/626974fd9d034419b379a1a7fbf6dfef/calstonelighto_04_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/447f76591cf5436bae49b573ef6c1dac/calstonelighto_04.png",
+                    "height": 1980,
+                    "width": 1125
+                }
             }
         ],
         "voice": {
@@ -17554,9 +17890,9 @@
     "durandal": {
         "id": "durandal",
         "createdAt": "2024-06-24T03:28:32.109000+00:00",
-        "updatedAt": "2024-06-24T12:46:49.056000+00:00",
+        "updatedAt": "2024-07-27T11:58:35.618000+00:00",
         "publishedAt": "2024-06-24T12:46:49.056000+00:00",
-        "revisedAt": "2024-06-24T12:46:49.056000+00:00",
+        "revisedAt": "2024-07-27T11:58:35.618000+00:00",
         "name": "デュランダル",
         "cn_name": "",
         "en": "Durandal",
@@ -17612,6 +17948,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/720bfbd382fb4a61b9ad11889acccbb3/durandal_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2b66d1daa90448d4a956f9960198e095/durandal_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/84636f8429b945418c41eb0b5f0dfb08/durandal_02.png",
                     "height": 1980,
                     "width": 1125
                 }
