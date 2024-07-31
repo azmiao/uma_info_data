@@ -25,6 +25,8 @@ async def get_nuxt_config() -> dict:
             raw_config = strip.replace('window.__NUXT__.config=', '')
             # format json
             valid_json_data = re.sub(r'(?!https?)\b(\w+):', r'"\1":', raw_config)
+            # special replace | difficult to add in re pattern
+            valid_json_data = valid_json_data.replace('""cursor": pointer"', '"cursor: pointer"')
             nuxt_config = json.loads(valid_json_data)
     logging.info(f'nuxt config: {nuxt_config}')
     if not nuxt_config:
