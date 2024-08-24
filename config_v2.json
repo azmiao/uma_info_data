@@ -12221,9 +12221,9 @@
     "furioso": {
         "id": "furioso",
         "createdAt": "2024-01-22T14:06:02.804000+00:00",
-        "updatedAt": "2024-07-27T11:55:36.996000+00:00",
+        "updatedAt": "2024-08-23T12:44:33.900000+00:00",
         "publishedAt": "2024-01-22T14:06:02.804000+00:00",
-        "revisedAt": "2024-07-27T11:55:36.996000+00:00",
+        "revisedAt": "2024-08-23T12:44:33.900000+00:00",
         "name": "フリオーソ",
         "cn_name": "",
         "en": "Furioso",
@@ -12303,6 +12303,27 @@
                     "height": 1980,
                     "width": 1125
                 }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-004",
+                    "createdAt": "2024-01-22T06:31:54.262000+00:00",
+                    "updatedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "publishedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "revisedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "title": "<small>STARTING<br>FUTURE</small>"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0136d12fd4b6471382ed29896469095f/furioso_04_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6ba3bc0f25964566843d81c9251a4ded/furioso_04_2.png",
+                    "height": 1980,
+                    "width": 1125
+                }
             }
         ],
         "voice": {
@@ -12337,9 +12358,9 @@
     "transcend": {
         "id": "transcend",
         "createdAt": "2024-01-22T14:06:02.804000+00:00",
-        "updatedAt": "2024-03-28T12:05:33.916000+00:00",
+        "updatedAt": "2024-08-23T12:45:46.206000+00:00",
         "publishedAt": "2024-01-22T14:06:02.804000+00:00",
-        "revisedAt": "2024-03-28T12:05:33.916000+00:00",
+        "revisedAt": "2024-08-23T12:45:46.206000+00:00",
         "name": "トランセンド",
         "cn_name": "创升",
         "en": "Transcend",
@@ -12440,6 +12461,27 @@
                     "height": 1980,
                     "width": 1125
                 }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-004",
+                    "createdAt": "2024-01-22T06:31:54.262000+00:00",
+                    "updatedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "publishedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "revisedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "title": "<small>STARTING<br>FUTURE</small>"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f01187596e224e11a40fd04dc6d20eef/transcend_04_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4d5b5d6ebdc3409dbdb8c20558f47d61/transcend_04.png",
+                    "height": 1980,
+                    "width": 1125
+                }
             }
         ],
         "voice": {
@@ -12474,9 +12516,9 @@
     "espoircity": {
         "id": "espoircity",
         "createdAt": "2024-01-22T14:06:02.804000+00:00",
-        "updatedAt": "2024-07-27T11:55:51.844000+00:00",
+        "updatedAt": "2024-08-23T12:44:47.350000+00:00",
         "publishedAt": "2024-01-22T14:06:02.804000+00:00",
-        "revisedAt": "2024-07-27T11:55:51.844000+00:00",
+        "revisedAt": "2024-08-23T12:44:47.350000+00:00",
         "name": "エスポワールシチー",
         "cn_name": "",
         "en": "Espoir City",
@@ -12555,6 +12597,27 @@
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f136025cd5534272ad761eec5587205d/espoircity_02.png",
                     "height": 1980,
                     "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-004",
+                    "createdAt": "2024-01-22T06:31:54.262000+00:00",
+                    "updatedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "publishedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "revisedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "title": "<small>STARTING<br>FUTURE</small>"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9ce82234aa3a439ab92725b176a44740/espoircity_04_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ab6c8e516fbf4264818bad0543be5f74/espoircity_04.png",
+                    "height": 1980,
+                    "width": 1200
                 }
             }
         ],
@@ -15424,14 +15487,14 @@
     "samsonbig": {
         "id": "samsonbig",
         "createdAt": "2024-01-22T14:06:02.823000+00:00",
-        "updatedAt": "2024-04-25T11:23:51.037000+00:00",
+        "updatedAt": "2024-08-23T12:44:43.473000+00:00",
         "publishedAt": "2024-01-22T14:06:02.823000+00:00",
-        "revisedAt": "2024-04-25T11:23:51.037000+00:00",
+        "revisedAt": "2024-08-23T12:44:43.473000+00:00",
         "name": "サムソンビッグ",
         "cn_name": "",
         "en": "Samson Big",
-        "catch": "",
-        "cv": "",
+        "catch": "あきらめず走った！　偉いぞビッグさん！\n１８番目に強かった！　すごいぞビッグさん！",
+        "cv": "根本京里",
         "category": [
             "ウマ娘"
         ],
@@ -15446,11 +15509,11 @@
         "earring": [],
         "color_main": "#3dc3c2",
         "color_sub": "#f0688e",
-        "birthday": "",
-        "height": "",
-        "weight": "",
-        "size": "",
-        "detail": "",
+        "birthday": "4月14日",
+        "height": "143cm",
+        "weight": "増減なし（もっとビッグに！）",
+        "size": "B72・W51・H72",
+        "detail": "『世界に轟くビッグなウマ娘！』……を夢見る、とにかく忍耐強いウマ娘。\nビッグな夢と厳しい現実の差は受け止めつつも、『まずは挑戦！』をモットーに、日々あらゆる困難に挑み続けている。\n同期のナリタブライアンからは、不思議と一目置かれているとか。",
         "movie_id": "",
         "is_top": null,
         "is_music": false,
@@ -15484,6 +15547,27 @@
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/67897b4078a74063851597f3afc4aef4/samsonbig_01.png",
                     "height": 1980,
                     "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-004",
+                    "createdAt": "2024-01-22T06:31:54.262000+00:00",
+                    "updatedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "publishedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "revisedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "title": "<small>STARTING<br>FUTURE</small>"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/721395ca7c924f669dde5a0f90773fb3/samsonbig_04_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/baca0b6ad1a64888999f27d15006f934/samsonbig_04.png",
+                    "height": 1980,
+                    "width": 1150
                 }
             }
         ],
@@ -17342,9 +17426,9 @@
     "gentildonna": {
         "id": "gentildonna",
         "createdAt": "2024-01-22T14:06:01.639000+00:00",
-        "updatedAt": "2024-07-27T11:58:07.163000+00:00",
+        "updatedAt": "2024-08-23T14:11:55.625000+00:00",
         "publishedAt": "2024-01-22T14:06:01.639000+00:00",
-        "revisedAt": "2024-07-27T11:58:07.163000+00:00",
+        "revisedAt": "2024-08-23T14:11:55.625000+00:00",
         "name": "ジェンティルドンナ",
         "cn_name": "贵妇人",
         "en": "Gentildonna",
@@ -17369,7 +17453,7 @@
         "weight": "パワフル",
         "size": "B95・W63・H87 ",
         "detail": "強さこそが正義、実力至上主義のウマ娘。\n自身に対してはもちろんのこと、他者に対しても一切の甘さはなく、冷徹にすら感じられるほど。\n敗者に語る言葉なし――それこそが、剛毅なる貴婦人、ジェンティルドンナである。",
-        "movie_id": "",
+        "movie_id": "8Dz5ne5xKwU",
         "is_top": null,
         "is_music": true,
         "list_thumb": {
@@ -17423,6 +17507,27 @@
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d7eede6083004c2bbe1c6c0726a7360d/gentildonna_02.png",
                     "height": 1980,
                     "width": 1160
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/29e9ac6ead6a421282e6618bfbf3973a/gentildonna_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/bd784aa0ec7848d4a93df3bec5c93b21/gentildonna_03.png",
+                    "height": 1980,
+                    "width": 1150
                 }
             },
             {
@@ -17616,9 +17721,9 @@
     "dreamjourney": {
         "id": "dreamjourney",
         "createdAt": "2024-06-24T03:25:56.474000+00:00",
-        "updatedAt": "2024-06-26T03:00:06.137000+00:00",
+        "updatedAt": "2024-08-23T12:44:56.003000+00:00",
         "publishedAt": "2024-06-24T12:46:41.602000+00:00",
-        "revisedAt": "2024-06-26T03:00:06.137000+00:00",
+        "revisedAt": "2024-08-23T12:44:56.003000+00:00",
         "name": "ドリームジャーニー",
         "cn_name": "梦之旅",
         "en": "Dream Journey",
@@ -17697,6 +17802,27 @@
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0861bb9471564c1ba0e3d56d1d7e775a/dreamjourney_02.png",
                     "height": 1980,
                     "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-004",
+                    "createdAt": "2024-01-22T06:31:54.262000+00:00",
+                    "updatedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "publishedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "revisedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "title": "<small>STARTING<br>FUTURE</small>"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8e20cf9124b543cd98c36393c12305f4/dreamjourney_04_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e93628db8e8c458293ff581ea6c54353/dreamjourney_04_2.png",
+                    "height": 1980,
+                    "width": 1230
                 }
             }
         ],
@@ -17986,6 +18112,101 @@
             },
             "header": {
                 "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a536f45779774d9f880d0a128af2dd20/durandal_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
+    "bubblegumfellow": {
+        "id": "bubblegumfellow",
+        "createdAt": "2024-08-23T09:51:06.902000+00:00",
+        "updatedAt": "2024-08-23T12:43:40.371000+00:00",
+        "publishedAt": "2024-08-23T12:43:40.371000+00:00",
+        "revisedAt": "2024-08-23T12:43:40.371000+00:00",
+        "name": "バブルガムフェロー",
+        "cn_name": "",
+        "en": "Bubble Gum Fellow",
+        "catch": "宣言する。\n私は勝つよ。『四天王』の先陣として",
+        "cv": "神谷早矢佳",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#e5bd00",
+        "color_sub": "#0047bb",
+        "birthday": "4月11日",
+        "height": "166cm",
+        "weight": "宣言通りの仕上がり",
+        "size": "B82・W58・H84",
+        "detail": "ハジけるポテンシャル。勇猛果敢な切り込み隊長。\n強靭な精神と飲み込みの早さを持ち、自身がやると宣言したことは必ずやり遂げる傑物。\n父のクラブでは『四天王』の1人と称され、同じように呼ばれたウマ娘たちと、レースでの活躍を誓い――日々、夢に向かって励んでいる。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/eb96eb8435944a0abb98c3893afa588a/bubblegumfellow_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0f0477bd236e45ef9451d120b48b9736/bubblegumfellow_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f2fc3cae08314a739d326a8c57e0eac1/bubblegumfellow_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f20183bdd3144cc78ae80158a4638b18/bubblegumfellow_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2b42233f5be64fb9a2ebeab8422c81fd/bubblegumfellow_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b6f89363c469428285da8427a73e03e8/bubblegumfellow_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ea9c34874a88402492981aa55d8105f5/bubblegumfellow_header.png",
                 "height": 500,
                 "width": 1500
             }
