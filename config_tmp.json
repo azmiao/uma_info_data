@@ -14880,7 +14880,7 @@
         "publishedAt": "2024-01-22T14:06:02.821000+00:00",
         "revisedAt": "2024-07-27T11:56:46.946000+00:00",
         "name": "スティルインラブ",
-        "cn_name": "",
+        "cn_name": "爱如往昔",
         "en": "Still in Love",
         "catch": "ふふ……ずっとおりましたよ？\nトレーナーさんのすぐ傍に……",
         "cv": "宮下早紀",
@@ -17177,7 +17177,7 @@
         "publishedAt": "2024-06-24T12:46:38.007000+00:00",
         "revisedAt": "2024-07-27T11:57:42.523000+00:00",
         "name": "ブエナビスタ",
-        "cn_name": "",
+        "cn_name": "迷人景致",
         "en": "Buena Vista",
         "catch": "見たい景色があるの。\n絶対、この脚で辿り着いてみせるよ！",
         "cv": "和泉風花",
@@ -17569,16 +17569,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "G",
+            "short": "G",
+            "mile": "A",
+            "middle": "A",
+            "long": "A",
+            "run_away": "E",
+            "first": "A",
+            "center": "A",
+            "chase": "D"
         }
     },
     "winvariation": {
