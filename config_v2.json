@@ -1424,9 +1424,9 @@
     "taikishuttle": {
         "id": "taikishuttle",
         "createdAt": "2024-01-22T14:06:02.701000+00:00",
-        "updatedAt": "2024-08-26T05:35:42.527000+00:00",
+        "updatedAt": "2024-08-29T03:55:15.792000+00:00",
         "publishedAt": "2024-01-22T14:06:02.701000+00:00",
-        "revisedAt": "2024-08-26T05:35:42.527000+00:00",
+        "revisedAt": "2024-08-29T03:55:15.792000+00:00",
         "name": "タイキシャトル",
         "cn_name": "大树快车",
         "en": "Taiki Shuttle",
@@ -1481,7 +1481,7 @@
                     "width": 198
                 },
                 "image": {
-                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/bb99e821abd145dd8cd2f8dc108631ae/taikishuttle_01.png",
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/312f1d4bb68a489e9d2ec64aee104f10/taikishuttle_01.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -1502,7 +1502,7 @@
                     "width": 198
                 },
                 "image": {
-                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/35ed9e7998034dcb826b9bfc62bd6c4d/taikishuttle_02.png",
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/aa5a8386483f41b3bee5cfa7cdebccd4/taikishuttle_02.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -1523,7 +1523,7 @@
                     "width": 198
                 },
                 "image": {
-                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c6804832c69a44639b81396c8bdc28bf/taikishuttle_03.png",
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/15e48368eb8b4453a2b00b1debef1335/taikishuttle_03.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -1544,7 +1544,7 @@
                     "width": 198
                 },
                 "image": {
-                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/08660b80048c421287e3c9688f248d74/taikishuttle_04.png",
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/fa7eb9d2b29d475997b16b979cce4603/taikishuttle_04.png",
                     "height": 1980,
                     "width": 1125
                 }
