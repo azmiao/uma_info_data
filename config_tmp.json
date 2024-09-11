@@ -12520,7 +12520,7 @@
         "publishedAt": "2024-01-22T14:06:02.804000+00:00",
         "revisedAt": "2024-08-23T12:44:47.350000+00:00",
         "name": "エスポワールシチー",
-        "cn_name": "",
+        "cn_name": "希望之城",
         "en": "Espoir City",
         "catch": "ジョートーだっての！\nあーしの強さ、見せつけてやらぁ！",
         "cv": "亜咲花",
@@ -16766,7 +16766,7 @@
         "publishedAt": "2024-01-22T14:06:02.838000+00:00",
         "revisedAt": "2024-09-10T09:02:19.409000+00:00",
         "name": "シーザリオ",
-        "cn_name": "",
+        "cn_name": "西沙里奥",
         "en": "Cesario",
         "catch": "ティアラは決して譲らない。\n導く者たる器を見せる時だ",
         "cv": "佐藤榛夏",
@@ -16884,16 +16884,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "G",
+            "short": "G",
+            "mile": "A",
+            "middle": "A",
+            "long": "F",
+            "run_away": "G",
+            "first": "A",
+            "center": "A",
+            "chase": "C"
         }
     },
     "airmessiah": {
