@@ -18020,7 +18020,7 @@
         "publishedAt": "2024-06-24T12:46:49.056000+00:00",
         "revisedAt": "2024-09-20T09:01:18.643000+00:00",
         "name": "デュランダル",
-        "cn_name": "",
+        "cn_name": "多旺达",
         "en": "Durandal",
         "catch": "忠義がため――\n我が聖剣にて、すべて薙ぎ払います",
         "cv": "野木奏",
@@ -18117,16 +18117,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "G",
+            "short": "A",
+            "mile": "A",
+            "middle": "F",
+            "long": "G",
+            "run_away": "G",
+            "first": "G",
+            "center": "C",
+            "chase": "A"
         }
     },
     "bubblegumfellow": {
