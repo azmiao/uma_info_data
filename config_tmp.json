@@ -14644,9 +14644,9 @@
     "believe": {
         "id": "believe",
         "createdAt": "2024-06-24T03:22:37.682000+00:00",
-        "updatedAt": "2024-07-27T11:56:19.658000+00:00",
+        "updatedAt": "2024-09-27T12:13:32.758000+00:00",
         "publishedAt": "2024-06-24T12:46:33.032000+00:00",
-        "revisedAt": "2024-07-27T11:56:19.658000+00:00",
+        "revisedAt": "2024-09-27T12:13:32.758000+00:00",
         "name": "ビリーヴ",
         "cn_name": "",
         "en": "Believe",
@@ -14725,6 +14725,27 @@
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3136a8d8d2e24458a4ffd8cc9c1415d7/believe_02.png",
                     "height": 1980,
                     "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-004",
+                    "createdAt": "2024-01-22T06:31:54.262000+00:00",
+                    "updatedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "publishedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "revisedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "title": "<small>STARTING<br>FUTURE</small>"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a6a0ce5a859f41a08f556a1427c65ddc/believe_04_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6b4b748a1fe54b4bae2a674c727b78aa/believe_04.png",
+                    "height": 1980,
+                    "width": 1200
                 }
             }
         ],
@@ -17170,6 +17191,122 @@
             "chase": ""
         }
     },
+    "fusaichipandora": {
+        "id": "fusaichipandora",
+        "createdAt": "2024-09-26T06:29:25.109000+00:00",
+        "updatedAt": "2024-09-27T12:11:09.213000+00:00",
+        "publishedAt": "2024-09-27T12:11:09.213000+00:00",
+        "revisedAt": "2024-09-27T12:11:09.213000+00:00",
+        "name": "フサイチパンドラ",
+        "cn_name": "",
+        "en": "Fusaichi Pandora",
+        "catch": "なんとかなるってー♡\nだぁってあたし、天才だし〜？",
+        "cv": "佳原萌枝",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#fd637f",
+        "color_sub": "#fbd872",
+        "birthday": "2月27日",
+        "height": "165cm",
+        "weight": "いーかんじ♡",
+        "size": "B92・W61・H86",
+        "detail": "生まれた時から周りに『天才』と褒めそやされ、すくすく健やかに、身も心も自信も成長したラブリーウマ娘。\n入学後もその自信と素質が陰ることなく、のびのびと過ごしているが……\nちょっぴり自分に甘すぎるのかもしれない。\n嫌いなものは反省会。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/be5f9ba589d34592bc05a22e347c7a77/fusaichipandora_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0575628000da4995ba849c01d4c3fd9d/fusaichipandora_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1c1527e3c7ca480785e82d6e13750485/fusaichipandora_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0c4d2e0e7b0e4973b824ccc9d37e28fe/fusaichipandora_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-004",
+                    "createdAt": "2024-01-22T06:31:54.262000+00:00",
+                    "updatedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "publishedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "revisedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "title": "<small>STARTING<br>FUTURE</small>"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/44e2e503960a498d9e3c904d61a12954/fusaichipandora_04_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0208f7517f7a4eee9b45ed2ae238ca4f/fusaichipandora_04.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": ""
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/65960c56dffd472e9e706753e61f7ce1/fusaichipandora_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3621c440175d4dd69260ea77b3122046/fusaichipandora_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
     "buenavista": {
         "id": "buenavista",
         "createdAt": "2024-06-24T03:24:36.716000+00:00",
@@ -18016,9 +18153,9 @@
     "durandal": {
         "id": "durandal",
         "createdAt": "2024-06-24T03:28:32.109000+00:00",
-        "updatedAt": "2024-09-20T09:01:18.643000+00:00",
+        "updatedAt": "2024-09-27T12:13:43.235000+00:00",
         "publishedAt": "2024-06-24T12:46:49.056000+00:00",
-        "revisedAt": "2024-09-20T09:01:18.643000+00:00",
+        "revisedAt": "2024-09-27T12:13:43.235000+00:00",
         "name": "デュランダル",
         "cn_name": "多旺达",
         "en": "Durandal",
@@ -18095,6 +18232,48 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/84636f8429b945418c41eb0b5f0dfb08/durandal_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3644e7c440ff4c66bb69362b1d1aec6f/durandal_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0d8f02ebc67a44e28f3c4dce9fb4fe07/durandal_03.png",
+                    "height": 1980,
+                    "width": 1200
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-004",
+                    "createdAt": "2024-01-22T06:31:54.262000+00:00",
+                    "updatedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "publishedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "revisedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "title": "<small>STARTING<br>FUTURE</small>"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/11a4de4a3223436cb59aea9bdb51b9fd/durandal_04_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/952ddca639ca4cf78296d924be0325c5/durandal_04.png",
                     "height": 1980,
                     "width": 1125
                 }
