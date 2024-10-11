@@ -18311,9 +18311,9 @@
     "bubblegumfellow": {
         "id": "bubblegumfellow",
         "createdAt": "2024-08-23T09:51:06.902000+00:00",
-        "updatedAt": "2024-08-23T12:43:40.371000+00:00",
+        "updatedAt": "2024-10-11T09:01:06.415000+00:00",
         "publishedAt": "2024-08-23T12:43:40.371000+00:00",
-        "revisedAt": "2024-08-23T12:43:40.371000+00:00",
+        "revisedAt": "2024-10-11T09:01:06.415000+00:00",
         "name": "バブルガムフェロー",
         "cn_name": "",
         "en": "Bubble Gum Fellow",
@@ -18338,7 +18338,7 @@
         "weight": "宣言通りの仕上がり",
         "size": "B82・W58・H84",
         "detail": "ハジけるポテンシャル。勇猛果敢な切り込み隊長。\n強靭な精神と飲み込みの早さを持ち、自身がやると宣言したことは必ずやり遂げる傑物。\n父のクラブでは『四天王』の1人と称され、同じように呼ばれたウマ娘たちと、レースでの活躍を誓い――日々、夢に向かって励んでいる。",
-        "movie_id": "",
+        "movie_id": "1wfP_8NMgd4",
         "is_top": null,
         "is_music": false,
         "list_thumb": {
@@ -18369,6 +18369,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f20183bdd3144cc78ae80158a4638b18/bubblegumfellow_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3ce42db8ee6846f4b1efb37875934dfa/bubblegumfellow_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9aecc4a43a05408e80c8acc346f03aa3/bubblegumfellow_02.png",
                     "height": 1980,
                     "width": 1125
                 }
