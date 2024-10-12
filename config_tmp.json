@@ -18315,7 +18315,7 @@
         "publishedAt": "2024-08-23T12:43:40.371000+00:00",
         "revisedAt": "2024-10-11T09:01:06.415000+00:00",
         "name": "バブルガムフェロー",
-        "cn_name": "",
+        "cn_name": "吹波糖",
         "en": "Bubble Gum Fellow",
         "catch": "宣言する。\n私は勝つよ。『四天王』の先陣として",
         "cv": "神谷早矢佳",
@@ -18412,16 +18412,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "G",
+            "short": "G",
+            "mile": "A",
+            "middle": "A",
+            "long": "G",
+            "run_away": "E",
+            "first": "A",
+            "center": "B",
+            "chase": "G"
         }
     },
     "happymeek": {
