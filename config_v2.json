@@ -12358,9 +12358,9 @@
     "transcend": {
         "id": "transcend",
         "createdAt": "2024-01-22T14:06:02.804000+00:00",
-        "updatedAt": "2024-08-23T12:45:46.206000+00:00",
+        "updatedAt": "2024-10-16T08:58:40.447000+00:00",
         "publishedAt": "2024-01-22T14:06:02.804000+00:00",
-        "revisedAt": "2024-08-23T12:45:46.206000+00:00",
+        "revisedAt": "2024-10-16T08:58:40.447000+00:00",
         "name": "トランセンド",
         "cn_name": "创升",
         "en": "Transcend",
@@ -12387,7 +12387,7 @@
         "detail": "サブカル好きな情報通ウマ娘。\n新しいものに目がなく、特に最新ガジェットが好き。\n好奇心旺盛で、ゾクゾクするモノやコトを日々求めている。\nコミュニケーション能力が高く、どんな輪にもひょっこり顔を出しては会話を楽しみながら情報を集めている。",
         "movie_id": "HpjCHevjJC0",
         "is_top": null,
-        "is_music": false,
+        "is_music": true,
         "list_thumb": {
             "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a3bed0aee9c04959a8086d09c8409b66/transcend_list.png",
             "height": 389,
@@ -17858,9 +17858,9 @@
     "dreamjourney": {
         "id": "dreamjourney",
         "createdAt": "2024-06-24T03:25:56.474000+00:00",
-        "updatedAt": "2024-08-23T12:44:56.003000+00:00",
+        "updatedAt": "2024-10-16T08:59:07.390000+00:00",
         "publishedAt": "2024-06-24T12:46:41.602000+00:00",
-        "revisedAt": "2024-08-23T12:44:56.003000+00:00",
+        "revisedAt": "2024-10-16T08:59:07.390000+00:00",
         "name": "ドリームジャーニー",
         "cn_name": "梦之旅",
         "en": "Dream Journey",
@@ -17887,7 +17887,7 @@
         "detail": "物腰柔らかな優等生で、オルフェーヴルの姉。\n幼い頃に出会った“アネゴ”に強い影響を受けており、彼女の語る“旅の果て”を見るためにレースを走っている。\n誰に対しても丁寧に接するその柔和な微笑みは、気遣いに満ちているように見えるのだが……？",
         "movie_id": "6lCpXR60xEY",
         "is_top": null,
-        "is_music": false,
+        "is_music": true,
         "list_thumb": {
             "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7ec1f7674eb34eafb8bc4cec6e8ab343/dreamjourney_list.png",
             "height": 389,
@@ -17995,9 +17995,9 @@
     "calstonelighto": {
         "id": "calstonelighto",
         "createdAt": "2024-06-24T03:27:12.866000+00:00",
-        "updatedAt": "2024-07-27T11:58:49.270000+00:00",
+        "updatedAt": "2024-10-16T08:59:33.904000+00:00",
         "publishedAt": "2024-06-24T12:46:45.748000+00:00",
-        "revisedAt": "2024-07-27T11:58:49.270000+00:00",
+        "revisedAt": "2024-10-16T08:59:33.904000+00:00",
         "name": "カルストンライトオ",
         "cn_name": "金镇之光",
         "en": "Calstone Light O",
@@ -18024,7 +18024,7 @@
         "detail": "生真面目かつクールな佇まい――の、直線番長！\n『最高速』を追い求め、その頂に辿り着かんと愚直にストイックに邁進する、猪突猛進系ウマ娘。\n1番速ければ誰よりも速い。つまり最高速です！\nとにかく素直で真っ直ぐなので、感情も行動もなにもかもが率直なタイプ。",
         "movie_id": "fF4qVDSOXZ0",
         "is_top": null,
-        "is_music": false,
+        "is_music": true,
         "list_thumb": {
             "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f1702e191d4045e3854dca9f074228fe/calstonelighto_list.png",
             "height": 389,
