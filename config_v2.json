@@ -18311,9 +18311,9 @@
     "bubblegumfellow": {
         "id": "bubblegumfellow",
         "createdAt": "2024-08-23T09:51:06.902000+00:00",
-        "updatedAt": "2024-10-11T09:01:06.415000+00:00",
+        "updatedAt": "2024-10-28T11:57:14.499000+00:00",
         "publishedAt": "2024-08-23T12:43:40.371000+00:00",
-        "revisedAt": "2024-10-11T09:01:06.415000+00:00",
+        "revisedAt": "2024-10-28T11:57:14.499000+00:00",
         "name": "バブルガムフェロー",
         "cn_name": "吹波糖",
         "en": "Bubble Gum Fellow",
@@ -18392,6 +18392,27 @@
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9aecc4a43a05408e80c8acc346f03aa3/bubblegumfellow_02.png",
                     "height": 1980,
                     "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7c9e8c187e204ab388ac0854d8538eb6/bubblegumfellow_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/44934aa5f4c442f1b280b30c5ebe85a9/bubblegumfellow_03.png",
+                    "height": 1783,
+                    "width": 1013
                 }
             }
         ],
@@ -20117,6 +20138,101 @@
             },
             "header": {
                 "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d12aeb106ed84e48a0b30d9cd9ad395b/tsurugiryoka_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
+    "sugarlights": {
+        "id": "sugarlights",
+        "createdAt": "2024-10-25T04:10:24.786000+00:00",
+        "updatedAt": "2024-10-28T11:55:47.704000+00:00",
+        "publishedAt": "2024-10-28T11:55:47.704000+00:00",
+        "revisedAt": "2024-10-28T11:55:47.704000+00:00",
+        "name": "シュガーライツ",
+        "cn_name": "",
+        "en": "Sugar Lights",
+        "catch": "手伝ってくれるか？\n私の、個人的な研究を",
+        "cv": "石川由依",
+        "category": [
+            "トレセン学園関係者"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#5cc0ad",
+        "color_sub": "#c85382",
+        "birthday": "",
+        "height": "",
+        "weight": "",
+        "size": "",
+        "detail": "『ST-2（サティ）』というフルダイブ型ロボットを発明。\nそれを完成させることを自身の命題とし、日夜研究に励んでいる、稀代の科学者。\n過去のケガから、車椅子の助けも借りて生活している彼女は、どうやら自らの夢のため、トレセン学園に協力者を募りに来たらしく――",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e1631cf19fec4940ace4e4adb7fbad07/sugarlights_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b0e98259b021451f804064c979b706ca/sugarlights_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "",
+                    "height": 0,
+                    "width": 0
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e053c7f75c6b4a70a8094b5b87e653ef/sugarlights_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": ""
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a4122d2549834a5198e685d947d54162/sugarlights_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/06fa435efd6346d7be1bab76824a9ea2/sugarlights_header.png",
                 "height": 500,
                 "width": 1500
             }
