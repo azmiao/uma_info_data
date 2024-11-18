@@ -16920,11 +16920,11 @@
     "airmessiah": {
         "id": "airmessiah",
         "createdAt": "2024-01-22T14:06:02.838000+00:00",
-        "updatedAt": "2024-07-27T11:57:15.261000+00:00",
+        "updatedAt": "2024-11-18T09:00:57.806000+00:00",
         "publishedAt": "2024-01-22T14:06:02.838000+00:00",
-        "revisedAt": "2024-07-27T11:57:15.261000+00:00",
+        "revisedAt": "2024-11-18T09:00:57.806000+00:00",
         "name": "エアメサイア",
-        "cn_name": "",
+        "cn_name": "空中救世主",
         "en": "Air Messiah",
         "catch": "地味でも、堅実に、確実に……。\nそれが、私の強さだから",
         "cv": "根本優奈",
@@ -16947,7 +16947,7 @@
         "weight": "規則正しく",
         "size": "B83・W56・H81",
         "detail": "誠実で堅実な努力家。\n殻を破りたい、突き抜けたいと、様々なことに挑戦するも、いつも小さくまとまりがち。\nトリプルティアラ全てで入着した母を持ち、娘の自分が勝利を重ねることで、母の繋いだ未来の素晴らしさを示したいと考えている。",
-        "movie_id": "",
+        "movie_id": "HNLgfGKTpsM",
         "is_top": null,
         "is_music": true,
         "list_thumb": {
@@ -17042,16 +17042,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "G",
+            "short": "C",
+            "mile": "B",
+            "middle": "A",
+            "long": "G",
+            "run_away": "G",
+            "first": "B",
+            "center": "A",
+            "chase": "E"
         }
     },
     "daringheart": {
