@@ -2,9 +2,9 @@
     "specialweek": {
         "id": "specialweek",
         "createdAt": "2024-01-22T14:06:02.686000+00:00",
-        "updatedAt": "2024-06-11T09:31:43.680000+00:00",
+        "updatedAt": "2024-11-19T06:13:22.290000+00:00",
         "publishedAt": "2024-01-22T14:06:02.686000+00:00",
-        "revisedAt": "2024-06-11T09:31:43.680000+00:00",
+        "revisedAt": "2024-11-19T06:13:22.290000+00:00",
         "name": "スペシャルウィーク",
         "cn_name": "特别周",
         "en": "Special Week",
@@ -75,12 +75,12 @@
                     "title": "勝負服"
                 },
                 "thumb": {
-                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8147cb3ab11048f493dda8bbd2572ea3/specialweek_02_thumb.png",
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8fc59aab0f054f14b5016cef564d90a4/specialweek_02_thumb_2.png",
                     "height": 198,
                     "width": 198
                 },
                 "image": {
-                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/535a4ec994c1411b8e8cc04e3a3cf118/specialweek_02.png",
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e529e8ff6a1746fa8a3af030c65f0cc4/specialweek_02_2.png",
                     "height": 1980,
                     "width": 1125
                 }
