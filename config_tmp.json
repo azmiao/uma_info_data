@@ -15508,9 +15508,9 @@
     "samsonbig": {
         "id": "samsonbig",
         "createdAt": "2024-01-22T14:06:02.823000+00:00",
-        "updatedAt": "2024-08-23T12:44:43.473000+00:00",
+        "updatedAt": "2024-11-27T12:00:02.081000+00:00",
         "publishedAt": "2024-01-22T14:06:02.823000+00:00",
-        "revisedAt": "2024-08-23T12:44:43.473000+00:00",
+        "revisedAt": "2024-11-27T12:00:02.081000+00:00",
         "name": "サムソンビッグ",
         "cn_name": "",
         "en": "Samson Big",
@@ -15566,6 +15566,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/67897b4078a74063851597f3afc4aef4/samsonbig_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6385da5acf0c425a90630c1314891410/samsonbig_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/81881bc5bd9d4779afb496ddd1042e3b/samsonbig_02.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -18443,6 +18464,101 @@
             "first": "A",
             "center": "B",
             "chase": "G"
+        }
+    },
+    "blastonepiece": {
+        "id": "blastonepiece",
+        "createdAt": "2024-11-26T08:51:15.537000+00:00",
+        "updatedAt": "2024-11-27T11:58:55.068000+00:00",
+        "publishedAt": "2024-11-27T11:58:55.068000+00:00",
+        "revisedAt": "2024-11-27T11:58:55.068000+00:00",
+        "name": "ブラストワンピース",
+        "cn_name": "",
+        "en": "Blast Onepiece",
+        "catch": "人間だーい好きだ！\nもっともっと仲良くしてほしいぞ！",
+        "cv": "紫月杏朱彩",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#009CBD",
+        "color_sub": "#0CB85F",
+        "birthday": "4月2日",
+        "height": "174cm",
+        "weight": "どっかん！",
+        "size": "B93・W63・H90",
+        "detail": "人懐っこさ全開の天真爛漫ウマ娘。\nヒトの姿を見つけると、嬉しさいっぱいにワフワフと駆け寄ってくる。\n小さい頃、脚のケアをしてもらったため、ウマ娘と繋がりのあるヒトがとくに大好き。\nヒトの文化、歴史などなどに興味津々！",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/15d555352d574b44b0106fc70fb0892f/blastonepiece_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3196ded66d814094a4a804801d072d2e/blastonepiece_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6fbb1c62ada844b79d9fa87fa2e804c5/blastonepiece_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f8fec7fa9def45ec828821d6c8b0ed27/blastonepiece_01.png",
+                    "height": 1980,
+                    "width": 1185
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a1923bc0d7ba4fe18e9cd2c76a6d9787/blastonepiece_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/47660e14ce4f4f4fabb8a6b045ab4d0b/blastonepiece_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/571c37f86da2473ba3ba6b37f4612ef7/blastonepiece_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
         }
     },
     "happymeek": {
