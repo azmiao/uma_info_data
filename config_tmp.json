@@ -18466,6 +18466,101 @@
             "chase": "G"
         }
     },
+    "sakurachitoseo": {
+        "id": "sakurachitoseo",
+        "createdAt": "2024-11-29T08:01:46.776000+00:00",
+        "updatedAt": "2024-12-01T15:25:30.804000+00:00",
+        "publishedAt": "2024-12-01T15:25:30.804000+00:00",
+        "revisedAt": "2024-12-01T15:25:30.804000+00:00",
+        "name": "サクラチトセオー",
+        "cn_name": "",
+        "en": "Sakura Chitose O",
+        "catch": "『薬食同源』、千歳の命も食から……。\n疎かにしては……なりませぬよ？",
+        "cv": "",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#FA83CB",
+        "color_sub": "#D8C8D1",
+        "birthday": "5月11日",
+        "height": "164cm",
+        "weight": "すっきり",
+        "size": "B84・W56・H84",
+        "detail": "薬食同源の思想。それをもっと世に広め、皆を健康にしたいと願う漢方仙女。\nサクラのウマ娘が集うちびっこクラブ『ヴィクトリー倶楽部』出身の中でも異色の存在で、おっとり超然としている。\n好きな数字は1と6。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3aa6c2887e5c48348a9ecf646d123dc1/sakurachitoseo_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/cd6c8448471647ceac7d05c013f3245f/sakurachitoseo_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7fe3d0ee09874a95a498ab89b411a149/sakurachitoseo_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/634945162f1c4bae87fda88f55716621/sakurachitoseo_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": ""
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f3ac83fe050844d0b6a70c0a8ef68c61/sakurachitoseo_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1d1512053c96443ea2ed5495d4c160a3/sakurachitoseo_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
     "blastonepiece": {
         "id": "blastonepiece",
         "createdAt": "2024-11-26T08:51:15.537000+00:00",
