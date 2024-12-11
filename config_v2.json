@@ -12221,9 +12221,9 @@
     "furioso": {
         "id": "furioso",
         "createdAt": "2024-01-22T14:06:02.804000+00:00",
-        "updatedAt": "2024-08-23T12:44:33.900000+00:00",
+        "updatedAt": "2024-12-11T07:53:53.991000+00:00",
         "publishedAt": "2024-01-22T14:06:02.804000+00:00",
-        "revisedAt": "2024-08-23T12:44:33.900000+00:00",
+        "revisedAt": "2024-12-11T07:53:53.991000+00:00",
         "name": "フリオーソ",
         "cn_name": "",
         "en": "Furioso",
@@ -12250,7 +12250,7 @@
         "detail": "船橋トレセン学園から訪れた、特別留学生。\n誠実で物静かなウマ娘だが、その胸の内には誰よりも熱い船橋への愛情を宿している。\n船橋の強さを証明するために、掲げる目標はひとつ――打倒、中央。",
         "movie_id": "",
         "is_top": null,
-        "is_music": false,
+        "is_music": true,
         "list_thumb": {
             "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3de9f0dba51749d1828aee4adaf39549/furioso_list.png",
             "height": 389,
@@ -12516,9 +12516,9 @@
     "espoircity": {
         "id": "espoircity",
         "createdAt": "2024-01-22T14:06:02.804000+00:00",
-        "updatedAt": "2024-08-23T12:44:47.350000+00:00",
+        "updatedAt": "2024-12-11T07:53:39.735000+00:00",
         "publishedAt": "2024-01-22T14:06:02.804000+00:00",
-        "revisedAt": "2024-08-23T12:44:47.350000+00:00",
+        "revisedAt": "2024-12-11T07:53:39.735000+00:00",
         "name": "エスポワールシチー",
         "cn_name": "希望之城",
         "en": "Espoir City",
@@ -12545,7 +12545,7 @@
         "detail": "常にツンツンしている、反抗期全開ギャル。\n特に『指導者』に対して反抗心を持っており、自分の強さを示すため、がむしゃらにレースを駆けている。\n強気に振る舞っている時に限って、よくコケてしまうのが悩み。",
         "movie_id": "",
         "is_top": null,
-        "is_music": false,
+        "is_music": true,
         "list_thumb": {
             "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6c6e4c6387bc40fd9a3f63e2b414f62a/espoircity_list.png",
             "height": 389,
@@ -17746,7 +17746,7 @@
         "publishedAt": "2024-01-22T14:06:01.639000+00:00",
         "revisedAt": "2024-12-10T09:01:06.584000+00:00",
         "name": "ウインバリアシオン",
-        "cn_name": "",
+        "cn_name": "凯旋芭蕾",
         "en": "Win Variation",
         "catch": "やってみせるっす……！\n努力は、必ず報われるんだから",
         "cv": "月城日花",
@@ -17864,16 +17864,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "G",
+            "short": "G",
+            "mile": "E",
+            "middle": "A",
+            "long": "A",
+            "run_away": "G",
+            "first": "E",
+            "center": "A",
+            "chase": "A"
         }
     },
     "dreamjourney": {
@@ -18568,7 +18568,7 @@
         "publishedAt": "2024-11-27T11:58:55.068000+00:00",
         "revisedAt": "2024-11-27T11:58:55.068000+00:00",
         "name": "ブラストワンピース",
-        "cn_name": "",
+        "cn_name": "防爆装束",
         "en": "Blast Onepiece",
         "catch": "人間だーい好きだ！\nもっともっと仲良くしてほしいぞ！",
         "cv": "紫月杏朱彩",
@@ -20369,9 +20369,9 @@
     "sugarlights": {
         "id": "sugarlights",
         "createdAt": "2024-10-25T04:10:24.786000+00:00",
-        "updatedAt": "2024-10-28T11:55:47.704000+00:00",
+        "updatedAt": "2024-12-11T07:53:21.233000+00:00",
         "publishedAt": "2024-10-28T11:55:47.704000+00:00",
-        "revisedAt": "2024-10-28T11:55:47.704000+00:00",
+        "revisedAt": "2024-12-11T07:53:21.233000+00:00",
         "name": "シュガーライツ",
         "cn_name": "",
         "en": "Sugar Lights",
@@ -20398,7 +20398,7 @@
         "detail": "『ST-2（サティ）』というフルダイブ型ロボットを発明。\nそれを完成させることを自身の命題とし、日夜研究に励んでいる、稀代の科学者。\n過去のケガから、車椅子の助けも借りて生活している彼女は、どうやら自らの夢のため、トレセン学園に協力者を募りに来たらしく――",
         "movie_id": "",
         "is_top": null,
-        "is_music": false,
+        "is_music": true,
         "list_thumb": {
             "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e1631cf19fec4940ace4e4adb7fbad07/sugarlights_list.png",
             "height": 389,
