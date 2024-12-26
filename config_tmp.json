@@ -17742,9 +17742,9 @@
     "winvariation": {
         "id": "winvariation",
         "createdAt": "2024-01-22T14:06:01.639000+00:00",
-        "updatedAt": "2024-12-10T09:01:06.584000+00:00",
+        "updatedAt": "2024-12-25T12:23:51.253000+00:00",
         "publishedAt": "2024-01-22T14:06:01.639000+00:00",
-        "revisedAt": "2024-12-10T09:01:06.584000+00:00",
+        "revisedAt": "2024-12-25T12:23:51.253000+00:00",
         "name": "ウインバリアシオン",
         "cn_name": "凯旋芭蕾",
         "en": "Win Variation",
@@ -17823,6 +17823,27 @@
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/875a200914eb4392b54787a6a42c2ab2/winvariation_02.png",
                     "height": 1980,
                     "width": 1300
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7a9ada9f54704315be8375b959450b34/winvariation_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/682793167c9a4c028e7c447a84148b1b/winvariation_03.png",
+                    "height": 1980,
+                    "width": 1125
                 }
             },
             {
@@ -19708,7 +19729,7 @@
         "publishedAt": "2024-01-22T14:06:01.641000+00:00",
         "revisedAt": "2024-02-17T08:08:10.988000+00:00",
         "name": "樫本理子",
-        "cn_name": "樫本理子",
+        "cn_name": "㭴本理子",
         "en": "Kashimoto Riko",
         "catch": "ウマ娘のコンディションは、私たちが守るべきもの。\n管理・記録は正確無比に行いなさい",
         "cv": "朴璐美",
@@ -20278,7 +20299,7 @@
         "publishedAt": "2024-01-22T14:06:01.641000+00:00",
         "revisedAt": "2024-02-19T12:13:51.987000+00:00",
         "name": "都留岐涼花",
-        "cn_name": "都留岐涼花",
+        "cn_name": "都留岐凉花",
         "en": "Tsurugi Ryoka",
         "catch": "必ず作り上げましょう。\n最高のエンターテインメントを、私たちで",
         "cv": "佐藤利奈",
