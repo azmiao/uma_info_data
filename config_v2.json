@@ -11378,9 +11378,9 @@
     "tsurumarutsuyoshi": {
         "id": "tsurumarutsuyoshi",
         "createdAt": "2024-01-22T14:06:02.801000+00:00",
-        "updatedAt": "2024-07-27T11:55:19.167000+00:00",
+        "updatedAt": "2025-02-14T09:00:50.664000+00:00",
         "publishedAt": "2024-01-22T14:06:02.801000+00:00",
-        "revisedAt": "2024-07-27T11:55:19.167000+00:00",
+        "revisedAt": "2025-02-14T09:00:50.664000+00:00",
         "name": "ツルマルツヨシ",
         "cn_name": "鹤丸刚志",
         "en": "Tsurumaru Tsuyoshi",
@@ -11405,7 +11405,7 @@
         "weight": "増量中",
         "size": "B85・W58・H86",
         "detail": "元気で前向き、なにごとも精いっぱいなウマ娘。\nでもそんな性格に対し体がついてきてくれない。\n走りに限らず高いポテンシャルを持つが、いかんせん全力で挑んでは倒れ、結果が出ない。\nそれでも夢である『三冠ウマ娘』を目指し、今日も精いっぱい走る――その心は強し！",
-        "movie_id": "",
+        "movie_id": "UakWjeWw93s",
         "is_top": null,
         "is_music": true,
         "list_thumb": {
@@ -11500,16 +11500,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "F",
+            "short": "F",
+            "mile": "D",
+            "middle": "A",
+            "long": "C",
+            "run_away": "G",
+            "first": "A",
+            "center": "A",
+            "chase": "E"
         }
     },
     "mejirobright": {
