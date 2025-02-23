@@ -11378,9 +11378,9 @@
     "tsurumarutsuyoshi": {
         "id": "tsurumarutsuyoshi",
         "createdAt": "2024-01-22T14:06:02.801000+00:00",
-        "updatedAt": "2025-02-14T09:00:50.664000+00:00",
+        "updatedAt": "2025-02-22T13:12:05.083000+00:00",
         "publishedAt": "2024-01-22T14:06:02.801000+00:00",
-        "revisedAt": "2025-02-14T09:00:50.664000+00:00",
+        "revisedAt": "2025-02-22T13:12:05.083000+00:00",
         "name": "ツルマルツヨシ",
         "cn_name": "鹤丸刚志",
         "en": "Tsurumaru Tsuyoshi",
@@ -11457,6 +11457,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/19fccbb46ca24dcf87740a98d24951ef/tsurumarutsuyoshi_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/85c8c02a5d0743589c4f4284b2f8d1d9/tsurumarutsuyoshi_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/bf0d64f25ec545ac902a44b5f9ba63c8/tsurumarutsuyoshi_03.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -11673,13 +11694,13 @@
     "daringtact": {
         "id": "daringtact",
         "createdAt": "2024-01-22T14:06:02.802000+00:00",
-        "updatedAt": "2024-04-25T11:21:57.544000+00:00",
+        "updatedAt": "2025-02-22T13:12:37.619000+00:00",
         "publishedAt": "2024-01-22T14:06:02.802000+00:00",
-        "revisedAt": "2024-04-25T11:21:57.544000+00:00",
+        "revisedAt": "2025-02-22T13:12:37.619000+00:00",
         "name": "デアリングタクト",
         "cn_name": "",
         "en": "Daring Tact",
-        "catch": "",
+        "catch": "厳しい自然、温かい人々――\n私を育ててくれた全てのために！",
         "cv": "羊宮妃那",
         "category": [
             "ウマ娘"
@@ -11695,11 +11716,11 @@
         "earring": [],
         "color_main": "#79c6db",
         "color_sub": "#6c5953",
-        "birthday": "",
-        "height": "",
-        "weight": "",
-        "size": "",
-        "detail": "",
+        "birthday": "4月15日",
+        "height": "158cm",
+        "weight": "自然な推移",
+        "size": "B80・W55・H82",
+        "detail": "厳しくも美しい大自然の中でのびのびと育った、朗らかで礼儀正しく芯の強いウマ娘。\n自分を育んでくれた故郷の素晴らしさを証明するという夢のため、日夜真摯に修行中。\n先輩のデアリングハートと共に山籠もりに向かう姿がよく目撃されている。",
         "movie_id": "",
         "is_top": null,
         "is_music": false,
@@ -11734,10 +11755,31 @@
                     "height": 1980,
                     "width": 1125
                 }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-004",
+                    "createdAt": "2024-01-22T06:31:54.262000+00:00",
+                    "updatedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "publishedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "revisedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "title": "<small>STARTING<br>FUTURE</small>"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/25c8820f417147e08b447d9af6ce8ada/daringtact_04_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c224f95b8f8a40e0a33d31f9b55ca814/daringtact_04.png",
+                    "height": 1980,
+                    "width": 1125
+                }
             }
         ],
         "voice": {
-            "url": ""
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5ef8998840b94b26b925f21a696bdb1e/daringtact_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -14802,9 +14844,9 @@
     "noreason": {
         "id": "noreason",
         "createdAt": "2024-01-22T14:06:02.821000+00:00",
-        "updatedAt": "2024-07-27T11:56:32.863000+00:00",
+        "updatedAt": "2025-02-22T13:12:20.714000+00:00",
         "publishedAt": "2024-01-22T14:06:02.821000+00:00",
-        "revisedAt": "2024-07-27T11:56:32.863000+00:00",
+        "revisedAt": "2025-02-22T13:12:20.714000+00:00",
         "name": "ノーリーズン",
         "cn_name": "莫名其妙",
         "en": "No Reason",
@@ -14881,6 +14923,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a24e338ac3ac47cd8a96dbcfb640d9c0/noreason_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-004",
+                    "createdAt": "2024-01-22T06:31:54.262000+00:00",
+                    "updatedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "publishedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "revisedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "title": "<small>STARTING<br>FUTURE</small>"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/55fa73dd55ab47a4bf1f5a02bd109999/noreason_04_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/603a343b405146d5b104f78f70a259a7/noreason_04_1.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -17352,9 +17415,9 @@
     "buenavista": {
         "id": "buenavista",
         "createdAt": "2024-06-24T03:24:36.716000+00:00",
-        "updatedAt": "2024-07-27T11:57:42.523000+00:00",
+        "updatedAt": "2025-02-22T13:12:27.451000+00:00",
         "publishedAt": "2024-06-24T12:46:38.007000+00:00",
-        "revisedAt": "2024-07-27T11:57:42.523000+00:00",
+        "revisedAt": "2025-02-22T13:12:27.451000+00:00",
         "name": "ブエナビスタ",
         "cn_name": "迷人景致",
         "en": "Buena Vista",
@@ -17434,6 +17497,27 @@
                     "height": 1980,
                     "width": 1125
                 }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-004",
+                    "createdAt": "2024-01-22T06:31:54.262000+00:00",
+                    "updatedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "publishedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "revisedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "title": "<small>STARTING<br>FUTURE</small>"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5a776c513302408086748a4ae5de2f6f/buenavista_04_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/aae585384a4440a19b541c1cc74ba0da/buenavista_04.png",
+                    "height": 1980,
+                    "width": 1125
+                }
             }
         ],
         "voice": {
@@ -17468,9 +17552,9 @@
     "orfevre": {
         "id": "orfevre",
         "createdAt": "2024-01-22T14:06:01.637000+00:00",
-        "updatedAt": "2024-07-27T11:57:54.244000+00:00",
+        "updatedAt": "2025-02-22T14:04:57.058000+00:00",
         "publishedAt": "2024-01-22T14:06:01.637000+00:00",
-        "revisedAt": "2024-07-27T11:57:54.244000+00:00",
+        "revisedAt": "2025-02-22T14:04:57.058000+00:00",
         "name": "オルフェーヴル",
         "cn_name": "黄金巨匠",
         "en": "Orfevre",
@@ -17495,7 +17579,7 @@
         "weight": "黄金の輝き",
         "size": "B82・W55・H80",
         "detail": "天上天下唯我独尊、レース界の王を名乗ってはばからない、暴君ウマ娘。\nターフは我が領土、三冠は元より我がもの――\n故に、その手に取り戻しに行くのである。\n学園では、圧倒的な実力とカリスマ性に魅了された生徒たちが臣下として常にはべっているとか……。",
-        "movie_id": "",
+        "movie_id": "ofRxFld72Tc",
         "is_top": null,
         "is_music": true,
         "list_thumb": {
@@ -17549,6 +17633,27 @@
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/efc8ca6612ff457a84208685ca5b06cf/orfevre_02.png",
                     "height": 1980,
                     "width": 1350
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/df7c379b156e453ebc1dbaba4e141a63/orfevre_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0bf8501fba7b42d49e74b74bbcc9ddba/orfevre_03.png",
+                    "height": 1980,
+                    "width": 1500
                 }
             },
             {
@@ -18603,6 +18708,101 @@
             "chase": ""
         }
     },
+    "fenomeno": {
+        "id": "fenomeno",
+        "createdAt": "2025-02-22T05:40:17.817000+00:00",
+        "updatedAt": "2025-02-22T13:11:03.586000+00:00",
+        "publishedAt": "2025-02-22T13:11:03.586000+00:00",
+        "revisedAt": "2025-02-22T13:11:03.586000+00:00",
+        "name": "フェノーメノ",
+        "cn_name": "",
+        "en": "Fenomeno",
+        "catch": "外周パトロール、異常なしであります！\nこれより、校内警備に移行します！",
+        "cv": "日比優理香",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#574a74",
+        "color_sub": "#f4db4e",
+        "birthday": "4月20日",
+        "height": "171cm",
+        "weight": "怪物的",
+        "size": "B81・W59・H82",
+        "detail": "風紀委員会に所属する正義感が強いウマ娘。\n日々パトロールや地域のボランティア活動に精を出しており、その姿はさながら優しく頼れる皆のお巡りさん……と言いたいところだが、鋭すぎる眼光のせいか近所の子どもたちからは、すごーく怖がられてしまっているそうな。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d2d0f8f360cb46109a7acae5ce630be9/fenomeno_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c67a124e080741f594382cc05e165a8e/fenomeno_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/04fa8d3953734a958f7cc215d04ad848/fenomeno_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/197e3067b38c47a8b2da86f6d6a0728a/fenomeno_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/255c62a104af4ed6849883a6f3ef1460/fenomeno_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/76ace758891b4446ae31751f41a6c492/fenomeno_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c5a8e9d8cbec41e180f2f9b3a550b004/fenomeno_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
     "blastonepiece": {
         "id": "blastonepiece",
         "createdAt": "2024-11-26T08:51:15.537000+00:00",
@@ -18681,6 +18881,576 @@
             },
             "header": {
                 "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/571c37f86da2473ba3ba6b37f4612ef7/blastonepiece_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
+    "almondeye": {
+        "id": "almondeye",
+        "createdAt": "2025-02-22T05:41:36.648000+00:00",
+        "updatedAt": "2025-02-22T13:11:10.739000+00:00",
+        "publishedAt": "2025-02-22T13:11:10.739000+00:00",
+        "revisedAt": "2025-02-22T13:11:10.739000+00:00",
+        "name": "アーモンドアイ",
+        "cn_name": "",
+        "en": "Almond Eye",
+        "catch": "好きよ、レース――だって楽しいじゃない？\n勝負するのも、勝つのも",
+        "cv": "石原夏織",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#69a9e9",
+        "color_sub": "#cc3300",
+        "birthday": "3月10日",
+        "height": "163cm",
+        "weight": "完璧、よ",
+        "size": "B86・W57・H81",
+        "detail": "文武両道にしてスター性兼備、あらゆる方面で完璧な超絶優等生。\nただしそれは彼女が『超』が9個ほどつくレベルの『負けず嫌い』であるからこその結果。\n負けん気が強すぎて完璧主義のきらいがあったり、体力以上の無茶をしがちなのが玉にキズ。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6009fc8852bf4db3930510850c2bc8e9/almondeye_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8a10238e87134302baf8cdbe14ff9375/almondeye_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/854228b0c1104185a38857760a3f2cd2/almondeye_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/79f6294c41e149278d792d6636fecb5d/almondeye_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/01e0911915f94c7f9fc77d4cd411d1da/almondeye_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b9f6142acbfa4eb4ba7c9a56899de5c8/almondeye_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6bef7e9a8a81485486a93b781e75a5c9/almondeye_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
+    "luckylilac": {
+        "id": "luckylilac",
+        "createdAt": "2025-02-22T05:42:48.917000+00:00",
+        "updatedAt": "2025-02-22T13:11:16.443000+00:00",
+        "publishedAt": "2025-02-22T13:11:16.443000+00:00",
+        "revisedAt": "2025-02-22T13:11:16.443000+00:00",
+        "name": "ラッキーライラック",
+        "cn_name": "",
+        "en": "Lucky Lilac",
+        "catch": "あんたの背中、もう見飽きてしもたんよ。\n――今日こそうちの番や",
+        "cv": "中島由貴",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#454152",
+        "color_sub": "#907594",
+        "birthday": "4月3日",
+        "height": "162cm",
+        "weight": "たおやかな推移",
+        "size": "B88・W57・H85",
+        "detail": "淑やかな関西弁が特徴的なウマ娘。\n憧れの先輩であるオルフェーヴルのような、気品あふれるレース界の花形となるべく日々自分を磨いている。\nそれゆえ常にたおやかなふるまいを心がけており、それに反する心の声は内にとどめるよう努力しているとか。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/781af99cf1d84e63bc2026538f0a55a5/luckylilac_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0b7aa29ee3c2432987eca71327332d51/luckylilac_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/48fef11a031b494089dee0d591f2c165/luckylilac_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/626d216f287b4a5ba03bdb1791f2d739/luckylilac_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/abfb1b6f9e304554a85ea1e4863a5172/luckylilac_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/46e363185d2f442bbba7882346446650/luckylilac_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6162a8d5c3704779829e340d82e81301/luckylilac_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
+    "granalegria": {
+        "id": "granalegria",
+        "createdAt": "2025-02-22T05:44:08.344000+00:00",
+        "updatedAt": "2025-02-22T13:11:22.596000+00:00",
+        "publishedAt": "2025-02-22T13:11:22.596000+00:00",
+        "revisedAt": "2025-02-22T13:11:22.596000+00:00",
+        "name": "グランアレグリア",
+        "cn_name": "",
+        "en": "Gran Alegria",
+        "catch": "あたし、マイルでは最強なので！\n０.７５マイルでも、１.２５マイルでも！",
+        "cv": "夏目妃菜",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#53565a",
+        "color_sub": "#ef4d60",
+        "birthday": "1月24日",
+        "height": "160cm",
+        "weight": "10マイルくらい成長中！",
+        "size": "B84・W55・H85",
+        "detail": "天真爛漫かつ超絶アサーティブな性格と、驚異的運動神経を併せ持つ天才ウマ娘。\n独自の尺度でライフスタイルを確立しており、『ラジオの国会中継でリラックスタイム』等をはじめとした数々の不思議なルーティン――彼女曰く『マイルール』に準じて生活している。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/186354558c8c4dec98c37d6e67cc2464/granalegria_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/bcbb7b40cba84435a591001f3af5cdcd/granalegria_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a8c584e95b274ec7a7825a5d469d2dfd/granalegria_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/22aaeb4acffa41a49ea2e9203d711da5/granalegria_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7e714392896441fabe3ba47051af2b00/granalegria_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/575611d9711d4da3840f13618d1c8c21/granalegria_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7c51a1964b31458bbbcedbcfd50fa141/granalegria_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
+    "lovesonlyyou": {
+        "id": "lovesonlyyou",
+        "createdAt": "2025-02-22T05:45:27.572000+00:00",
+        "updatedAt": "2025-02-22T13:11:29.473000+00:00",
+        "publishedAt": "2025-02-22T13:11:29.473000+00:00",
+        "revisedAt": "2025-02-22T13:11:29.473000+00:00",
+        "name": "ラヴズオンリーユー",
+        "cn_name": "",
+        "en": "Loves Only You",
+        "catch": "ラヴミー♡　ラヴユー♡\nラヴズオンリーユーでーす♡",
+        "cv": "久保田未夢",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#424840",
+        "color_sub": "#268745",
+        "birthday": "3月26日",
+        "height": "158cm",
+        "weight": "メン限公開中",
+        "size": "B88・W58・H88",
+        "detail": "ネット上で自分のファンクラブを運営しており、会員登録してくれているファンのために、よく動画配信などの活動をしている。\n夢は世界中のファンと『愛』を分かち合うこと♡\nファンからは応援という名の『愛』をもらい、自分は勝利という名の『愛』を返すのだとか。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/abbfc5bb547f4d03a886e10f1072d603/lovesonlyyou_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0be876db22db416c946135fe0d8dd67b/lovesonlyyou_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/02ed0b5f6dff4f029a8f4bc2411c4a28/lovesonlyyou_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d090b2bf1b3d44d38418cd10a39934e1/lovesonlyyou_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ce2acfac5e464b3da162b193c1244278/lovesonlyyou_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6fc88f4252eb4c898e362efa831ed577/lovesonlyyou_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2c4ae75314fc4903affd4d2e219c0ed6/lovesonlyyou_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
+    "chronogenesis": {
+        "id": "chronogenesis",
+        "createdAt": "2025-02-22T05:46:41.491000+00:00",
+        "updatedAt": "2025-02-22T13:11:35.212000+00:00",
+        "publishedAt": "2025-02-22T13:11:35.212000+00:00",
+        "revisedAt": "2025-02-22T13:11:35.212000+00:00",
+        "name": "クロノジェネシス",
+        "cn_name": "",
+        "en": "Chrono Genesis",
+        "catch": "熱いレース史を刻みたい、自分の脚で……。\nそれが、私の夢……なんです……！",
+        "cv": "真名瀬日和",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#464647",
+        "color_sub": "#50a19f",
+        "birthday": "3月6日",
+        "height": "152cm",
+        "weight": "歴史的",
+        "size": "B77・W54・H76",
+        "detail": "控え目な性格の、歴史学好きなウマ娘。\n歴史の中でもとりわけ『レース史』、すなわち数多のウマ娘やトレーナーたちの『夢』が織りなす熱いドラマが大好き。\n好きすぎて、毎回レースの結果を本気で予想したり、毎週のようにレース場へ大きなカメラを担いで出かけたりしている。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e515893fdf2249a8abe6602ee5ebc95e/chronogenesis_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e670ff5bb010471d9b6be2ed1c8b2d54/chronogenesis_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/fa138fe116aa42c185ae74b3cae54ddc/chronogenesis_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e0460992f1344a479e29f0f4ac044a14/chronogenesis_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1032c03625ba468aabf8e32a0e659a85/chronogenesis_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1b2325f4acaf4079924941d8bbdb873b/chronogenesis_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/19169e2da8ba425b952fabf6e5d777fd/chronogenesis_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
+    "currenbouquetdor": {
+        "id": "currenbouquetdor",
+        "createdAt": "2025-02-22T05:47:58.027000+00:00",
+        "updatedAt": "2025-02-22T13:11:41.836000+00:00",
+        "publishedAt": "2025-02-22T13:11:41.836000+00:00",
+        "revisedAt": "2025-02-22T13:11:41.836000+00:00",
+        "name": "カレンブーケドール",
+        "cn_name": "",
+        "en": "Curren Bouquetd'or",
+        "catch": "いつか、必ず。\nあなたにふさわしい花束を――",
+        "cv": "小田杏樹",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#8e8180",
+        "color_sub": "#473d3c",
+        "birthday": "4月23日",
+        "height": "153cm",
+        "weight": "調和のとれた推移",
+        "size": "B78・W53・H77",
+        "detail": "花の世話やフラワーアレンジメントが好きな、優し過ぎるほどに優しいウマ娘。\n常に他人を慮り、心を砕き、相手の気持ち第一で行動しがち。\nそれゆえいろいろと強烈な同世代ウマ娘たちの中で埋もれがちだが、その実力は間違いなく本物。\n『時代』という花束には欠かせない一輪。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/65ff1570a4ef40af9d00918eb94a9e6f/currenbouquetdor_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3e0126f023334bde9f2139921807264a/currenbouquetdor_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/331a966aa4364f11951583d53090c139/currenbouquetdor_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4975d4060304488a9b30fe63625bb08f/currenbouquetdor_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0ae3d88ea69041bc95686fa487466326/currenbouquetdor_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/bc00e8b39b094be48c3e849273dbe196/currenbouquetdor_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5c68e1fac8ff4b5cb6757886b19e4898/currenbouquetdor_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -20486,6 +21256,291 @@
             },
             "header": {
                 "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/06fa435efd6346d7be1bab76824a9ea2/sugarlights_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
+    "saintlite": {
+        "id": "saintlite",
+        "createdAt": "2025-02-22T05:49:17.325000+00:00",
+        "updatedAt": "2025-02-22T13:10:35.932000+00:00",
+        "publishedAt": "2025-02-22T13:10:35.932000+00:00",
+        "revisedAt": "2025-02-22T13:10:35.932000+00:00",
+        "name": "セントライト",
+        "cn_name": "",
+        "en": "Saint Lite",
+        "catch": "Seize the crowns. Seize glory.\n誇りある冠を、戴くのです",
+        "cv": "能登麻美子",
+        "category": [
+            "トレセン学園関係者"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#5bb1de",
+        "color_sub": "#ebc6ac",
+        "birthday": "",
+        "height": "",
+        "weight": "",
+        "size": "",
+        "detail": "史上初のクラシック三冠ウマ娘。\nイギリスのさる高名な貴族のもとに生まれ、日本で育った彼女は、早々に己の使命を自覚。\n“レース界に、誇りある栄冠の道を作る”\n見事達成した後、現役生活を1年で引退した。\n現在は故郷に隠居し、レース事業を支援中。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6fe1f0532dcb4d7b9afb1f25c21744ee/saintlite_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e70c54543b9843f2a7a25225d9c052aa/saintlite_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "",
+                    "height": 0,
+                    "width": 0
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c5e01500be09448a8a202398ba85230a/saintlite_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": ""
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4081769bd08e43a4a9d034c609142652/saintlite_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f1a4c92c58cf406981952251592b9ab7/saintlite_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
+    "speedsymboli": {
+        "id": "speedsymboli",
+        "createdAt": "2025-02-22T05:50:27.250000+00:00",
+        "updatedAt": "2025-02-22T13:10:44.410000+00:00",
+        "publishedAt": "2025-02-22T13:10:44.410000+00:00",
+        "revisedAt": "2025-02-22T13:10:44.410000+00:00",
+        "name": "スピードシンボリ",
+        "cn_name": "",
+        "en": "Speed Symboli",
+        "catch": "我々の夢に、全て捧げよう――全てだ。\nさあ諸君、恐れず挑め！",
+        "cv": "沢城みゆき",
+        "category": [
+            "トレセン学園関係者"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#10a546",
+        "color_sub": "#e3e3e3",
+        "birthday": "",
+        "height": "",
+        "weight": "",
+        "size": "",
+        "detail": "日本から初めて『凱旋門賞』の頂を目指した海外レース挑戦のパイオニア。\n現在はURAの海外事業部を管轄している。\n世界のレースで勝利するという夢を追い、精励恪勤と飛び回る彼女に心酔する者は多い。\nシンボリ家の親戚たちを気にかけている。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d64cf4d8702648c1bc2aa5c5a6d7afbd/speedsymboli_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3ec81fc3f2234748a20d50828c7c9976/speedsymboli_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "",
+                    "height": 0,
+                    "width": 0
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/61371a11b9f94690bda36a702f14c65d/speedsymboli_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": ""
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b7c4c4544ff844879bb3e2453799ee75/speedsymboli_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/59f3968d3ea64d38bc78dbaa78f40c3a/speedsymboli_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
+    "haiseiko": {
+        "id": "haiseiko",
+        "createdAt": "2025-02-22T05:52:18.609000+00:00",
+        "updatedAt": "2025-02-22T13:10:51.351000+00:00",
+        "publishedAt": "2025-02-22T13:10:51.351000+00:00",
+        "revisedAt": "2025-02-22T13:10:51.351000+00:00",
+        "name": "ハイセイコー",
+        "cn_name": "",
+        "en": "Haiseiko",
+        "catch": "たくさんの応援、ありがとう〜っ！\n愛を込めて……聞いてください！",
+        "cv": "丹下桜",
+        "category": [
+            "トレセン学園関係者"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#c23c94",
+        "color_sub": "#e3f5ff",
+        "birthday": "",
+        "height": "",
+        "weight": "",
+        "size": "",
+        "detail": "国中から成長を見守られ、愛されて、最初のレースブームを巻き起こした立役者。\n現在はアイドルとして変わらずファンを熱狂させている。\n天真爛漫でハートが強く、どんな困難もタフに乗り越えてきた。\n現役時代は“怪物チャン”とも呼ばれた鉄人。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9649d25c93c2409a85cd9af0444fa051/haiseiko_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7a4106f914204489b6044fb3401561a0/haiseiko_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "",
+                    "height": 0,
+                    "width": 0
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8973741aed3d4b4a93d179951b50c677/haiseiko_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": ""
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/77842405b2754037b3470a695d018d08/haiseiko_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/be95fea2d1f546a49cbc20a7050c08d3/haiseiko_header.png",
                 "height": 500,
                 "width": 1500
             }
