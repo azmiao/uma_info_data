@@ -11694,9 +11694,9 @@
     "daringtact": {
         "id": "daringtact",
         "createdAt": "2024-01-22T14:06:02.802000+00:00",
-        "updatedAt": "2025-02-22T13:12:37.619000+00:00",
+        "updatedAt": "2025-02-24T03:00:17.700000+00:00",
         "publishedAt": "2024-01-22T14:06:02.802000+00:00",
-        "revisedAt": "2025-02-22T13:12:37.619000+00:00",
+        "revisedAt": "2025-02-24T03:00:17.700000+00:00",
         "name": "デアリングタクト",
         "cn_name": "",
         "en": "Daring Tact",
@@ -11752,6 +11752,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f5964af15c9c461e839f85da1edd858a/daringtact_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/acc731d951934875ac24ecc436ed0949/daringtact_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/08382ad69d184061b99b08dbd980e78c/daringtact_02.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -17299,9 +17320,9 @@
     "fusaichipandora": {
         "id": "fusaichipandora",
         "createdAt": "2024-09-26T06:29:25.109000+00:00",
-        "updatedAt": "2024-09-27T12:11:09.213000+00:00",
+        "updatedAt": "2025-02-24T03:00:39.160000+00:00",
         "publishedAt": "2024-09-27T12:11:09.213000+00:00",
-        "revisedAt": "2024-09-27T12:11:09.213000+00:00",
+        "revisedAt": "2025-02-24T03:00:39.160000+00:00",
         "name": "フサイチパンドラ",
         "cn_name": "",
         "en": "Fusaichi Pandora",
@@ -17364,6 +17385,27 @@
             {
                 "fieldId": "visual",
                 "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/74b3af9b87514c85913c4398a02fbbb1/fusaichipandora_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f36efe2205414f67b9e347aa6985efa8/fusaichipandora_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
                     "id": "v-004",
                     "createdAt": "2024-01-22T06:31:54.262000+00:00",
                     "updatedAt": "2024-01-22T06:31:54.262000+00:00",
@@ -17384,7 +17426,7 @@
             }
         ],
         "voice": {
-            "url": ""
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/845eb573fd8548f194953152a709a63b/fusaichipandora_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -18711,9 +18753,9 @@
     "fenomeno": {
         "id": "fenomeno",
         "createdAt": "2025-02-22T05:40:17.817000+00:00",
-        "updatedAt": "2025-02-22T13:11:03.586000+00:00",
+        "updatedAt": "2025-02-24T03:01:22.670000+00:00",
         "publishedAt": "2025-02-22T13:11:03.586000+00:00",
-        "revisedAt": "2025-02-22T13:11:03.586000+00:00",
+        "revisedAt": "2025-02-24T03:01:22.670000+00:00",
         "name": "フェノーメノ",
         "cn_name": "",
         "en": "Fenomeno",
@@ -18772,6 +18814,27 @@
                     "height": 1980,
                     "width": 1125
                 }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/786b3e3bc63e4a2fa2ecfb5c4d8531ac/fenomeno_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5230cafdb5384b3b9271626203c6eda0/fenomeno_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
             }
         ],
         "voice": {
@@ -18806,9 +18869,9 @@
     "blastonepiece": {
         "id": "blastonepiece",
         "createdAt": "2024-11-26T08:51:15.537000+00:00",
-        "updatedAt": "2024-11-27T11:58:55.068000+00:00",
+        "updatedAt": "2025-02-24T03:01:13.429000+00:00",
         "publishedAt": "2024-11-27T11:58:55.068000+00:00",
-        "revisedAt": "2024-11-27T11:58:55.068000+00:00",
+        "revisedAt": "2025-02-24T03:01:13.429000+00:00",
         "name": "ブラストワンピース",
         "cn_name": "防爆装束",
         "en": "Blast Onepiece",
@@ -18867,6 +18930,27 @@
                     "height": 1980,
                     "width": 1185
                 }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2aade43aa6fe45588277919ce839c02b/blastonepiece_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f87a0768cba84354b1993cd61f6b7bfc/blastonepiece_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
             }
         ],
         "voice": {
@@ -18901,11 +18985,11 @@
     "almondeye": {
         "id": "almondeye",
         "createdAt": "2025-02-22T05:41:36.648000+00:00",
-        "updatedAt": "2025-02-22T13:11:10.739000+00:00",
+        "updatedAt": "2025-02-24T03:01:31.937000+00:00",
         "publishedAt": "2025-02-22T13:11:10.739000+00:00",
-        "revisedAt": "2025-02-22T13:11:10.739000+00:00",
+        "revisedAt": "2025-02-24T03:01:31.937000+00:00",
         "name": "アーモンドアイ",
-        "cn_name": "",
+        "cn_name": "杏目",
         "en": "Almond Eye",
         "catch": "好きよ、レース――だって楽しいじゃない？\n勝負するのも、勝つのも",
         "cv": "石原夏織",
@@ -18962,6 +19046,27 @@
                     "height": 1980,
                     "width": 1125
                 }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/776cd20080ce4573b954dc4e34c2c441/almondeye_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a8d43d4084d5487abc45b149f57a73e5/almondeye_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
             }
         ],
         "voice": {
@@ -18996,11 +19101,11 @@
     "luckylilac": {
         "id": "luckylilac",
         "createdAt": "2025-02-22T05:42:48.917000+00:00",
-        "updatedAt": "2025-02-22T13:11:16.443000+00:00",
+        "updatedAt": "2025-02-24T03:01:37.391000+00:00",
         "publishedAt": "2025-02-22T13:11:16.443000+00:00",
-        "revisedAt": "2025-02-22T13:11:16.443000+00:00",
+        "revisedAt": "2025-02-24T03:01:37.391000+00:00",
         "name": "ラッキーライラック",
-        "cn_name": "",
+        "cn_name": "旺紫丁",
         "en": "Lucky Lilac",
         "catch": "あんたの背中、もう見飽きてしもたんよ。\n――今日こそうちの番や",
         "cv": "中島由貴",
@@ -19057,6 +19162,27 @@
                     "height": 1980,
                     "width": 1125
                 }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1399e4de58a84e11b401f3f7f612646f/luckylilac_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/92a3ff168d034d8fba9ce16dd9e3c9d6/luckylilac_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
             }
         ],
         "voice": {
@@ -19091,11 +19217,11 @@
     "granalegria": {
         "id": "granalegria",
         "createdAt": "2025-02-22T05:44:08.344000+00:00",
-        "updatedAt": "2025-02-22T13:11:22.596000+00:00",
+        "updatedAt": "2025-02-24T03:01:43.472000+00:00",
         "publishedAt": "2025-02-22T13:11:22.596000+00:00",
-        "revisedAt": "2025-02-22T13:11:22.596000+00:00",
+        "revisedAt": "2025-02-24T03:01:43.472000+00:00",
         "name": "グランアレグリア",
-        "cn_name": "",
+        "cn_name": "放声欢呼",
         "en": "Gran Alegria",
         "catch": "あたし、マイルでは最強なので！\n０.７５マイルでも、１.２５マイルでも！",
         "cv": "夏目妃菜",
@@ -19152,6 +19278,27 @@
                     "height": 1980,
                     "width": 1125
                 }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/87eef7ae5f554528a8edb06d8e4cc00b/granalegria_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/50fdcafbf6be44d18e9922bbf13d3bc6/granalegria_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
             }
         ],
         "voice": {
@@ -19186,9 +19333,9 @@
     "lovesonlyyou": {
         "id": "lovesonlyyou",
         "createdAt": "2025-02-22T05:45:27.572000+00:00",
-        "updatedAt": "2025-02-22T13:11:29.473000+00:00",
+        "updatedAt": "2025-02-24T03:01:49.743000+00:00",
         "publishedAt": "2025-02-22T13:11:29.473000+00:00",
-        "revisedAt": "2025-02-22T13:11:29.473000+00:00",
+        "revisedAt": "2025-02-24T03:01:49.743000+00:00",
         "name": "ラヴズオンリーユー",
         "cn_name": "",
         "en": "Loves Only You",
@@ -19247,6 +19394,27 @@
                     "height": 1980,
                     "width": 1125
                 }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/77cc5586a50e4e018cc1928228b429ec/lovesonlyyou_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c0fc7a0c53344a21a7061adaa52cddbf/lovesonlyyou_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
             }
         ],
         "voice": {
@@ -19281,9 +19449,9 @@
     "chronogenesis": {
         "id": "chronogenesis",
         "createdAt": "2025-02-22T05:46:41.491000+00:00",
-        "updatedAt": "2025-02-22T13:11:35.212000+00:00",
+        "updatedAt": "2025-02-24T03:01:57.619000+00:00",
         "publishedAt": "2025-02-22T13:11:35.212000+00:00",
-        "revisedAt": "2025-02-22T13:11:35.212000+00:00",
+        "revisedAt": "2025-02-24T03:01:57.619000+00:00",
         "name": "クロノジェネシス",
         "cn_name": "",
         "en": "Chrono Genesis",
@@ -19342,6 +19510,27 @@
                     "height": 1980,
                     "width": 1125
                 }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e0c8f9c24d934518bf7903e78b84ab74/chronogenesis_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/24b67e64064049f1855ba135e43d5d0f/chronogenesis_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
             }
         ],
         "voice": {
@@ -19376,9 +19565,9 @@
     "currenbouquetdor": {
         "id": "currenbouquetdor",
         "createdAt": "2025-02-22T05:47:58.027000+00:00",
-        "updatedAt": "2025-02-22T13:11:41.836000+00:00",
+        "updatedAt": "2025-02-24T03:02:06.079000+00:00",
         "publishedAt": "2025-02-22T13:11:41.836000+00:00",
-        "revisedAt": "2025-02-22T13:11:41.836000+00:00",
+        "revisedAt": "2025-02-24T03:02:06.079000+00:00",
         "name": "カレンブーケドール",
         "cn_name": "",
         "en": "Curren Bouquetd'or",
@@ -19434,6 +19623,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4975d4060304488a9b30fe63625bb08f/currenbouquetdor_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4648607e80a24f90a503a8ef42735a40/currenbouquetdor_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/43eaaf309f724a3285459681bb43ceed/currenbouquetdor_02.png",
                     "height": 1980,
                     "width": 1125
                 }
