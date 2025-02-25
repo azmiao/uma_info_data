@@ -17737,16 +17737,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "D",
+            "short": "G",
+            "mile": "C",
+            "middle": "A",
+            "long": "A",
+            "run_away": "G",
+            "first": "F",
+            "center": "A",
+            "chase": "A"
         }
     },
     "gentildonna": {
