@@ -19318,16 +19318,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "G",
+            "short": "A",
+            "mile": "A",
+            "middle": "C",
+            "long": "G",
+            "run_away": "F",
+            "first": "A",
+            "center": "A",
+            "chase": "B"
         }
     },
     "lovesonlyyou": {
