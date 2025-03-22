@@ -14987,16 +14987,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "G",
+            "short": "G",
+            "mile": "B",
+            "middle": "A",
+            "long": "C",
+            "run_away": "G",
+            "first": "D",
+            "center": "A",
+            "chase": "F"
         }
     },
     "stillinlove": {
