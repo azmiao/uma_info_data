@@ -10746,9 +10746,9 @@
     "sakurachiyonoo": {
         "id": "sakurachiyonoo",
         "createdAt": "2024-01-22T14:06:02.744000+00:00",
-        "updatedAt": "2024-03-12T05:45:42.742000+00:00",
+        "updatedAt": "2025-03-31T03:51:18.789000+00:00",
         "publishedAt": "2024-01-22T14:06:02.744000+00:00",
-        "revisedAt": "2024-03-12T05:45:42.742000+00:00",
+        "revisedAt": "2025-03-31T03:51:18.789000+00:00",
         "name": "サクラチヨノオー",
         "cn_name": "樱花千代王",
         "en": "Sakura Chiyono O",
@@ -10819,12 +10819,12 @@
                     "title": "勝負服"
                 },
                 "thumb": {
-                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8afe9f35cd264bdab32d249079d14363/sakurachiyonoo_02_thumb.png",
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a3824bd7e5a0428197f91e2dfd055616/sakurachiyonoo_02_thumb_2.png",
                     "height": 198,
                     "width": 198
                 },
                 "image": {
-                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b5ebcc7f63194925bbc38c9bf55f1a26/sakurachiyonoo_02.png",
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8c8d5b9b11ce46b7930f2bcba26ac6c4/sakurachiyonoo_02_2.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -11694,9 +11694,9 @@
     "daringtact": {
         "id": "daringtact",
         "createdAt": "2024-01-22T14:06:02.802000+00:00",
-        "updatedAt": "2025-03-05T08:53:43.749000+00:00",
+        "updatedAt": "2025-03-31T03:51:23.856000+00:00",
         "publishedAt": "2024-01-22T14:06:02.802000+00:00",
-        "revisedAt": "2025-03-05T08:53:43.749000+00:00",
+        "revisedAt": "2025-03-31T03:51:23.856000+00:00",
         "name": "デアリングタクト",
         "cn_name": "",
         "en": "Daring Tact",
@@ -11725,12 +11725,12 @@
         "is_top": null,
         "is_music": true,
         "list_thumb": {
-            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3b8e455434ff4a71a0c261d9c6aa7c4a/daringtact_list.png",
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9cbf0e8af9fc4d95a274b03319834a3e/daringtact_list_2.png",
             "height": 389,
             "width": 296
         },
         "top_thumb": {
-            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2b94ee4a1d1a4d81824080bff1d9a07a/daringtact_top.png",
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/aa3f3b73b59a45d488f30510a7e016a4/daringtact_top_2.png",
             "height": 680,
             "width": 680
         },
@@ -11746,12 +11746,12 @@
                     "title": "制服"
                 },
                 "thumb": {
-                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/73ca471bc4004e74bee831dd59e283f1/daringtact_01_thumb.png",
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/60a74f18e47241d0b1505ba0a2363274/daringtact_01_thumb_2.png",
                     "height": 198,
                     "width": 198
                 },
                 "image": {
-                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f5964af15c9c461e839f85da1edd858a/daringtact_01.png",
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c6853e11b4564e028ff649b0984e67ec/daringtact_01_2.png",
                     "height": 1980,
                     "width": 1125
                 }
