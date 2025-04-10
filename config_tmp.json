@@ -11694,9 +11694,9 @@
     "daringtact": {
         "id": "daringtact",
         "createdAt": "2024-01-22T14:06:02.802000+00:00",
-        "updatedAt": "2025-03-31T03:51:23.856000+00:00",
+        "updatedAt": "2025-04-10T03:45:22.297000+00:00",
         "publishedAt": "2024-01-22T14:06:02.802000+00:00",
-        "revisedAt": "2025-03-31T03:51:23.856000+00:00",
+        "revisedAt": "2025-04-10T03:45:22.297000+00:00",
         "name": "デアリングタクト",
         "cn_name": "",
         "en": "Daring Tact",
@@ -11805,12 +11805,12 @@
         "download": {
             "fieldId": "download",
             "icon": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9200df435e9d4d7885a48e5b9d5197b4/daringtact_icon.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6943355a86424745862ba8a93cf38109/daringtact_icon.png",
                 "height": 400,
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/83de51bacc3f400fb0b2ebce9ae1ea65/daringtact_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/936de67c4f094489b8cf9460dfa3a74e/daringtact_header.png",
                 "height": 500,
                 "width": 1500
             }
