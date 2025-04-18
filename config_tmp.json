@@ -12737,9 +12737,9 @@
     "northflight": {
         "id": "northflight",
         "createdAt": "2024-01-22T14:06:02.805000+00:00",
-        "updatedAt": "2024-05-28T12:00:52.895000+00:00",
+        "updatedAt": "2025-04-18T10:59:17.557000+00:00",
         "publishedAt": "2024-01-22T14:06:02.805000+00:00",
-        "revisedAt": "2024-05-28T12:00:52.895000+00:00",
+        "revisedAt": "2025-04-18T10:59:17.557000+00:00",
         "name": "ノースフライト",
         "cn_name": "北方飞翔",
         "en": "North Flight",
@@ -12766,7 +12766,7 @@
         "detail": "何でもドレスアップするのが大好きなお洒落さん。\n「どんな素材もデザインと着こなし次第で輝く」というのが彼女のモットーだが、それは彼女自身の体質と経験が基になっているようだ。\n『フーちゃんのファッションアドバイス』は学園のウマ娘たちの間で大人気。",
         "movie_id": "dM0K9ebwaSc",
         "is_top": null,
-        "is_music": false,
+        "is_music": true,
         "list_thumb": {
             "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/950f5f8d81df4d9b97a9cc2361b632be/northflight_list.png",
             "height": 389,
