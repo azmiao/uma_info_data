@@ -14433,9 +14433,9 @@
     "ksmiracle": {
         "id": "ksmiracle",
         "createdAt": "2024-01-22T14:06:02.820000+00:00",
-        "updatedAt": "2024-03-12T05:52:54.259000+00:00",
+        "updatedAt": "2025-04-27T13:05:35.099000+00:00",
         "publishedAt": "2024-01-22T14:06:02.820000+00:00",
-        "revisedAt": "2024-03-12T05:52:54.259000+00:00",
+        "revisedAt": "2025-04-27T13:05:35.099000+00:00",
         "name": "ケイエスミラクル",
         "cn_name": "凯斯奇迹",
         "en": "K.S.Miracle",
@@ -14512,6 +14512,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/98a14ca3eef44cb5b039bc5c2546ddda/k-s-miracle_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e2c8790769894901be6b459768de9bfc/k-s-miracle_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/14eeff46f23d46b48be57d0aec83e227/k-s-miracle_03.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -16161,9 +16182,9 @@
     "neouniverse": {
         "id": "neouniverse",
         "createdAt": "2024-01-22T14:06:02.825000+00:00",
-        "updatedAt": "2024-03-27T07:05:19.281000+00:00",
+        "updatedAt": "2025-04-27T13:05:55.319000+00:00",
         "publishedAt": "2024-01-22T14:06:02.825000+00:00",
-        "revisedAt": "2024-03-27T07:05:19.281000+00:00",
+        "revisedAt": "2025-04-27T13:05:55.319000+00:00",
         "name": "ネオユニヴァース",
         "cn_name": "新宇宙",
         "en": "Neo Universe",
@@ -16240,6 +16261,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/98506fd845774025a35234448c248c5d/neouniverse_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/94e80a925f004614a1b9462ea93bcc49/neouniverse_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/042bf5d9b08f45c48184f26f071d1cb6/neouniverse_03.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -18753,9 +18795,9 @@
     "fenomeno": {
         "id": "fenomeno",
         "createdAt": "2025-02-22T05:40:17.817000+00:00",
-        "updatedAt": "2025-04-21T08:00:56.918000+00:00",
+        "updatedAt": "2025-04-27T13:06:25.590000+00:00",
         "publishedAt": "2025-02-22T13:11:03.586000+00:00",
-        "revisedAt": "2025-04-21T08:00:56.918000+00:00",
+        "revisedAt": "2025-04-27T13:06:25.590000+00:00",
         "name": "フェノーメノ",
         "cn_name": "",
         "en": "Fenomeno",
@@ -18834,6 +18876,27 @@
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5230cafdb5384b3b9271626203c6eda0/fenomeno_02.png",
                     "height": 1980,
                     "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a738d92ac6ed45febf67d50b620f79f7/fenomeno_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f09e8e0f1bdc4265853e1263c94af757/fenomeno_03.png",
+                    "height": 1980,
+                    "width": 1300
                 }
             }
         ],
