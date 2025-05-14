@@ -14123,16 +14123,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "G",
+            "short": "D",
+            "mile": "A",
+            "middle": "A",
+            "long": "G",
+            "run_away": "A",
+            "first": "A",
+            "center": "E",
+            "chase": "G"
         }
     },
     "vivlos": {
