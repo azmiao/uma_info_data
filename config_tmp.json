@@ -19421,7 +19421,7 @@
         "publishedAt": "2025-02-22T13:11:29.473000+00:00",
         "revisedAt": "2025-05-21T09:01:28.497000+00:00",
         "name": "ラヴズオンリーユー",
-        "cn_name": "",
+        "cn_name": "唯独爱你",
         "en": "Loves Only You",
         "catch": "ラヴミー♡　ラヴユー♡\nラヴズオンリーユーでーす♡",
         "cv": "久保田未夢",
@@ -19518,16 +19518,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "G",
+            "short": "G",
+            "mile": "C",
+            "middle": "A",
+            "long": "F",
+            "run_away": "G",
+            "first": "A",
+            "center": "A",
+            "chase": "G"
         }
     },
     "chronogenesis": {
