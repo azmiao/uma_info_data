@@ -19762,6 +19762,101 @@
             "chase": ""
         }
     },
+    "staygold": {
+        "id": "staygold",
+        "createdAt": "2025-05-25T03:05:38.021000+00:00",
+        "updatedAt": "2025-05-25T11:36:44.536000+00:00",
+        "publishedAt": "2025-05-25T11:36:44.536000+00:00",
+        "revisedAt": "2025-05-25T11:36:44.536000+00:00",
+        "name": "ステイゴールド",
+        "cn_name": "",
+        "en": "Stay Gold",
+        "catch": "は〜……いい景色だ――\nあんたも、そう思うだろ？",
+        "cv": "松田颯水",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#bfb33e",
+        "color_sub": "#49699c",
+        "birthday": "3月24日",
+        "height": "142cm",
+        "weight": "食べても太らない",
+        "size": "B67・W49・H68",
+        "detail": "好奇心が旺盛で、無類の旅好き。\n無茶な旅程を組んでは気ままな放浪を始め、長い間帰ってこないことも多い。\n常に飄々としながらもどこか達観した人柄に惹かれるのか、学園では主に個性派なウマ娘たちに慕われがち。\n彼女らいわく、『不思議と、愛さずにはいられないお方』なんだとか。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1ae64df3a200487b88facc86e7ffd103/staygold_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8df9b33b04ee4a9e9c2fec1956be4f53/staygold_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6c9679df51664d89874f6d22db49cf44/staygold_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5fae768d52124d939f3eeedf5e1220c5/staygold_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": ""
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e3759ff2ed3f40fca6600ec447af0141/staygold_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a3fbcbf5dde94b05a7457cdde4bda384/staygold_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
     "happymeek": {
         "id": "happymeek",
         "createdAt": "2024-01-22T14:06:01.640000+00:00",
