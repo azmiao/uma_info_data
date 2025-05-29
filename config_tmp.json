@@ -19417,9 +19417,9 @@
     "lovesonlyyou": {
         "id": "lovesonlyyou",
         "createdAt": "2025-02-22T05:45:27.572000+00:00",
-        "updatedAt": "2025-05-21T09:01:28.497000+00:00",
+        "updatedAt": "2025-05-28T12:46:49.664000+00:00",
         "publishedAt": "2025-02-22T13:11:29.473000+00:00",
-        "revisedAt": "2025-05-21T09:01:28.497000+00:00",
+        "revisedAt": "2025-05-28T12:46:49.664000+00:00",
         "name": "ラヴズオンリーユー",
         "cn_name": "唯独爱你",
         "en": "Loves Only You",
@@ -19496,6 +19496,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c0fc7a0c53344a21a7061adaa52cddbf/lovesonlyyou_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c4a46c4729454bb687b46c7449e906f2/lovesonlyyou_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0996d2bbc2a64006bdd5927879baea1a/lovesonlyyou_03.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -19765,9 +19786,9 @@
     "staygold": {
         "id": "staygold",
         "createdAt": "2025-05-25T03:05:38.021000+00:00",
-        "updatedAt": "2025-05-25T11:36:44.536000+00:00",
+        "updatedAt": "2025-05-28T12:46:39.029000+00:00",
         "publishedAt": "2025-05-25T11:36:44.536000+00:00",
-        "revisedAt": "2025-05-25T11:36:44.536000+00:00",
+        "revisedAt": "2025-05-28T12:46:39.029000+00:00",
         "name": "ステイゴールド",
         "cn_name": "",
         "en": "Stay Gold",
@@ -19823,6 +19844,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5fae768d52124d939f3eeedf5e1220c5/staygold_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2c498884d91f46a99a59ee90e1a7858e/staygold_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2f061dcf6d4f4a569e5cf6fd14fd3da8/staygold_02.png",
                     "height": 1980,
                     "width": 1125
                 }
