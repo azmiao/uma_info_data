@@ -19558,7 +19558,7 @@
         "publishedAt": "2025-02-22T13:11:35.212000+00:00",
         "revisedAt": "2025-06-13T09:01:30.105000+00:00",
         "name": "クロノジェネシス",
-        "cn_name": "",
+        "cn_name": "创世驹",
         "en": "Chrono Genesis",
         "catch": "熱いレース史を刻みたい、自分の脚で……。\nそれが、私の夢……なんです……！",
         "cv": "真名瀬日和",
@@ -19655,16 +19655,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "G",
+            "short": "G",
+            "mile": "B",
+            "middle": "A",
+            "long": "A",
+            "run_away": "G",
+            "first": "A",
+            "center": "C",
+            "chase": "E"
         }
     },
     "currenbouquetdor": {
