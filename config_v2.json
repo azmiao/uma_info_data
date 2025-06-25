@@ -21989,6 +21989,101 @@
             "chase": ""
         }
     },
+    "tuckerbryne": {
+        "id": "tuckerbryne",
+        "createdAt": "2025-06-25T08:06:04.980000+00:00",
+        "updatedAt": "2025-06-25T12:15:01.136000+00:00",
+        "publishedAt": "2025-06-25T12:15:01.136000+00:00",
+        "revisedAt": "2025-06-25T12:15:01.136000+00:00",
+        "name": "タッカーブライン",
+        "cn_name": "",
+        "en": "Tucker Bryne",
+        "catch": "駆け抜けろウマ娘！　魂を、燃やせェーッ！\nダーッハッハッハッハ！",
+        "cv": "小林ゆう",
+        "category": [
+            "トレセン学園関係者"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#c4b076",
+        "color_sub": "#00857d",
+        "birthday": "",
+        "height": "",
+        "weight": "",
+        "size": "",
+        "detail": "無人島プロジェクトの責任者兼現場監督。\nウマ娘のさらなる飛躍を願い、無人島に最強のトレーニング施設群を建てるべく、日々駆け回っている。\n豪快で陽気な、常夏の島がよく似合うウマ娘だが……たまに、別の顔が覗くことも。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/08cdb7dce3a2419e876a1405306d4a0a/tuckerbryne_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8036ebee1108443cab5497070a469c2d/tuckerbryne_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/bcd34bf10c5c434381745200ee9c4513/tuckerbryne_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5760a0e1bd8247f487322c661a85be90/tuckerbryne_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": ""
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b7a7561363884194a2fade6376588952/tuckerbryne_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2efb9a2c07014c10b69da8a0f5853d53/tuckerbryne_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
     "akasakamisato": {
         "id": "akasakamisato",
         "createdAt": "2024-01-22T14:06:01.641000+00:00",
