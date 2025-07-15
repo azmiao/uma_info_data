@@ -2,9 +2,9 @@
     "specialweek": {
         "id": "specialweek",
         "createdAt": "2024-01-22T14:06:02.686000+00:00",
-        "updatedAt": "2025-07-03T05:56:54.602000+00:00",
+        "updatedAt": "2025-07-15T05:47:00.184000+00:00",
         "publishedAt": "2024-01-22T14:06:02.686000+00:00",
-        "revisedAt": "2024-11-19T06:13:22.290000+00:00",
+        "revisedAt": "2025-07-15T05:47:00.184000+00:00",
         "name": "スペシャルウィーク",
         "cn_name": "特别周",
         "en": "Special Week",
@@ -139,7 +139,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f3f5a67569324252bb5860c1fd290542/specialweek_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d26decaede114e188e4c6f5abcecf6e0/specialweek_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -160,9 +160,9 @@
     "silencesuzuka": {
         "id": "silencesuzuka",
         "createdAt": "2024-01-22T14:06:02.687000+00:00",
-        "updatedAt": "2025-07-03T05:57:00.083000+00:00",
+        "updatedAt": "2025-07-15T05:47:05.962000+00:00",
         "publishedAt": "2024-01-22T14:06:02.687000+00:00",
-        "revisedAt": "2024-03-12T05:22:17.461000+00:00",
+        "revisedAt": "2025-07-15T05:47:05.962000+00:00",
         "name": "サイレンススズカ",
         "cn_name": "无声铃鹿",
         "en": "Silence Suzuka",
@@ -297,7 +297,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f68aa6fa05c24df38cadfaae352b8654/silencesuzuka_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/503395ba0c7f4a1c8a84863b1a8a95ca/silencesuzuka_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -318,9 +318,9 @@
     "tokaiteio": {
         "id": "tokaiteio",
         "createdAt": "2024-01-22T14:06:02.687000+00:00",
-        "updatedAt": "2025-07-03T05:57:04.962000+00:00",
+        "updatedAt": "2025-07-15T05:47:11.801000+00:00",
         "publishedAt": "2024-01-22T14:06:02.687000+00:00",
-        "revisedAt": "2024-03-12T05:22:22.970000+00:00",
+        "revisedAt": "2025-07-15T05:47:11.801000+00:00",
         "name": "トウカイテイオー",
         "cn_name": "东海帝皇",
         "en": "Tokai Teio",
@@ -455,7 +455,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ef0fba3b1c5e4f368bd9be6aa3cee764/tokaiteio_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/322817dd08414c32b1b3b8fccecf25a6/tokaiteio_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -476,9 +476,9 @@
     "maruzensky": {
         "id": "maruzensky",
         "createdAt": "2024-01-22T14:06:02.688000+00:00",
-        "updatedAt": "2025-07-03T05:57:10.523000+00:00",
+        "updatedAt": "2025-07-15T05:49:12.861000+00:00",
         "publishedAt": "2024-01-22T14:06:02.688000+00:00",
-        "revisedAt": "2024-03-12T05:22:28.702000+00:00",
+        "revisedAt": "2025-07-15T05:49:12.861000+00:00",
         "name": "マルゼンスキー",
         "cn_name": "丸善斯基",
         "en": "Maruzensky",
@@ -613,7 +613,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9ad9454ba2e84e8f8786078314751226/maruzensky_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0ef7ffa3182443bca3d9506fb0538201/maruzensky_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -634,9 +634,9 @@
     "fujikiseki": {
         "id": "fujikiseki",
         "createdAt": "2024-01-22T14:06:02.688000+00:00",
-        "updatedAt": "2025-07-03T05:57:15.825000+00:00",
+        "updatedAt": "2025-07-15T05:49:12.525000+00:00",
         "publishedAt": "2024-01-22T14:06:02.688000+00:00",
-        "revisedAt": "2024-03-12T05:23:39.126000+00:00",
+        "revisedAt": "2025-07-15T05:49:12.525000+00:00",
         "name": "フジキセキ",
         "cn_name": "富士奇迹",
         "en": "Fuji Kiseki",
@@ -771,7 +771,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/82f4f12f518045d08bb19a5b392270f9/fujikiseki_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8783562a55db405faf037f83125a26fd/fujikiseki_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -792,9 +792,9 @@
     "oguricap": {
         "id": "oguricap",
         "createdAt": "2024-01-22T14:06:02.699000+00:00",
-        "updatedAt": "2025-07-03T05:57:21.238000+00:00",
+        "updatedAt": "2025-07-15T05:49:12.676000+00:00",
         "publishedAt": "2024-01-22T14:06:02.699000+00:00",
-        "revisedAt": "2024-03-12T05:23:44.324000+00:00",
+        "revisedAt": "2025-07-15T05:49:12.676000+00:00",
         "name": "オグリキャップ",
         "cn_name": "小栗帽",
         "en": "Oguri Cap",
@@ -929,7 +929,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ec8c682b78be4f8ba668de474660ee14/oguricap_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/69bf61cbee604f388dd91064bb3fac01/oguricap_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -950,9 +950,9 @@
     "goldship": {
         "id": "goldship",
         "createdAt": "2024-01-22T14:06:02.697000+00:00",
-        "updatedAt": "2025-07-03T05:57:26.700000+00:00",
+        "updatedAt": "2025-07-15T05:49:12.793000+00:00",
         "publishedAt": "2024-01-22T14:06:02.697000+00:00",
-        "revisedAt": "2024-03-12T05:23:50.359000+00:00",
+        "revisedAt": "2025-07-15T05:49:12.793000+00:00",
         "name": "ゴールドシップ",
         "cn_name": "黄金船",
         "en": "Gold Ship",
@@ -1087,7 +1087,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d4e1e2e8d97f434caa7a2feaf7d69a21/goldship_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a8c1eb045ca841569dd6cde6641a55c4/goldship_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -1108,9 +1108,9 @@
     "vodka": {
         "id": "vodka",
         "createdAt": "2024-01-22T14:06:02.700000+00:00",
-        "updatedAt": "2025-07-03T05:57:32.572000+00:00",
+        "updatedAt": "2025-07-15T05:49:13.167000+00:00",
         "publishedAt": "2024-01-22T14:06:02.700000+00:00",
-        "revisedAt": "2024-03-12T05:23:55.478000+00:00",
+        "revisedAt": "2025-07-15T05:49:13.167000+00:00",
         "name": "ウオッカ",
         "cn_name": "伏特加",
         "en": "Vodka",
@@ -1245,7 +1245,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f5d17087b3714727a1585817acffb9f1/vodka_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1aafbb58a2e54fb98e287d4b6ae6d5be/vodka_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -1266,9 +1266,9 @@
     "daiwascarlet": {
         "id": "daiwascarlet",
         "createdAt": "2024-01-22T14:06:02.701000+00:00",
-        "updatedAt": "2025-07-03T05:57:38.027000+00:00",
+        "updatedAt": "2025-07-15T05:49:12.718000+00:00",
         "publishedAt": "2024-01-22T14:06:02.701000+00:00",
-        "revisedAt": "2024-03-27T06:57:58.643000+00:00",
+        "revisedAt": "2025-07-15T05:49:12.718000+00:00",
         "name": "ダイワスカーレット",
         "cn_name": "大和赤骥",
         "en": "Daiwa Scarlet",
@@ -1403,7 +1403,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f16a777008d146329d80ac79c09b48b5/daiwascarlet_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c3f951d9729f4a6eb529d20705f64d80/daiwascarlet_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -1424,9 +1424,9 @@
     "taikishuttle": {
         "id": "taikishuttle",
         "createdAt": "2024-01-22T14:06:02.701000+00:00",
-        "updatedAt": "2025-07-03T05:57:43.822000+00:00",
+        "updatedAt": "2025-07-15T05:49:13.087000+00:00",
         "publishedAt": "2024-01-22T14:06:02.701000+00:00",
-        "revisedAt": "2024-08-29T03:55:15.792000+00:00",
+        "revisedAt": "2025-07-15T05:49:13.087000+00:00",
         "name": "タイキシャトル",
         "cn_name": "大树快车",
         "en": "Taiki Shuttle",
@@ -1561,7 +1561,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3de7a9749ed2498c80f2b97be206f140/taikishuttle_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/afacee9162ce44a3bb6c1429627e5853/taikishuttle_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -1582,9 +1582,9 @@
     "grasswonder": {
         "id": "grasswonder",
         "createdAt": "2024-01-22T14:06:02.702000+00:00",
-        "updatedAt": "2025-07-03T05:57:49.704000+00:00",
+        "updatedAt": "2025-07-15T05:49:12.631000+00:00",
         "publishedAt": "2024-01-22T14:06:02.702000+00:00",
-        "revisedAt": "2024-03-12T05:24:15.713000+00:00",
+        "revisedAt": "2025-07-15T05:49:12.631000+00:00",
         "name": "グラスワンダー",
         "cn_name": "草上飞",
         "en": "Grass Wonder",
@@ -1719,7 +1719,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d404bfbe8f124667997f26809031b1a0/grasswonder_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/746fa9753d634da2bf9db2e5f2b3022c/grasswonder_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -1740,9 +1740,9 @@
     "hishiamazon": {
         "id": "hishiamazon",
         "createdAt": "2024-01-22T14:06:02.702000+00:00",
-        "updatedAt": "2025-07-03T05:57:55.812000+00:00",
+        "updatedAt": "2025-07-15T05:49:12.370000+00:00",
         "publishedAt": "2024-01-22T14:06:02.702000+00:00",
-        "revisedAt": "2024-03-12T05:24:22.846000+00:00",
+        "revisedAt": "2025-07-15T05:49:12.370000+00:00",
         "name": "ヒシアマゾン",
         "cn_name": "菱亚马逊",
         "en": "Hishi Amazon",
@@ -1877,7 +1877,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8d99d3a0b6d642c1a7b4ea90eefa5cc0/hishiamazon_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d67a8f378d9e47deb8a0ef4d39fd28df/hishiamazon_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -1898,9 +1898,9 @@
     "mejiromcqueen": {
         "id": "mejiromcqueen",
         "createdAt": "2024-01-22T14:06:02.703000+00:00",
-        "updatedAt": "2025-07-03T05:58:01.925000+00:00",
+        "updatedAt": "2025-07-15T05:49:12.900000+00:00",
         "publishedAt": "2024-01-22T14:06:02.703000+00:00",
-        "revisedAt": "2024-03-12T05:24:28.037000+00:00",
+        "revisedAt": "2025-07-15T05:49:12.900000+00:00",
         "name": "メジロマックイーン",
         "cn_name": "目白麦昆",
         "en": "Mejiro McQueen",
@@ -2035,7 +2035,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3ef5ad78869a40fbbfe2e7dc0488a6a7/mejiromcqueen_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/514f7c9e53804941983a6fa32cbe3f0c/mejiromcqueen_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -2056,9 +2056,9 @@
     "elcondorpasa": {
         "id": "elcondorpasa",
         "createdAt": "2024-01-22T14:06:02.704000+00:00",
-        "updatedAt": "2025-07-03T05:58:07.476000+00:00",
+        "updatedAt": "2025-07-15T05:49:12.414000+00:00",
         "publishedAt": "2024-01-22T14:06:02.704000+00:00",
-        "revisedAt": "2024-03-12T05:24:34.030000+00:00",
+        "revisedAt": "2025-07-15T05:49:12.414000+00:00",
         "name": "エルコンドルパサー",
         "cn_name": "神鹰",
         "en": "El Condor Pasa",
@@ -2193,7 +2193,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1a0a4c0b1ce041e98c80230d856ec541/elcondorpasa_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/37af8521cf5e44d089c3a79eaaf5a7fe/elcondorpasa_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -2214,9 +2214,9 @@
     "tmoperao": {
         "id": "tmoperao",
         "createdAt": "2024-01-22T14:06:02.705000+00:00",
-        "updatedAt": "2025-07-03T05:58:13.208000+00:00",
+        "updatedAt": "2025-07-15T05:49:12.595000+00:00",
         "publishedAt": "2024-01-22T14:06:02.705000+00:00",
-        "revisedAt": "2024-03-12T05:24:39.553000+00:00",
+        "revisedAt": "2025-07-15T05:49:12.595000+00:00",
         "name": "テイエムオペラオー",
         "cn_name": "好歌剧",
         "en": "T.M. Opera O",
@@ -2351,7 +2351,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/85b7f05b8cbd4c3bb7c7e2be858d7f6e/tmoperao_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4387597bc0384df3ad23cfc9fc4bd5aa/tmoperao_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -2372,9 +2372,9 @@
     "naritabrian": {
         "id": "naritabrian",
         "createdAt": "2024-01-22T14:06:02.718000+00:00",
-        "updatedAt": "2025-07-03T05:58:19.819000+00:00",
+        "updatedAt": "2025-07-15T05:49:12.562000+00:00",
         "publishedAt": "2024-01-22T14:06:02.718000+00:00",
-        "revisedAt": "2024-03-12T05:24:45.377000+00:00",
+        "revisedAt": "2025-07-15T05:49:12.562000+00:00",
         "name": "ナリタブライアン",
         "cn_name": "成田白仁",
         "en": "Narita Brian",
@@ -2509,7 +2509,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f6442c6629d84f888ae27e3c479759bc/naritabrian_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/212d9fadbb374d578b7f7a44e5971550/naritabrian_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -2530,9 +2530,9 @@
     "symbolirudolf": {
         "id": "symbolirudolf",
         "createdAt": "2024-01-22T14:06:02.718000+00:00",
-        "updatedAt": "2025-07-03T05:58:26.088000+00:00",
+        "updatedAt": "2025-07-15T05:49:12.938000+00:00",
         "publishedAt": "2024-01-22T14:06:02.718000+00:00",
-        "revisedAt": "2024-03-12T05:24:50.942000+00:00",
+        "revisedAt": "2025-07-15T05:49:12.938000+00:00",
         "name": "シンボリルドルフ",
         "cn_name": "鲁道夫象征",
         "en": "Symboli Rudolf",
@@ -2667,7 +2667,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/74cabcaeee47405e89d8792e051815d9/symbolirudolf_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/53c2815640324cbb80c4fd7fdd230315/symbolirudolf_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -2688,9 +2688,9 @@
     "airgroove": {
         "id": "airgroove",
         "createdAt": "2024-01-22T14:06:02.719000+00:00",
-        "updatedAt": "2025-07-03T05:58:32.760000+00:00",
+        "updatedAt": "2025-07-15T05:49:12.827000+00:00",
         "publishedAt": "2024-01-22T14:06:02.719000+00:00",
-        "revisedAt": "2024-03-12T05:24:56.364000+00:00",
+        "revisedAt": "2025-07-15T05:49:12.827000+00:00",
         "name": "エアグルーヴ",
         "cn_name": "气槽",
         "en": "Air Groove",
@@ -2825,7 +2825,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9404746ea0014174b92e661d5c972540/airgroove_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/abdc39ba44c94e7fb3b478278a23d456/airgroove_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -2846,9 +2846,9 @@
     "agnesdigital": {
         "id": "agnesdigital",
         "createdAt": "2024-01-22T14:06:02.719000+00:00",
-        "updatedAt": "2025-07-03T05:58:43.697000+00:00",
+        "updatedAt": "2025-07-15T05:49:12.489000+00:00",
         "publishedAt": "2024-01-22T14:06:02.719000+00:00",
-        "revisedAt": "2024-03-27T07:17:57.534000+00:00",
+        "revisedAt": "2025-07-15T05:49:12.489000+00:00",
         "name": "アグネスデジタル",
         "cn_name": "爱丽数码",
         "en": "Agnes Digital",
@@ -2983,7 +2983,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b5d6be1920c6431ba6cda4db5eb19645/agnesdigital_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7371c23f1e1e4e75bf9a9976c216e70f/agnesdigital_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -3004,9 +3004,9 @@
     "seiunsky": {
         "id": "seiunsky",
         "createdAt": "2024-01-22T14:06:02.720000+00:00",
-        "updatedAt": "2025-07-03T05:58:49.462000+00:00",
+        "updatedAt": "2025-07-15T05:49:12.451000+00:00",
         "publishedAt": "2024-01-22T14:06:02.720000+00:00",
-        "revisedAt": "2024-03-27T07:08:54.577000+00:00",
+        "revisedAt": "2025-07-15T05:49:12.451000+00:00",
         "name": "セイウンスカイ",
         "cn_name": "青云天空",
         "en": "Seiun Sky",
@@ -3141,7 +3141,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e08a55003a8145eeb2b349ebddd54e06/seiunsky_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9aa268d9c2a145409c1a8f87865f8f63/seiunsky_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -3162,9 +3162,9 @@
     "tamamocross": {
         "id": "tamamocross",
         "createdAt": "2024-01-22T14:06:02.799000+00:00",
-        "updatedAt": "2025-07-03T05:58:55.376000+00:00",
+        "updatedAt": "2025-07-15T05:49:12.979000+00:00",
         "publishedAt": "2024-01-22T14:06:02.799000+00:00",
-        "revisedAt": "2024-03-12T05:25:13.399000+00:00",
+        "revisedAt": "2025-07-15T05:49:12.979000+00:00",
         "name": "タマモクロス",
         "cn_name": "玉藻十字",
         "en": "Tamamo Cross",
@@ -3299,7 +3299,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b99fdfae44e54e789f139cab65cc7d88/tamamocross_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/12b32451e4114886b7c11e7d34800466/tamamocross_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -3320,9 +3320,9 @@
     "finemotion": {
         "id": "finemotion",
         "createdAt": "2024-01-22T14:06:02.799000+00:00",
-        "updatedAt": "2025-07-03T05:59:00.658000+00:00",
+        "updatedAt": "2025-07-15T05:49:13.047000+00:00",
         "publishedAt": "2024-01-22T14:06:02.799000+00:00",
-        "revisedAt": "2024-03-12T05:25:19.460000+00:00",
+        "revisedAt": "2025-07-15T05:49:13.047000+00:00",
         "name": "ファインモーション",
         "cn_name": "美妙姿势",
         "en": "Fine Motion",
@@ -3457,7 +3457,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/fcfa1928cc0b4c7eb82241d0abff8204/finemotion_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/85a0ec0b2cb041779483da826e3a154a/finemotion_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -3478,9 +3478,9 @@
     "biwahayahide": {
         "id": "biwahayahide",
         "createdAt": "2024-01-22T14:06:02.800000+00:00",
-        "updatedAt": "2025-07-03T05:59:06.332000+00:00",
+        "updatedAt": "2025-07-15T05:49:12.759000+00:00",
         "publishedAt": "2024-01-22T14:06:02.800000+00:00",
-        "revisedAt": "2024-03-12T05:38:47.318000+00:00",
+        "revisedAt": "2025-07-15T05:49:12.759000+00:00",
         "name": "ビワハヤヒデ",
         "cn_name": "琵琶晨光",
         "en": "Biwa Hayahide",
@@ -3615,7 +3615,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d698d33bbbc2479c97fb8819714dca96/biwahayahide_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/88461b55da7b4e639000bd077136de94/biwahayahide_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -3636,9 +3636,9 @@
     "mayanotopgun": {
         "id": "mayanotopgun",
         "createdAt": "2024-01-22T14:06:02.841000+00:00",
-        "updatedAt": "2025-07-03T05:59:12.027000+00:00",
+        "updatedAt": "2025-07-15T05:49:13.123000+00:00",
         "publishedAt": "2024-01-22T14:06:02.841000+00:00",
-        "revisedAt": "2024-03-12T05:38:52.290000+00:00",
+        "revisedAt": "2025-07-15T05:49:13.123000+00:00",
         "name": "マヤノトップガン",
         "cn_name": "摩耶重炮",
         "en": "Mayano Top Gun",
@@ -3773,7 +3773,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3f1f1f31506b4ef8b39adc581d5b4617/mayanotopgun_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/85524a2390b649778669a7c0ab6b7c58/mayanotopgun_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -3794,9 +3794,9 @@
     "manhattancafe": {
         "id": "manhattancafe",
         "createdAt": "2024-01-22T14:06:02.808000+00:00",
-        "updatedAt": "2025-07-03T05:59:17.725000+00:00",
+        "updatedAt": "2025-07-15T05:49:13.014000+00:00",
         "publishedAt": "2024-01-22T14:06:02.808000+00:00",
-        "revisedAt": "2024-03-12T05:38:58.242000+00:00",
+        "revisedAt": "2025-07-15T05:49:13.014000+00:00",
         "name": "マンハッタンカフェ",
         "cn_name": "曼城茶座",
         "en": "Manhattan Cafe",
@@ -3931,7 +3931,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c33da5603dc54431b78758da506b8f5d/manhattancafe_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/bd3c1c76215543baa5445c4b1b1d6d68/manhattancafe_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -3952,9 +3952,9 @@
     "mihonobourbon": {
         "id": "mihonobourbon",
         "createdAt": "2024-01-22T14:06:02.758000+00:00",
-        "updatedAt": "2025-07-03T05:59:23.442000+00:00",
+        "updatedAt": "2025-07-15T05:52:01.537000+00:00",
         "publishedAt": "2024-01-22T14:06:02.758000+00:00",
-        "revisedAt": "2024-03-12T05:39:03.817000+00:00",
+        "revisedAt": "2025-07-15T05:52:01.537000+00:00",
         "name": "ミホノブルボン",
         "cn_name": "美浦波旁",
         "en": "Mihono Bourbon",
@@ -4089,7 +4089,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/96dccb88188b4a7d8589b3a8f083af00/mihonobourbon_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/79097bcc61644edfbce0e3e55b993ad0/mihonobourbon_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -4110,9 +4110,9 @@
     "mejiroryan": {
         "id": "mejiroryan",
         "createdAt": "2024-01-22T14:06:02.817000+00:00",
-        "updatedAt": "2025-07-03T05:59:29.420000+00:00",
+        "updatedAt": "2025-07-15T05:52:01.128000+00:00",
         "publishedAt": "2024-01-22T14:06:02.817000+00:00",
-        "revisedAt": "2024-03-12T05:39:09.949000+00:00",
+        "revisedAt": "2025-07-15T05:52:01.128000+00:00",
         "name": "メジロライアン",
         "cn_name": "目白赖恩",
         "en": "Mejiro Ryan",
@@ -4247,7 +4247,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/993c23c96a1d4226ab2abb4802de1236/mejiroryan_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/fd4ecc414f234286bb5a795310afa24a/mejiroryan_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -4268,9 +4268,9 @@
     "hishiakebono": {
         "id": "hishiakebono",
         "createdAt": "2024-01-22T14:06:02.764000+00:00",
-        "updatedAt": "2025-07-03T05:59:34.947000+00:00",
+        "updatedAt": "2025-07-15T05:52:00.782000+00:00",
         "publishedAt": "2024-01-22T14:06:02.764000+00:00",
-        "revisedAt": "2024-04-25T11:49:01.399000+00:00",
+        "revisedAt": "2025-07-15T05:52:00.782000+00:00",
         "name": "ヒシアケボノ",
         "cn_name": "菱曙",
         "en": "Hishi Akebono",
@@ -4405,7 +4405,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a2d3830c83d04aafbd84f1f7ba73f8ae/hishiakebono_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f76ab8b1ab954389a4b513e575a716d7/hishiakebono_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -4426,9 +4426,9 @@
     "yukinobijin": {
         "id": "yukinobijin",
         "createdAt": "2024-01-22T14:06:02.765000+00:00",
-        "updatedAt": "2025-07-03T05:59:40.617000+00:00",
+        "updatedAt": "2025-07-15T05:52:01.311000+00:00",
         "publishedAt": "2024-01-22T14:06:02.765000+00:00",
-        "revisedAt": "2024-03-12T05:39:23.144000+00:00",
+        "revisedAt": "2025-07-15T05:52:01.311000+00:00",
         "name": "ユキノビジン",
         "cn_name": "雪之美人",
         "en": "Yukino Bijin",
@@ -4563,7 +4563,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6893940e7ba4488cb2ff79181f4ff4bf/yukinobijin_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/65872740f9534a729aef9385ee5f5b2e/yukinobijin_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -4584,9 +4584,9 @@
     "riceshower": {
         "id": "riceshower",
         "createdAt": "2024-01-22T14:06:02.764000+00:00",
-        "updatedAt": "2025-07-03T05:59:45.464000+00:00",
+        "updatedAt": "2025-07-15T05:52:00.936000+00:00",
         "publishedAt": "2024-01-22T14:06:02.764000+00:00",
-        "revisedAt": "2024-03-12T05:39:28.557000+00:00",
+        "revisedAt": "2025-07-15T05:52:00.936000+00:00",
         "name": "ライスシャワー",
         "cn_name": "米浴",
         "en": "Rice Shower",
@@ -4721,7 +4721,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/fb80665f1ec34a9ca7b621277be7e847/riceshower_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d8f667d520af423aaafcb2e24fd47412/riceshower_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -4742,9 +4742,9 @@
     "inesfujin": {
         "id": "inesfujin",
         "createdAt": "2024-01-22T14:06:02.765000+00:00",
-        "updatedAt": "2025-07-03T05:59:50.607000+00:00",
+        "updatedAt": "2025-07-15T05:52:01.202000+00:00",
         "publishedAt": "2024-01-22T14:06:02.765000+00:00",
-        "revisedAt": "2024-05-22T02:30:14.867000+00:00",
+        "revisedAt": "2025-07-15T05:52:01.202000+00:00",
         "name": "アイネスフウジン",
         "cn_name": "艾尼斯风神",
         "en": "Ines Fujin",
@@ -4879,7 +4879,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/14e585ca6a9340c59bceda7b03598e4d/inesfujin_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8531c343ad28497fb55264190d8080c5/inesfujin_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -4900,9 +4900,9 @@
     "agnestachyon": {
         "id": "agnestachyon",
         "createdAt": "2024-01-22T14:06:02.780000+00:00",
-        "updatedAt": "2025-07-03T05:59:56.362000+00:00",
+        "updatedAt": "2025-07-15T05:52:01.165000+00:00",
         "publishedAt": "2024-01-22T14:06:02.780000+00:00",
-        "revisedAt": "2024-03-12T05:39:40.344000+00:00",
+        "revisedAt": "2025-07-15T05:52:01.165000+00:00",
         "name": "アグネスタキオン",
         "cn_name": "爱丽速子",
         "en": "Agnes Tachyon",
@@ -5037,7 +5037,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6d0f725fd71942f0b702740d3269442f/agnestachyon_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f9ee040fca18443c96ea0420c4c3c02a/agnestachyon_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -5058,9 +5058,9 @@
     "admirevega": {
         "id": "admirevega",
         "createdAt": "2024-01-22T14:06:02.780000+00:00",
-        "updatedAt": "2025-07-03T06:00:01.931000+00:00",
+        "updatedAt": "2025-07-15T05:52:00.816000+00:00",
         "publishedAt": "2024-01-22T14:06:02.780000+00:00",
-        "revisedAt": "2024-03-27T06:58:52.869000+00:00",
+        "revisedAt": "2025-07-15T05:52:00.816000+00:00",
         "name": "アドマイヤベガ",
         "cn_name": "爱慕织姬",
         "en": "Admire Vega",
@@ -5195,7 +5195,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/754865f4c38643ba8c37c09c3fd249aa/admirevega_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c01c0382f8c64a80a0d40742051e05c1/admirevega_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -5216,9 +5216,9 @@
     "inarione": {
         "id": "inarione",
         "createdAt": "2024-01-22T14:06:02.766000+00:00",
-        "updatedAt": "2025-07-03T06:00:07.269000+00:00",
+        "updatedAt": "2025-07-15T05:52:01.020000+00:00",
         "publishedAt": "2024-01-22T14:06:02.766000+00:00",
-        "revisedAt": "2024-03-12T05:39:51.631000+00:00",
+        "revisedAt": "2025-07-15T05:52:01.020000+00:00",
         "name": "イナリワン",
         "cn_name": "稻荷一",
         "en": "Inari One",
@@ -5353,7 +5353,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f7640961305d4854bd58ab4affa842e1/inarione_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4615674b05924f44ba7647fbfc66b7b7/inarione_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -5374,9 +5374,9 @@
     "winningticket": {
         "id": "winningticket",
         "createdAt": "2024-01-22T14:06:02.781000+00:00",
-        "updatedAt": "2025-07-03T06:00:12.704000+00:00",
+        "updatedAt": "2025-07-15T05:52:01.506000+00:00",
         "publishedAt": "2024-01-22T14:06:02.781000+00:00",
-        "revisedAt": "2024-03-12T05:39:56.825000+00:00",
+        "revisedAt": "2025-07-15T05:52:01.506000+00:00",
         "name": "ウイニングチケット",
         "cn_name": "胜利奖券",
         "en": "Winning Ticket",
@@ -5511,7 +5511,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/26979a57262c4d4a8163ffc84ce98dc6/winningticket_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/fc985847390248fd9032e00bb1963f9c/winningticket_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -5532,9 +5532,9 @@
     "airshakur": {
         "id": "airshakur",
         "createdAt": "2024-01-22T14:06:02.781000+00:00",
-        "updatedAt": "2025-07-03T06:00:17.881000+00:00",
+        "updatedAt": "2025-07-15T05:52:00.856000+00:00",
         "publishedAt": "2024-01-22T14:06:02.781000+00:00",
-        "revisedAt": "2024-03-12T05:40:01.891000+00:00",
+        "revisedAt": "2025-07-15T05:52:00.856000+00:00",
         "name": "エアシャカール",
         "cn_name": "空中神宫",
         "en": "Air Shakur",
@@ -5669,7 +5669,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7c484862af874ff0833794bf888d09f6/airshakur_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/bbb316e5a0844b1bb0a8986730426025/airshakur_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -5690,9 +5690,9 @@
     "eishinflash": {
         "id": "eishinflash",
         "createdAt": "2024-01-22T14:06:02.782000+00:00",
-        "updatedAt": "2025-07-03T06:00:23.827000+00:00",
+        "updatedAt": "2025-07-15T05:52:00.749000+00:00",
         "publishedAt": "2024-01-22T14:06:02.782000+00:00",
-        "revisedAt": "2024-03-12T05:41:58.514000+00:00",
+        "revisedAt": "2025-07-15T05:52:00.749000+00:00",
         "name": "エイシンフラッシュ",
         "cn_name": "荣进闪耀",
         "en": "Eishin Flash",
@@ -5827,7 +5827,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5b6c9c9e92c54c7d9524e577a70d1355/eishinflash_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5e92dee9a95c45e9acbccb20d2faa0ad/eishinflash_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -5848,9 +5848,9 @@
     "currenchan": {
         "id": "currenchan",
         "createdAt": "2024-01-22T14:06:02.787000+00:00",
-        "updatedAt": "2025-07-03T06:00:35.981000+00:00",
+        "updatedAt": "2025-07-15T05:52:01.090000+00:00",
         "publishedAt": "2024-01-22T14:06:02.787000+00:00",
-        "revisedAt": "2024-04-25T11:34:31.038000+00:00",
+        "revisedAt": "2025-07-15T05:52:01.090000+00:00",
         "name": "カレンチャン",
         "cn_name": "真机伶",
         "en": "Curren Chan",
@@ -5985,7 +5985,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ccbaad89e8be464194460d27aab44958/currenchan_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/476e4386d54e493dbe9c585bf0128c49/currenchan_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -6006,9 +6006,9 @@
     "kawakamiprincess": {
         "id": "kawakamiprincess",
         "createdAt": "2024-01-22T14:06:02.786000+00:00",
-        "updatedAt": "2025-07-03T06:00:41.594000+00:00",
+        "updatedAt": "2025-07-15T05:52:00.896000+00:00",
         "publishedAt": "2024-01-22T14:06:02.786000+00:00",
-        "revisedAt": "2024-03-12T05:42:09.407000+00:00",
+        "revisedAt": "2025-07-15T05:52:00.896000+00:00",
         "name": "カワカミプリンセス",
         "cn_name": "川上公主",
         "en": "Kawakami Princess",
@@ -6143,7 +6143,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4e3386d4ad814c809abfb1887c71a606/kawakamiprincess_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f1c393aca45f4dffada756193d273731/kawakamiprincess_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -6164,9 +6164,9 @@
     "goldcity": {
         "id": "goldcity",
         "createdAt": "2024-01-22T14:06:02.798000+00:00",
-        "updatedAt": "2025-07-03T06:00:47.899000+00:00",
+        "updatedAt": "2025-07-15T05:52:00.981000+00:00",
         "publishedAt": "2024-01-22T14:06:02.798000+00:00",
-        "revisedAt": "2024-03-12T05:42:14.645000+00:00",
+        "revisedAt": "2025-07-15T05:52:00.981000+00:00",
         "name": "ゴールドシチー",
         "cn_name": "黄金城",
         "en": "Gold City",
@@ -6301,7 +6301,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/873c5b36ef8846789547638e1ec43ced/goldcity_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0e162886fceb4087b18b1eead99a627d/goldcity_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -6322,9 +6322,9 @@
     "sakurabakushino": {
         "id": "sakurabakushino",
         "createdAt": "2024-01-22T14:06:02.787000+00:00",
-        "updatedAt": "2025-07-03T06:00:53.119000+00:00",
+        "updatedAt": "2025-07-15T05:52:01.569000+00:00",
         "publishedAt": "2024-01-22T14:06:02.787000+00:00",
-        "revisedAt": "2024-03-27T06:59:40.308000+00:00",
+        "revisedAt": "2025-07-15T05:52:01.569000+00:00",
         "name": "サクラバクシンオー",
         "cn_name": "樱花进王",
         "en": "Sakura Bakushin O",
@@ -6459,7 +6459,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/89931db1644446b397bb15ce26b1d686/sakurabakushino_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6d07e1c026ed49f7b26fcba312c3d25d/sakurabakushino_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -6480,9 +6480,9 @@
     "seekingthepearl": {
         "id": "seekingthepearl",
         "createdAt": "2024-01-22T14:06:02.788000+00:00",
-        "updatedAt": "2025-07-03T06:00:59.113000+00:00",
+        "updatedAt": "2025-07-15T05:52:01.277000+00:00",
         "publishedAt": "2024-01-22T14:06:02.788000+00:00",
-        "revisedAt": "2025-03-05T08:53:01.984000+00:00",
+        "revisedAt": "2025-07-15T05:52:01.277000+00:00",
         "name": "シーキングザパール",
         "cn_name": "采珠",
         "en": "Seeking the Pearl",
@@ -6617,7 +6617,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/eaf4f3cc5bcf42f1b8664beba8178aad/seekingthepearl_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/43623f11ce124b89a9c596767c4d4b30/seekingthepearl_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -6638,9 +6638,9 @@
     "shinkowindy": {
         "id": "shinkowindy",
         "createdAt": "2024-01-22T14:06:02.788000+00:00",
-        "updatedAt": "2025-07-03T06:01:04.279000+00:00",
+        "updatedAt": "2025-07-15T05:52:01.347000+00:00",
         "publishedAt": "2024-01-22T14:06:02.788000+00:00",
-        "revisedAt": "2024-03-27T07:13:48.285000+00:00",
+        "revisedAt": "2025-07-15T05:52:01.347000+00:00",
         "name": "シンコウウインディ",
         "cn_name": "新光风",
         "en": "Shinko Windy",
@@ -6775,7 +6775,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5096c1a3900a4f698d9bcc1488f786bc/shinkowindy_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/dc64965ff30e4579b0e2ef108453097a/shinkowindy_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -6796,9 +6796,9 @@
     "sweeptosho": {
         "id": "sweeptosho",
         "createdAt": "2024-01-22T14:06:02.788000+00:00",
-        "updatedAt": "2025-07-03T06:01:09.813000+00:00",
+        "updatedAt": "2025-07-15T05:52:01.238000+00:00",
         "publishedAt": "2024-01-22T14:06:02.788000+00:00",
-        "revisedAt": "2024-03-12T05:42:36.906000+00:00",
+        "revisedAt": "2025-07-15T05:52:01.238000+00:00",
         "name": "スイープトウショウ",
         "cn_name": "东商变革",
         "en": "Sweep Tosho",
@@ -6933,7 +6933,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a319259c129f475d874ea64405e7bdc8/sweeptosho_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/41dda2cdb0e94a7bbe27ecd50a1111d9/sweeptosho_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -6954,9 +6954,9 @@
     "supercreek": {
         "id": "supercreek",
         "createdAt": "2024-01-22T14:06:02.799000+00:00",
-        "updatedAt": "2025-07-03T06:01:14.445000+00:00",
+        "updatedAt": "2025-07-15T05:52:01.388000+00:00",
         "publishedAt": "2024-01-22T14:06:02.799000+00:00",
-        "revisedAt": "2024-03-12T05:42:42.030000+00:00",
+        "revisedAt": "2025-07-15T05:52:01.388000+00:00",
         "name": "スーパークリーク",
         "cn_name": "超级小海湾",
         "en": "Super Creek",
@@ -7091,7 +7091,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3dedebdde84c4fc8b7df7bebf5368f4b/supercreek_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/29b75ae67415475e8e58b090c49cb8ef/supercreek_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -7112,9 +7112,9 @@
     "smartfalcon": {
         "id": "smartfalcon",
         "createdAt": "2024-01-22T14:06:02.798000+00:00",
-        "updatedAt": "2025-07-03T06:01:19.512000+00:00",
+        "updatedAt": "2025-07-15T05:52:01.605000+00:00",
         "publishedAt": "2024-01-22T14:06:02.798000+00:00",
-        "revisedAt": "2024-03-12T05:42:48.498000+00:00",
+        "revisedAt": "2025-07-15T05:52:01.605000+00:00",
         "name": "スマートファルコン",
         "cn_name": "醒目飞鹰",
         "en": "Smart Falcon",
@@ -7249,7 +7249,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/08c8d2af7a7b4064b08f447c94a4aec8/smartfalcon_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b33cb09201c340b9a9d569d1ee2dd7a9/smartfalcon_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -7270,9 +7270,9 @@
     "zennorobroy": {
         "id": "zennorobroy",
         "createdAt": "2024-01-22T14:06:02.797000+00:00",
-        "updatedAt": "2025-07-03T06:01:24.714000+00:00",
+        "updatedAt": "2025-07-15T05:52:01.466000+00:00",
         "publishedAt": "2024-01-22T14:06:02.797000+00:00",
-        "revisedAt": "2024-03-12T05:42:54.853000+00:00",
+        "revisedAt": "2025-07-15T05:52:01.466000+00:00",
         "name": "ゼンノロブロイ",
         "cn_name": "荒漠英雄",
         "en": "Zenno Rob Roy",
@@ -7407,7 +7407,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/12a4840c5df14949b1f80f1a9b5cf9c8/zennorobroy_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/90ecadaa570344938f1ed44675c7fbbc/zennorobroy_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -7428,9 +7428,9 @@
     "tosenjordan": {
         "id": "tosenjordan",
         "createdAt": "2024-01-22T14:06:02.840000+00:00",
-        "updatedAt": "2025-07-03T06:01:29.935000+00:00",
+        "updatedAt": "2025-07-15T05:52:00.699000+00:00",
         "publishedAt": "2024-01-22T14:06:02.840000+00:00",
-        "revisedAt": "2024-03-27T07:15:21.895000+00:00",
+        "revisedAt": "2025-07-15T05:52:00.699000+00:00",
         "name": "トーセンジョーダン",
         "cn_name": "东瀛佐敦",
         "en": "Tosen Jordan",
@@ -7565,7 +7565,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/36994ae7feb94076b707c1f69035868a/tosenjordan_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b8b0ad94f4d941dab8f9e1b75f50b277/tosenjordan_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -7586,9 +7586,9 @@
     "nakayamafesta": {
         "id": "nakayamafesta",
         "createdAt": "2024-01-22T14:06:02.841000+00:00",
-        "updatedAt": "2025-07-03T06:01:35.731000+00:00",
+        "updatedAt": "2025-07-15T05:52:01.431000+00:00",
         "publishedAt": "2024-01-22T14:06:02.841000+00:00",
-        "revisedAt": "2024-03-12T05:43:05.084000+00:00",
+        "revisedAt": "2025-07-15T05:52:01.431000+00:00",
         "name": "ナカヤマフェスタ",
         "cn_name": "中山庆典",
         "en": "Nakayama Festa",
@@ -7723,7 +7723,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/482d6fd5f3094009bc490f27c956ae14/nakayamafesta_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/701ac490a57b4421b7b5e84ffb57eff3/nakayamafesta_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -7744,9 +7744,9 @@
     "naritataishin": {
         "id": "naritataishin",
         "createdAt": "2024-01-22T14:06:02.839000+00:00",
-        "updatedAt": "2025-07-03T06:01:41.558000+00:00",
+        "updatedAt": "2025-07-15T05:52:01.055000+00:00",
         "publishedAt": "2024-01-22T14:06:02.839000+00:00",
-        "revisedAt": "2024-03-12T05:43:09.879000+00:00",
+        "revisedAt": "2025-07-15T05:52:01.055000+00:00",
         "name": "ナリタタイシン",
         "cn_name": "成田大进",
         "en": "Narita Taishin",
@@ -7881,7 +7881,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1754accc4a0f419687c8412dcadec6ef/naritataishin_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/42e90cfa81d641fb85a8f944548751d8/naritataishin_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -7902,9 +7902,9 @@
     "nishinoflower": {
         "id": "nishinoflower",
         "createdAt": "2024-01-22T14:06:02.721000+00:00",
-        "updatedAt": "2025-07-03T06:01:52.758000+00:00",
+        "updatedAt": "2025-07-15T05:55:23.218000+00:00",
         "publishedAt": "2024-01-22T14:06:02.721000+00:00",
-        "revisedAt": "2024-03-12T05:43:15.418000+00:00",
+        "revisedAt": "2025-07-15T05:55:23.218000+00:00",
         "name": "ニシノフラワー",
         "cn_name": "西野花",
         "en": "Nishino Flower",
@@ -8039,7 +8039,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/787e4cc071874d1b921fdf39f4cc9fbe/nishinoflower_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c33dc3ffcb61490a8373c940c2b4c793/nishinoflower_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -8060,9 +8060,9 @@
     "haruurara": {
         "id": "haruurara",
         "createdAt": "2024-01-22T14:06:02.721000+00:00",
-        "updatedAt": "2025-07-03T06:02:03.335000+00:00",
+        "updatedAt": "2025-07-15T05:55:23.304000+00:00",
         "publishedAt": "2024-01-22T14:06:02.721000+00:00",
-        "revisedAt": "2024-03-27T07:15:52.058000+00:00",
+        "revisedAt": "2025-07-15T05:55:23.304000+00:00",
         "name": "ハルウララ",
         "cn_name": "春乌拉拉",
         "en": "Haru Urara",
@@ -8197,7 +8197,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e87c40c0b8764d58b55d24aac085944a/haruurara_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/143161d13653488099ecfab98be750f1/haruurara_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -8218,9 +8218,9 @@
     "bamboomemory": {
         "id": "bamboomemory",
         "createdAt": "2024-01-22T14:06:02.722000+00:00",
-        "updatedAt": "2025-07-03T06:02:09.892000+00:00",
+        "updatedAt": "2025-07-15T05:55:22.661000+00:00",
         "publishedAt": "2024-01-22T14:06:02.722000+00:00",
-        "revisedAt": "2024-04-25T11:20:31.002000+00:00",
+        "revisedAt": "2025-07-15T05:55:22.661000+00:00",
         "name": "バンブーメモリー",
         "cn_name": "青竹回忆",
         "en": "Bamboo Memory",
@@ -8355,7 +8355,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4e66c9ff765a44d18823da06323ed341/bamboomemory_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7cdc4dfccd4d44c9987d4973bf518272/bamboomemory_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -8376,9 +8376,9 @@
     "bikopegasus": {
         "id": "bikopegasus",
         "createdAt": "2024-01-22T14:06:02.723000+00:00",
-        "updatedAt": "2025-07-03T06:02:15.730000+00:00",
+        "updatedAt": "2025-07-15T05:55:22.951000+00:00",
         "publishedAt": "2024-01-22T14:06:02.723000+00:00",
-        "revisedAt": "2024-03-12T05:44:18.112000+00:00",
+        "revisedAt": "2025-07-15T05:55:22.951000+00:00",
         "name": "ビコーペガサス",
         "cn_name": "微光飞驹",
         "en": "Biko Pegasus",
@@ -8513,7 +8513,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/fa733e0904544f8997c2baf4effba79f/bikopegasus_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/770363b260ac496d8d5a6b52485396d3/bikopegasus_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -8534,9 +8534,9 @@
     "marveloussunday": {
         "id": "marveloussunday",
         "createdAt": "2024-01-22T14:06:02.723000+00:00",
-        "updatedAt": "2025-07-03T06:02:21.004000+00:00",
+        "updatedAt": "2025-07-15T05:55:22.591000+00:00",
         "publishedAt": "2024-01-22T14:06:02.723000+00:00",
-        "revisedAt": "2024-03-12T05:44:23.494000+00:00",
+        "revisedAt": "2025-07-15T05:55:22.591000+00:00",
         "name": "マーベラスサンデー",
         "cn_name": "美丽周日",
         "en": "Marvelous Sunday",
@@ -8671,7 +8671,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/eb3fbb61a46743fba4b634189d79efcd/marveloussunday_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/357a8afa1d1e4cb8a300fe2f8ca64cff/marveloussunday_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -8692,9 +8692,9 @@
     "matikanefukukitaru": {
         "id": "matikanefukukitaru",
         "createdAt": "2024-01-22T14:06:02.724000+00:00",
-        "updatedAt": "2025-07-03T06:02:25.897000+00:00",
+        "updatedAt": "2025-07-15T05:55:23.174000+00:00",
         "publishedAt": "2024-01-22T14:06:02.724000+00:00",
-        "revisedAt": "2024-03-12T05:44:28.940000+00:00",
+        "revisedAt": "2025-07-15T05:55:23.174000+00:00",
         "name": "マチカネフクキタル",
         "cn_name": "待兼福来",
         "en": "Matikanefukukitaru",
@@ -8829,7 +8829,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/33923dfa9bb346359ae5a7aa47cf5198/matikanefukukitaru_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/daf0eb98149845eea76352a014cae586/matikanefukukitaru_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -8850,9 +8850,9 @@
     "mrcb": {
         "id": "mrcb",
         "createdAt": "2024-01-22T14:06:02.724000+00:00",
-        "updatedAt": "2025-07-03T06:02:30.639000+00:00",
+        "updatedAt": "2025-07-15T05:55:22.551000+00:00",
         "publishedAt": "2024-01-22T14:06:02.724000+00:00",
-        "revisedAt": "2024-03-12T05:44:33.975000+00:00",
+        "revisedAt": "2025-07-15T05:55:22.551000+00:00",
         "name": "ミスターシービー",
         "cn_name": "千明代表",
         "en": "Mr. C.B.",
@@ -8987,7 +8987,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f82aee130e9c41458c3e17b685c53ad1/mrcb_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1bd588a1f72d441fab49d0ae8f818c83/mrcb_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -9008,9 +9008,9 @@
     "meishodoto": {
         "id": "meishodoto",
         "createdAt": "2024-01-22T14:06:02.737000+00:00",
-        "updatedAt": "2025-07-03T06:02:35.543000+00:00",
+        "updatedAt": "2025-07-15T05:55:22.474000+00:00",
         "publishedAt": "2024-01-22T14:06:02.737000+00:00",
-        "revisedAt": "2024-03-12T05:44:39.327000+00:00",
+        "revisedAt": "2025-07-15T05:55:22.474000+00:00",
         "name": "メイショウドトウ",
         "cn_name": "名将怒涛",
         "en": "Meisho Doto",
@@ -9145,7 +9145,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f1bd00f2be634c589bc5d832f400d852/meishodoto_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1618afc2788d4470b311d345fcb0c45b/meishodoto_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -9166,9 +9166,9 @@
     "mejirodober": {
         "id": "mejirodober",
         "createdAt": "2024-01-22T14:06:02.738000+00:00",
-        "updatedAt": "2025-07-03T06:02:40.812000+00:00",
+        "updatedAt": "2025-07-15T05:55:22.623000+00:00",
         "publishedAt": "2024-01-22T14:06:02.738000+00:00",
-        "revisedAt": "2024-03-12T05:44:46.655000+00:00",
+        "revisedAt": "2025-07-15T05:55:22.623000+00:00",
         "name": "メジロドーベル",
         "cn_name": "目白多伯",
         "en": "Mejiro Dober",
@@ -9303,7 +9303,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/63cc6b00151e434fb31897a327ad35ce/mejirodober_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/586218ae57cb45b6a6946b9635b59088/mejirodober_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -9324,9 +9324,9 @@
     "nicenature": {
         "id": "nicenature",
         "createdAt": "2024-01-22T14:06:02.739000+00:00",
-        "updatedAt": "2025-07-03T06:02:45.613000+00:00",
+        "updatedAt": "2025-07-15T05:55:22.390000+00:00",
         "publishedAt": "2024-01-22T14:06:02.739000+00:00",
-        "revisedAt": "2024-03-27T07:05:47.432000+00:00",
+        "revisedAt": "2025-07-15T05:55:22.390000+00:00",
         "name": "ナイスネイチャ",
         "cn_name": "优秀素质",
         "en": "Nice Nature",
@@ -9461,7 +9461,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f78061b4ffe94ff9929fa6a7840ce0c7/nicenature_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5fc9a2adb3c244849bf6be4c953a05d0/nicenature_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -9482,9 +9482,9 @@
     "kinghalo": {
         "id": "kinghalo",
         "createdAt": "2024-01-22T14:06:02.739000+00:00",
-        "updatedAt": "2025-07-03T06:02:50.632000+00:00",
+        "updatedAt": "2025-07-15T05:55:23.020000+00:00",
         "publishedAt": "2024-01-22T14:06:02.739000+00:00",
-        "revisedAt": "2024-03-12T05:44:57.691000+00:00",
+        "revisedAt": "2025-07-15T05:55:23.020000+00:00",
         "name": "キングヘイロー",
         "cn_name": "帝王光辉",
         "en": "King Halo",
@@ -9619,7 +9619,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1ab4a0cf994a42579a0a501f351a1213/kinghalo_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/121df4a500b84ba7adacb73c99c42839/kinghalo_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -9640,9 +9640,9 @@
     "matikanetannhauser": {
         "id": "matikanetannhauser",
         "createdAt": "2024-01-22T14:06:02.740000+00:00",
-        "updatedAt": "2025-07-03T06:02:56.105000+00:00",
+        "updatedAt": "2025-07-15T05:55:23.091000+00:00",
         "publishedAt": "2024-01-22T14:06:02.740000+00:00",
-        "revisedAt": "2024-03-12T05:45:03.514000+00:00",
+        "revisedAt": "2025-07-15T05:55:23.091000+00:00",
         "name": "マチカネタンホイザ",
         "cn_name": "待兼诗歌剧",
         "en": "Matikanetannhauser",
@@ -9777,7 +9777,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6884a2b1045f455889edd447dd2c027c/matikanetannhauser_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5add033649ca4991a499de20d11e1c90/matikanetannhauser_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -9798,9 +9798,9 @@
     "ikunodictus": {
         "id": "ikunodictus",
         "createdAt": "2024-01-22T14:06:02.741000+00:00",
-        "updatedAt": "2025-07-03T06:03:01.552000+00:00",
+        "updatedAt": "2025-07-15T05:55:22.912000+00:00",
         "publishedAt": "2024-01-22T14:06:02.741000+00:00",
-        "revisedAt": "2024-03-12T05:45:09.108000+00:00",
+        "revisedAt": "2025-07-15T05:55:22.912000+00:00",
         "name": "イクノディクタス",
         "cn_name": "生野狄杜斯",
         "en": "Ikuno Dictus",
@@ -9935,7 +9935,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/13a0f9b2056c4906a60addea9f8ca944/ikunodictus_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/794b74f6478b48be99654e481b7e2ef9/ikunodictus_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -9956,9 +9956,9 @@
     "mejiropalmer": {
         "id": "mejiropalmer",
         "createdAt": "2024-01-22T14:06:02.741000+00:00",
-        "updatedAt": "2025-07-03T06:03:06.852000+00:00",
+        "updatedAt": "2025-07-15T05:55:22.732000+00:00",
         "publishedAt": "2024-01-22T14:06:02.741000+00:00",
-        "revisedAt": "2024-03-12T05:45:14.113000+00:00",
+        "revisedAt": "2025-07-15T05:55:22.732000+00:00",
         "name": "メジロパーマー",
         "cn_name": "目白善信",
         "en": "Mejiro Palmer",
@@ -10093,7 +10093,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7da86c86f5014f8f99326bd05ff3458d/mejiropalmer_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c0843cbf08fb45b782899eef6e9fedca/mejiropalmer_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -10114,9 +10114,9 @@
     "daitakuhelios": {
         "id": "daitakuhelios",
         "createdAt": "2024-01-22T14:06:02.742000+00:00",
-        "updatedAt": "2025-07-03T06:03:11.548000+00:00",
+        "updatedAt": "2025-07-15T05:55:22.516000+00:00",
         "publishedAt": "2024-01-22T14:06:02.742000+00:00",
-        "revisedAt": "2024-03-12T05:45:21.184000+00:00",
+        "revisedAt": "2025-07-15T05:55:22.516000+00:00",
         "name": "ダイタクヘリオス",
         "cn_name": "大拓太阳神",
         "en": "Daitaku Helios",
@@ -10251,7 +10251,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0eee3bed93c5477f8b1e212d27c0782c/daitakuhelios_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3816cf0d11a94122995c1d004b43c78e/daitakuhelios_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -10272,9 +10272,9 @@
     "twinturbo": {
         "id": "twinturbo",
         "createdAt": "2024-01-22T14:06:02.742000+00:00",
-        "updatedAt": "2025-07-03T06:03:16.099000+00:00",
+        "updatedAt": "2025-07-15T05:55:22.874000+00:00",
         "publishedAt": "2024-01-22T14:06:02.742000+00:00",
-        "revisedAt": "2024-03-27T07:03:53.824000+00:00",
+        "revisedAt": "2025-07-15T05:55:22.874000+00:00",
         "name": "ツインターボ",
         "cn_name": "双涡轮",
         "en": "Twin Turbo",
@@ -10409,7 +10409,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/afcacbc2d0d24a18ab9addc4edf5908d/twinturbo_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/67432509e48b4a53ac8f3d60ed8e5bda/twinturbo_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -10430,9 +10430,9 @@
     "satonodiamond": {
         "id": "satonodiamond",
         "createdAt": "2024-01-22T14:06:02.743000+00:00",
-        "updatedAt": "2025-07-03T05:32:13.045000+00:00",
+        "updatedAt": "2025-07-15T05:55:22.812000+00:00",
         "publishedAt": "2024-01-22T14:06:02.743000+00:00",
-        "revisedAt": "2024-03-12T05:45:30.904000+00:00",
+        "revisedAt": "2025-07-15T05:55:22.812000+00:00",
         "name": "サトノダイヤモンド",
         "cn_name": "里见光钻",
         "en": "Satono Diamond",
@@ -10567,7 +10567,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f836aff878e14be2b6f1e386591b02e3/satonodiamond_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/705e2a5097e043cc8f1eab5bd80771b9/satonodiamond_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -10588,9 +10588,9 @@
     "kitasanblack": {
         "id": "kitasanblack",
         "createdAt": "2024-01-22T14:06:02.744000+00:00",
-        "updatedAt": "2025-07-03T05:32:24.850000+00:00",
+        "updatedAt": "2025-07-15T05:55:22.987000+00:00",
         "publishedAt": "2024-01-22T14:06:02.744000+00:00",
-        "revisedAt": "2024-03-12T05:45:35.738000+00:00",
+        "revisedAt": "2025-07-15T05:55:22.987000+00:00",
         "name": "キタサンブラック",
         "cn_name": "北部玄驹",
         "en": "Kitasan Black",
@@ -10725,7 +10725,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/280df197a6c246ca8df51f619c58e3b0/kitasanblack_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0510f0ae61a8432a8ddfe8fb3e5e262e/kitasanblack_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -10746,9 +10746,9 @@
     "sakurachiyonoo": {
         "id": "sakurachiyonoo",
         "createdAt": "2024-01-22T14:06:02.744000+00:00",
-        "updatedAt": "2025-07-03T05:32:36.569000+00:00",
+        "updatedAt": "2025-07-15T05:55:22.695000+00:00",
         "publishedAt": "2024-01-22T14:06:02.744000+00:00",
-        "revisedAt": "2025-03-31T03:51:18.789000+00:00",
+        "revisedAt": "2025-07-15T05:55:22.695000+00:00",
         "name": "サクラチヨノオー",
         "cn_name": "樱花千代王",
         "en": "Sakura Chiyono O",
@@ -10883,7 +10883,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0a8691ed939d45dcad58650db8bf366c/sakurachiyonoo_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d353b0ea40714bcd9f259edbcc55ad67/sakurachiyonoo_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -10904,9 +10904,9 @@
     "siriussymboli": {
         "id": "siriussymboli",
         "createdAt": "2024-01-22T14:06:02.757000+00:00",
-        "updatedAt": "2025-07-03T05:32:49.216000+00:00",
+        "updatedAt": "2025-07-15T05:55:23.052000+00:00",
         "publishedAt": "2024-01-22T14:06:02.757000+00:00",
-        "revisedAt": "2024-03-12T05:50:07.722000+00:00",
+        "revisedAt": "2025-07-15T05:55:23.052000+00:00",
         "name": "シリウスシンボリ",
         "cn_name": "天狼星象征",
         "en": "Sirius Symboli",
@@ -11041,7 +11041,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ecad72ccace7418e989aa0aa9075cd38/siriussymboli_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e3c9712f724a46f6a68271b5e666513a/siriussymboli_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -11062,9 +11062,9 @@
     "mejiroardan": {
         "id": "mejiroardan",
         "createdAt": "2024-01-22T14:06:02.800000+00:00",
-        "updatedAt": "2025-07-03T05:32:58.594000+00:00",
+        "updatedAt": "2025-07-15T05:55:23.131000+00:00",
         "publishedAt": "2024-01-22T14:06:02.800000+00:00",
-        "revisedAt": "2024-03-12T05:50:13.703000+00:00",
+        "revisedAt": "2025-07-15T05:55:23.131000+00:00",
         "name": "メジロアルダン",
         "cn_name": "目白阿尔丹",
         "en": "Mejiro Ardan",
@@ -11199,7 +11199,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/93177a42031a4e808b853fdbdf88c970/mejiroardan_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b145f440ebc24f04b1ac3bffb97f3291/mejiroardan_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -11220,9 +11220,9 @@
     "yaenomuteki": {
         "id": "yaenomuteki",
         "createdAt": "2024-01-22T14:06:02.801000+00:00",
-        "updatedAt": "2025-07-03T05:33:06.397000+00:00",
+        "updatedAt": "2025-07-15T05:55:22.439000+00:00",
         "publishedAt": "2024-01-22T14:06:02.801000+00:00",
-        "revisedAt": "2024-03-12T05:50:18.685000+00:00",
+        "revisedAt": "2025-07-15T05:55:22.439000+00:00",
         "name": "ヤエノムテキ",
         "cn_name": "八重无敌",
         "en": "Yaeno Muteki",
@@ -11357,7 +11357,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9fe8896f3cba485dae565f001704af74/yaenomuteki_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/fa8dcc538299482abb8d0ae5dff750d4/yaenomuteki_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -11378,9 +11378,9 @@
     "tsurumarutsuyoshi": {
         "id": "tsurumarutsuyoshi",
         "createdAt": "2024-01-22T14:06:02.801000+00:00",
-        "updatedAt": "2025-07-03T05:33:14.472000+00:00",
+        "updatedAt": "2025-07-15T05:55:22.775000+00:00",
         "publishedAt": "2024-01-22T14:06:02.801000+00:00",
-        "revisedAt": "2025-02-22T13:12:05.083000+00:00",
+        "revisedAt": "2025-07-15T05:55:22.775000+00:00",
         "name": "ツルマルツヨシ",
         "cn_name": "鹤丸刚志",
         "en": "Tsurumaru Tsuyoshi",
@@ -11515,7 +11515,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b3fb3bb8c2a446368e8bdc0e7951817a/tsurumarutsuyoshi_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/97d89502215d43c4aa5da5f78ad52228/tsurumarutsuyoshi_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -11536,9 +11536,9 @@
     "mejirobright": {
         "id": "mejirobright",
         "createdAt": "2024-01-22T14:06:02.801000+00:00",
-        "updatedAt": "2025-07-03T05:33:22.041000+00:00",
+        "updatedAt": "2025-07-15T05:55:23.260000+00:00",
         "publishedAt": "2024-01-22T14:06:02.801000+00:00",
-        "revisedAt": "2024-03-27T07:18:53.088000+00:00",
+        "revisedAt": "2025-07-15T05:55:23.260000+00:00",
         "name": "メジロブライト",
         "cn_name": "目白光明",
         "en": "Mejiro Bright",
@@ -11673,7 +11673,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/27d333b3889b43148cd9acceedda658b/mejirobright_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/58795c0529b04d18b27e2a706ed465e1/mejirobright_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -11694,9 +11694,9 @@
     "daringtact": {
         "id": "daringtact",
         "createdAt": "2024-01-22T14:06:02.802000+00:00",
-        "updatedAt": "2025-07-03T05:33:29.848000+00:00",
+        "updatedAt": "2025-07-15T05:55:22.845000+00:00",
         "publishedAt": "2024-01-22T14:06:02.802000+00:00",
-        "revisedAt": "2025-04-10T03:45:22.297000+00:00",
+        "revisedAt": "2025-07-15T05:55:22.845000+00:00",
         "name": "デアリングタクト",
         "cn_name": "谋勇兼备",
         "en": "Daring Tact",
@@ -11810,7 +11810,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/936de67c4f094489b8cf9460dfa3a74e/daringtact_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3d3409ab4f7746369c2a1e43b424a815/daringtact_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -11831,9 +11831,9 @@
     "sakuralaurel": {
         "id": "sakuralaurel",
         "createdAt": "2024-01-22T14:06:02.802000+00:00",
-        "updatedAt": "2025-07-03T05:33:36.361000+00:00",
+        "updatedAt": "2025-07-15T06:04:36.143000+00:00",
         "publishedAt": "2024-01-22T14:06:02.802000+00:00",
-        "revisedAt": "2024-05-22T02:30:37.336000+00:00",
+        "revisedAt": "2025-07-15T06:04:36.143000+00:00",
         "name": "サクラローレル",
         "cn_name": "樱花桂冠",
         "en": "Sakura Laurel",
@@ -11947,7 +11947,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6089d3d6bacb4b3d903b17882abb2e2a/sakuralaurel_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8448588de84e4324b7ff129ddb86ecfc/sakuralaurel_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -11968,9 +11968,9 @@
     "naritatoproad": {
         "id": "naritatoproad",
         "createdAt": "2024-01-22T14:06:02.803000+00:00",
-        "updatedAt": "2025-07-03T05:33:43.578000+00:00",
+        "updatedAt": "2025-07-15T06:04:35.871000+00:00",
         "publishedAt": "2024-01-22T14:06:02.803000+00:00",
-        "revisedAt": "2024-03-12T05:51:19.899000+00:00",
+        "revisedAt": "2025-07-15T06:04:35.871000+00:00",
         "name": "ナリタトップロード",
         "cn_name": "成田路",
         "en": "Narita Top Road",
@@ -12105,7 +12105,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6fb4845c2b4a44308c75b3420039ffbd/naritatoproad_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/82cb60646c504d4f8d1c66e8ec99edfb/naritatoproad_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -12126,9 +12126,9 @@
     "yamaninzephyr": {
         "id": "yamaninzephyr",
         "createdAt": "2024-01-22T14:06:02.803000+00:00",
-        "updatedAt": "2025-07-03T05:33:50.356000+00:00",
+        "updatedAt": "2025-07-15T06:04:36.215000+00:00",
         "publishedAt": "2024-01-22T14:06:02.803000+00:00",
-        "revisedAt": "2024-03-12T05:51:25.457000+00:00",
+        "revisedAt": "2025-07-15T06:04:36.215000+00:00",
         "name": "ヤマニンゼファー",
         "cn_name": "也文摄辉",
         "en": "Yamanin Zephyr",
@@ -12263,7 +12263,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f9a331397ee743d9b471a52516245f70/yamaninzephyr_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/90b1f9d9ba484d91a0118e5d3bcd1cdc/yamaninzephyr_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -12284,9 +12284,9 @@
     "furioso": {
         "id": "furioso",
         "createdAt": "2024-01-22T14:06:02.804000+00:00",
-        "updatedAt": "2025-07-03T05:33:57.211000+00:00",
+        "updatedAt": "2025-07-15T06:04:35.663000+00:00",
         "publishedAt": "2024-01-22T14:06:02.804000+00:00",
-        "revisedAt": "2025-01-29T12:06:01.373000+00:00",
+        "revisedAt": "2025-07-15T06:04:35.663000+00:00",
         "name": "フリオーソ",
         "cn_name": "狂怒乐章",
         "en": "Furioso",
@@ -12421,7 +12421,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8f80edc590864a32bd51a1b778f58ce0/furioso_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1e9a7350beb14276b1aa0ef290948b40/furioso_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -12442,9 +12442,9 @@
     "transcend": {
         "id": "transcend",
         "createdAt": "2024-01-22T14:06:02.804000+00:00",
-        "updatedAt": "2025-07-03T05:34:04.389000+00:00",
+        "updatedAt": "2025-07-15T06:04:35.564000+00:00",
         "publishedAt": "2024-01-22T14:06:02.804000+00:00",
-        "revisedAt": "2024-10-16T08:58:40.447000+00:00",
+        "revisedAt": "2025-07-15T06:04:35.564000+00:00",
         "name": "トランセンド",
         "cn_name": "创升",
         "en": "Transcend",
@@ -12579,7 +12579,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/32889229427c4cc0aa4ab19d08f9cc7b/transcend_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8f414278082c47cabcb2fa7ae8996de7/transcend_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -12600,9 +12600,9 @@
     "espoircity": {
         "id": "espoircity",
         "createdAt": "2024-01-22T14:06:02.804000+00:00",
-        "updatedAt": "2025-07-03T05:34:11.292000+00:00",
+        "updatedAt": "2025-07-15T06:04:36.360000+00:00",
         "publishedAt": "2024-01-22T14:06:02.804000+00:00",
-        "revisedAt": "2024-12-11T07:53:39.735000+00:00",
+        "revisedAt": "2025-07-15T06:04:36.360000+00:00",
         "name": "エスポワールシチー",
         "cn_name": "希望之城",
         "en": "Espoir City",
@@ -12716,7 +12716,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c55a8b916931494a95070700a0f6ffb8/espoircity_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1c73eefede8448268d20bdb45eeec367/espoircity_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -12737,9 +12737,9 @@
     "northflight": {
         "id": "northflight",
         "createdAt": "2024-01-22T14:06:02.805000+00:00",
-        "updatedAt": "2025-07-03T05:34:20.373000+00:00",
+        "updatedAt": "2025-07-15T06:04:36.042000+00:00",
         "publishedAt": "2024-01-22T14:06:02.805000+00:00",
-        "revisedAt": "2025-04-18T10:59:17.557000+00:00",
+        "revisedAt": "2025-07-15T06:04:36.042000+00:00",
         "name": "ノースフライト",
         "cn_name": "北方飞翔",
         "en": "North Flight",
@@ -12874,7 +12874,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6fb1792e2708415084446fc97b69004a/northflight_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e9f40ef838084d928e2d6f8631fb5a20/northflight_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -12895,9 +12895,9 @@
     "symbolikriss": {
         "id": "symbolikriss",
         "createdAt": "2024-01-22T14:06:02.805000+00:00",
-        "updatedAt": "2025-07-03T05:34:33.036000+00:00",
+        "updatedAt": "2025-07-15T06:04:36.007000+00:00",
         "publishedAt": "2024-01-22T14:06:02.805000+00:00",
-        "revisedAt": "2024-03-12T05:51:54.270000+00:00",
+        "revisedAt": "2025-07-15T06:04:36.007000+00:00",
         "name": "シンボリクリスエス",
         "cn_name": "吉兆",
         "en": "Symboli Kris S",
@@ -13032,7 +13032,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4407f568834742dab4f9fd9ee802f0d0/symbolikriss_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/61921a5b4b1e4aa2ae9c37cb1e5577b1/symbolikriss_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -13053,9 +13053,9 @@
     "taninogimlet": {
         "id": "taninogimlet",
         "createdAt": "2024-01-22T14:06:02.806000+00:00",
-        "updatedAt": "2025-07-03T05:34:40.293000+00:00",
+        "updatedAt": "2025-07-15T06:04:36.177000+00:00",
         "publishedAt": "2024-01-22T14:06:02.806000+00:00",
-        "revisedAt": "2024-03-12T05:52:03.931000+00:00",
+        "revisedAt": "2025-07-15T06:04:36.177000+00:00",
         "name": "タニノギムレット",
         "cn_name": "谷水琴蕾",
         "en": "Tanino Gimlet",
@@ -13190,7 +13190,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/05d9f317e0804d139bdc721c59cc0808/taninogimlet_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1c5415c9b2cb4fedb05509f990e54648/taninogimlet_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -13211,9 +13211,9 @@
     "daiichiruby": {
         "id": "daiichiruby",
         "createdAt": "2024-01-22T14:06:02.806000+00:00",
-        "updatedAt": "2025-07-03T05:34:47.138000+00:00",
+        "updatedAt": "2025-07-15T06:04:35.809000+00:00",
         "publishedAt": "2024-01-22T14:06:02.806000+00:00",
-        "revisedAt": "2024-03-12T05:52:09.648000+00:00",
+        "revisedAt": "2025-07-15T06:04:35.809000+00:00",
         "name": "ダイイチルビー",
         "cn_name": "第一红宝石",
         "en": "Daiichi Ruby",
@@ -13348,7 +13348,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/35c89ba2e0f049dd9618fbab81ca5729/daiichiruby_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d59a1495ba2c4d3b9a722ab913bd4465/daiichiruby_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -13369,9 +13369,9 @@
     "mejiroramonu": {
         "id": "mejiroramonu",
         "createdAt": "2024-01-22T14:06:02.806000+00:00",
-        "updatedAt": "2025-07-03T05:34:55.238000+00:00",
+        "updatedAt": "2025-07-15T06:04:35.701000+00:00",
         "publishedAt": "2024-01-22T14:06:02.806000+00:00",
-        "revisedAt": "2024-03-12T05:52:14.528000+00:00",
+        "revisedAt": "2025-07-15T06:04:35.701000+00:00",
         "name": "メジロラモーヌ",
         "cn_name": "目白高峰",
         "en": "Mejiro Ramonu",
@@ -13506,7 +13506,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d12b9d9b280a4822980e81e55ea93aea/mejiroramonu_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5df0ff79b9ba4848be5e07ed0da5c07a/mejiroramonu_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -13527,9 +13527,9 @@
     "astonmachan": {
         "id": "astonmachan",
         "createdAt": "2024-01-22T14:06:02.807000+00:00",
-        "updatedAt": "2025-07-03T05:35:02.102000+00:00",
+        "updatedAt": "2025-07-15T06:04:36.101000+00:00",
         "publishedAt": "2024-01-22T14:06:02.807000+00:00",
-        "revisedAt": "2024-03-27T07:19:22.193000+00:00",
+        "revisedAt": "2025-07-15T06:04:36.101000+00:00",
         "name": "アストンマーチャン",
         "cn_name": "真弓快车",
         "en": "Aston Machan",
@@ -13664,7 +13664,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b5b6137a51054dfa84118078f6e9174b/astonmachan_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/77583677fc3d4593b617c0eb8092ce4b/astonmachan_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -13685,9 +13685,9 @@
     "satonocrown": {
         "id": "satonocrown",
         "createdAt": "2024-01-22T14:06:02.807000+00:00",
-        "updatedAt": "2025-07-03T05:35:09.069000+00:00",
+        "updatedAt": "2025-07-15T06:04:36.326000+00:00",
         "publishedAt": "2024-01-22T14:06:02.807000+00:00",
-        "revisedAt": "2024-03-12T05:52:25.551000+00:00",
+        "revisedAt": "2025-07-15T06:04:36.326000+00:00",
         "name": "サトノクラウン",
         "cn_name": "里见皇冠",
         "en": "Satono Crown",
@@ -13822,7 +13822,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/473a78a2a1884ec8b1586e56e51711ed/satonocrown_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6ee9e8c5da194546a74ab1eed5762b2a/satonocrown_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -13843,9 +13843,9 @@
     "chevalgrand": {
         "id": "chevalgrand",
         "createdAt": "2024-01-22T14:06:02.808000+00:00",
-        "updatedAt": "2025-07-03T05:35:16.231000+00:00",
+        "updatedAt": "2025-07-15T06:04:36.294000+00:00",
         "publishedAt": "2024-01-22T14:06:02.808000+00:00",
-        "revisedAt": "2024-03-12T05:52:30.856000+00:00",
+        "revisedAt": "2025-07-15T06:04:36.294000+00:00",
         "name": "シュヴァルグラン",
         "cn_name": "高尚骏逸",
         "en": "Cheval Grand",
@@ -13980,7 +13980,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b601a0b3cdf94b8aa628ae9a2f214a54/chevalgrand_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5451cfedd0874aa285aa04feb438edc6/chevalgrand_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -14001,9 +14001,9 @@
     "verxina": {
         "id": "verxina",
         "createdAt": "2024-01-22T14:06:02.808000+00:00",
-        "updatedAt": "2025-07-03T05:35:23.147000+00:00",
+        "updatedAt": "2025-07-15T06:04:35.607000+00:00",
         "publishedAt": "2024-01-22T14:06:02.808000+00:00",
-        "revisedAt": "2025-05-12T09:01:15.220000+00:00",
+        "revisedAt": "2025-07-15T06:04:35.607000+00:00",
         "name": "ヴィルシーナ",
         "cn_name": "极峰",
         "en": "Verxina",
@@ -14117,7 +14117,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e4f71a05f5bb456a87ba6f4bf2097de1/verxina_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/09550f6ac6154204a455ad7ca448939d/verxina_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -14138,9 +14138,9 @@
     "vivlos": {
         "id": "vivlos",
         "createdAt": "2024-01-22T14:06:02.842000+00:00",
-        "updatedAt": "2025-07-03T05:35:30.701000+00:00",
+        "updatedAt": "2025-07-15T06:04:35.735000+00:00",
         "publishedAt": "2024-01-22T14:06:02.842000+00:00",
-        "revisedAt": "2024-05-28T12:01:06.614000+00:00",
+        "revisedAt": "2025-07-15T06:04:35.735000+00:00",
         "name": "ヴィブロス",
         "cn_name": "强击",
         "en": "Vivlos",
@@ -14275,7 +14275,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/07449f783b114b76a884beb19dd44f85/vivlos_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/42c00789da90497ab39c67481cb7a455/vivlos_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -14296,9 +14296,9 @@
     "dantsuflame": {
         "id": "dantsuflame",
         "createdAt": "2024-01-22T14:06:02.842000+00:00",
-        "updatedAt": "2025-07-03T05:35:38.359000+00:00",
+        "updatedAt": "2025-07-15T06:04:35.633000+00:00",
         "publishedAt": "2024-01-22T14:06:02.842000+00:00",
-        "revisedAt": "2024-07-27T11:56:07.018000+00:00",
+        "revisedAt": "2025-07-15T06:04:35.633000+00:00",
         "name": "ダンツフレーム",
         "cn_name": "烈焰快驹",
         "en": "Dantsu Flame",
@@ -14412,7 +14412,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b5826a45ed334c8aa0cff1fafd1d15b0/dantsuflame_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/43bda2d1c5c34f1889a116a95c4ffa21/dantsuflame_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -14433,9 +14433,9 @@
     "ksmiracle": {
         "id": "ksmiracle",
         "createdAt": "2024-01-22T14:06:02.820000+00:00",
-        "updatedAt": "2025-07-03T05:35:46.183000+00:00",
+        "updatedAt": "2025-07-15T06:04:36.252000+00:00",
         "publishedAt": "2024-01-22T14:06:02.820000+00:00",
-        "revisedAt": "2025-04-27T13:05:35.099000+00:00",
+        "revisedAt": "2025-07-15T06:04:36.252000+00:00",
         "name": "ケイエスミラクル",
         "cn_name": "凯斯奇迹",
         "en": "K.S.Miracle",
@@ -14570,7 +14570,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/33a8e15447a7483182f7d383b30f7982/k.s.miracle_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/654a7e193340477299bc8c3b7702457e/k.s.miracle_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -14591,9 +14591,9 @@
     "junglepocket": {
         "id": "junglepocket",
         "createdAt": "2024-01-22T14:06:02.820000+00:00",
-        "updatedAt": "2025-07-03T05:35:53.184000+00:00",
+        "updatedAt": "2025-07-15T06:04:35.941000+00:00",
         "publishedAt": "2024-01-22T14:06:02.820000+00:00",
-        "revisedAt": "2024-06-24T12:44:46.569000+00:00",
+        "revisedAt": "2025-07-15T06:04:35.941000+00:00",
         "name": "ジャングルポケット",
         "cn_name": "森林宝穴",
         "en": "Jungle Pocket",
@@ -14728,7 +14728,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5eac69e8e97b4d1daca4ff0869622162/junglepocket_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/284aca6f1eb14dcc93f0d00d056ba695/junglepocket_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -14749,9 +14749,9 @@
     "believe": {
         "id": "believe",
         "createdAt": "2024-06-24T03:22:37.682000+00:00",
-        "updatedAt": "2025-07-03T05:36:00.124000+00:00",
+        "updatedAt": "2025-07-15T06:04:35.977000+00:00",
         "publishedAt": "2024-06-24T12:46:33.032000+00:00",
-        "revisedAt": "2024-09-27T12:13:32.758000+00:00",
+        "revisedAt": "2025-07-15T06:04:35.977000+00:00",
         "name": "ビリーヴ",
         "cn_name": "",
         "en": "Believe",
@@ -14865,7 +14865,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d0da778af6404cd8870e67bc6bc767a9/believe_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/44ed6bae54304b0ca6e8d472efdc08a9/believe_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -14886,9 +14886,9 @@
     "noreason": {
         "id": "noreason",
         "createdAt": "2024-01-22T14:06:02.821000+00:00",
-        "updatedAt": "2025-07-03T05:36:07.262000+00:00",
+        "updatedAt": "2025-07-15T06:04:36.075000+00:00",
         "publishedAt": "2024-01-22T14:06:02.821000+00:00",
-        "revisedAt": "2025-03-21T09:03:41.436000+00:00",
+        "revisedAt": "2025-07-15T06:04:36.075000+00:00",
         "name": "ノーリーズン",
         "cn_name": "莫名其妙",
         "en": "No Reason",
@@ -15002,7 +15002,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/138ca1ffa2654a71a76da8b51c5a02d8/noreason_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/02c9b1e2eb524bac826bc58ac50d7d41/noreason_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -15023,9 +15023,9 @@
     "stillinlove": {
         "id": "stillinlove",
         "createdAt": "2024-01-22T14:06:02.821000+00:00",
-        "updatedAt": "2025-07-03T05:36:17.199000+00:00",
+        "updatedAt": "2025-07-15T06:04:35.845000+00:00",
         "publishedAt": "2024-01-22T14:06:02.821000+00:00",
-        "revisedAt": "2024-07-27T11:56:46.946000+00:00",
+        "revisedAt": "2025-07-15T06:04:35.845000+00:00",
         "name": "スティルインラブ",
         "cn_name": "爱如往昔",
         "en": "Still in Love",
@@ -15139,7 +15139,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c553586c36834184987ddf7c8bc8fb49/stillinlove_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/408fbadb60ae4ec9aba2e9cb667e01e0/stillinlove_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -15160,9 +15160,9 @@
     "copanorickey": {
         "id": "copanorickey",
         "createdAt": "2024-01-22T14:06:02.822000+00:00",
-        "updatedAt": "2025-07-03T05:36:24.027000+00:00",
+        "updatedAt": "2025-07-15T06:04:36.389000+00:00",
         "publishedAt": "2024-01-22T14:06:02.822000+00:00",
-        "revisedAt": "2024-03-12T05:53:15.717000+00:00",
+        "revisedAt": "2025-07-15T06:04:36.389000+00:00",
         "name": "コパノリッキー",
         "cn_name": "小林历奇",
         "en": "Copano Rickey",
@@ -15297,7 +15297,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6f01a9bbd96a4129891be6b61fe33d4f/copanorickey_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ca8a60ada9e14e6ba6670edcff653965/copanorickey_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -15318,9 +15318,9 @@
     "hokkotarumae": {
         "id": "hokkotarumae",
         "createdAt": "2024-01-22T14:06:02.822000+00:00",
-        "updatedAt": "2025-07-03T05:36:37.207000+00:00",
+        "updatedAt": "2025-07-15T06:04:35.907000+00:00",
         "publishedAt": "2024-01-22T14:06:02.822000+00:00",
-        "revisedAt": "2024-03-12T05:53:20.089000+00:00",
+        "revisedAt": "2025-07-15T06:04:35.907000+00:00",
         "name": "ホッコータルマエ",
         "cn_name": "北港火山",
         "en": "Hokko Tarumae",
@@ -15455,7 +15455,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c84aa62b41144f7fa3d0c968221f5ef7/hokkotarumae_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c7fbf26842f04cf1a6f3e6dec7f81e79/hokkotarumae_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -15476,9 +15476,9 @@
     "wonderacute": {
         "id": "wonderacute",
         "createdAt": "2024-01-22T14:06:02.822000+00:00",
-        "updatedAt": "2025-07-03T05:36:45.174000+00:00",
+        "updatedAt": "2025-07-15T06:04:35.765000+00:00",
         "publishedAt": "2024-01-22T14:06:02.822000+00:00",
-        "revisedAt": "2024-03-12T05:53:27.153000+00:00",
+        "revisedAt": "2025-07-15T06:04:35.765000+00:00",
         "name": "ワンダーアキュート",
         "cn_name": "奇锐骏",
         "en": "Wonder Acute",
@@ -15613,7 +15613,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8f20cc93880c49e695c05c97777fe672/wonderacute_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/29a0b365c0cd4d3f9555fe356484f2f3/wonderacute_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -15634,9 +15634,9 @@
     "samsonbig": {
         "id": "samsonbig",
         "createdAt": "2024-01-22T14:06:02.823000+00:00",
-        "updatedAt": "2025-07-03T05:36:56.174000+00:00",
+        "updatedAt": "2025-07-15T06:09:39.002000+00:00",
         "publishedAt": "2024-01-22T14:06:02.823000+00:00",
-        "revisedAt": "2024-11-27T12:00:02.081000+00:00",
+        "revisedAt": "2025-07-15T06:09:39.002000+00:00",
         "name": "サムソンビッグ",
         "cn_name": "",
         "en": "Samson Big",
@@ -15750,7 +15750,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/88ee0f47a5994066bdc208d2636fbb9d/samsonbig_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/bae75374b67e4f0387d84c89b4081d1a/samsonbig_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -15771,9 +15771,9 @@
     "soundsofearth": {
         "id": "soundsofearth",
         "createdAt": "2024-01-22T14:06:02.823000+00:00",
-        "updatedAt": "2025-07-03T05:37:03.475000+00:00",
+        "updatedAt": "2025-07-15T06:09:38.482000+00:00",
         "publishedAt": "2024-01-22T14:06:02.823000+00:00",
-        "revisedAt": "2024-04-19T09:00:56.180000+00:00",
+        "revisedAt": "2025-07-15T06:09:38.482000+00:00",
         "name": "サウンズオブアース",
         "cn_name": "万籁争鸣",
         "en": "Sounds of Earth",
@@ -15887,7 +15887,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4a9a17b169ef4b7d8646daa706617b0d/soundsofearth_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/770001b3a3a74faeb3630f88378935b8/soundsofearth_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -15908,9 +15908,9 @@
     "royceandroyce": {
         "id": "royceandroyce",
         "createdAt": "2024-01-22T14:06:02.824000+00:00",
-        "updatedAt": "2025-07-03T05:37:11.141000+00:00",
+        "updatedAt": "2025-07-15T06:09:38.668000+00:00",
         "publishedAt": "2024-01-22T14:06:02.824000+00:00",
-        "revisedAt": "2024-04-25T11:24:19.473000+00:00",
+        "revisedAt": "2025-07-15T06:09:38.668000+00:00",
         "name": "ロイスアンドロイス",
         "cn_name": "ロイスアンドロイス",
         "en": "Royce and Royce",
@@ -16024,7 +16024,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9681b2e354e544c3bf22d832f8c54971/royceandroyce_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e409438d2e6349bcb9b6b2a583c6649e/royceandroyce_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -16045,9 +16045,9 @@
     "katsuragiace": {
         "id": "katsuragiace",
         "createdAt": "2024-01-22T14:06:02.824000+00:00",
-        "updatedAt": "2025-07-03T05:37:18.066000+00:00",
+        "updatedAt": "2025-07-15T06:09:39.231000+00:00",
         "publishedAt": "2024-01-22T14:06:02.824000+00:00",
-        "revisedAt": "2024-03-12T05:54:21.174000+00:00",
+        "revisedAt": "2025-07-15T06:09:39.231000+00:00",
         "name": "カツラギエース",
         "cn_name": "葛城王牌",
         "en": "Katsuragi Ace",
@@ -16161,7 +16161,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/bcc9b0763f254e59848ec01fb5b034f0/katsuragiace_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b2944f3b9f84467484fb1a9fccd907d6/katsuragiace_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -16182,9 +16182,9 @@
     "neouniverse": {
         "id": "neouniverse",
         "createdAt": "2024-01-22T14:06:02.825000+00:00",
-        "updatedAt": "2025-07-03T05:37:25.658000+00:00",
+        "updatedAt": "2025-07-15T06:09:38.906000+00:00",
         "publishedAt": "2024-01-22T14:06:02.825000+00:00",
-        "revisedAt": "2025-04-27T13:05:55.319000+00:00",
+        "revisedAt": "2025-07-15T06:09:38.906000+00:00",
         "name": "ネオユニヴァース",
         "cn_name": "新宇宙",
         "en": "Neo Universe",
@@ -16319,7 +16319,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/28c1e19a26e64ec8bf1286148d6fa593/neouniverse_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5a6bdb1e47cd49a48e7238c4eb7acba2/neouniverse_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -16340,9 +16340,9 @@
     "hishimiracle": {
         "id": "hishimiracle",
         "createdAt": "2024-01-22T14:06:02.840000+00:00",
-        "updatedAt": "2025-07-03T05:37:33.533000+00:00",
+        "updatedAt": "2025-07-15T06:09:39.273000+00:00",
         "publishedAt": "2024-01-22T14:06:02.840000+00:00",
-        "revisedAt": "2024-03-27T07:20:14.782000+00:00",
+        "revisedAt": "2025-07-15T06:09:39.273000+00:00",
         "name": "ヒシミラクル",
         "cn_name": "菱钻奇宝",
         "en": "Hishi Miracle",
@@ -16477,7 +16477,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7778e81542f046939adce662dfbb7f68/hishimiracle_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7ead1043a657450eb5dc98f0e26a95ff/hishimiracle_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -16498,9 +16498,9 @@
     "tapdancecity": {
         "id": "tapdancecity",
         "createdAt": "2024-01-22T14:06:02.839000+00:00",
-        "updatedAt": "2025-07-03T05:37:45.598000+00:00",
+        "updatedAt": "2025-07-15T06:09:39.039000+00:00",
         "publishedAt": "2024-01-22T14:06:02.839000+00:00",
-        "revisedAt": "2024-03-12T05:54:37.907000+00:00",
+        "revisedAt": "2025-07-15T06:09:39.039000+00:00",
         "name": "タップダンスシチー",
         "cn_name": "跳舞城",
         "en": "Tap Dance City",
@@ -16635,7 +16635,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6e5beb3b95524bc89af17d83d8d1cf6e/tapdancecity_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d2fa5d4f86d3415ba3a0646c89dbc714/tapdancecity_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -16656,9 +16656,9 @@
     "duramente": {
         "id": "duramente",
         "createdAt": "2024-01-22T14:06:02.840000+00:00",
-        "updatedAt": "2025-07-03T05:37:53.143000+00:00",
+        "updatedAt": "2025-07-15T06:09:39.142000+00:00",
         "publishedAt": "2024-01-22T14:06:02.840000+00:00",
-        "revisedAt": "2024-03-12T05:54:43.169000+00:00",
+        "revisedAt": "2025-07-15T06:09:39.142000+00:00",
         "name": "ドゥラメンテ",
         "cn_name": "大鸣大放",
         "en": "Duramente",
@@ -16793,7 +16793,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e0852cf2b0ea43149d9315b19687be5d/duramente_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8662b475954f4d07847dca9d8a76b5aa/duramente_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -16814,9 +16814,9 @@
     "rheinkraft": {
         "id": "rheinkraft",
         "createdAt": "2024-01-22T14:06:02.837000+00:00",
-        "updatedAt": "2025-07-03T05:38:00.903000+00:00",
+        "updatedAt": "2025-07-15T06:09:39.326000+00:00",
         "publishedAt": "2024-01-22T14:06:02.837000+00:00",
-        "revisedAt": "2024-04-25T11:24:44.367000+00:00",
+        "revisedAt": "2025-07-15T06:09:39.326000+00:00",
         "name": "ラインクラフト",
         "cn_name": "莱茵力量",
         "en": "Rhein Kraft",
@@ -16930,7 +16930,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/204b00b6fdfb42babaf863c75910ab83/rheinkraft_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3ea3fca7e7254bb2a6cc38283967a408/rheinkraft_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -16951,9 +16951,9 @@
     "cesario": {
         "id": "cesario",
         "createdAt": "2024-01-22T14:06:02.838000+00:00",
-        "updatedAt": "2025-07-03T05:38:08.563000+00:00",
+        "updatedAt": "2025-07-15T06:09:38.342000+00:00",
         "publishedAt": "2024-01-22T14:06:02.838000+00:00",
-        "revisedAt": "2024-09-10T09:02:19.409000+00:00",
+        "revisedAt": "2025-07-15T06:09:38.342000+00:00",
         "name": "シーザリオ",
         "cn_name": "西沙里奥",
         "en": "Cesario",
@@ -17067,7 +17067,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/be4345e5c4a44c86963a661aed91d97f/cesario_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/151f2eefad394ff1a6ffa089b8964faa/cesario_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -17088,9 +17088,9 @@
     "airmessiah": {
         "id": "airmessiah",
         "createdAt": "2024-01-22T14:06:02.838000+00:00",
-        "updatedAt": "2025-07-03T05:38:15.812000+00:00",
+        "updatedAt": "2025-07-15T06:09:39.091000+00:00",
         "publishedAt": "2024-01-22T14:06:02.838000+00:00",
-        "revisedAt": "2024-11-18T09:00:57.806000+00:00",
+        "revisedAt": "2025-07-15T06:09:39.091000+00:00",
         "name": "エアメサイア",
         "cn_name": "空中救世主",
         "en": "Air Messiah",
@@ -17204,7 +17204,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5748738d74bb4655b93113b26e0fb38c/airmessiah_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a8976a4e98b14567a25e40b6a4eb611b/airmessiah_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -17225,9 +17225,9 @@
     "daringheart": {
         "id": "daringheart",
         "createdAt": "2024-01-22T14:06:01.628000+00:00",
-        "updatedAt": "2025-07-03T05:38:24.486000+00:00",
+        "updatedAt": "2025-07-15T06:09:39.191000+00:00",
         "publishedAt": "2024-01-22T14:06:01.628000+00:00",
-        "revisedAt": "2024-07-27T11:57:30.405000+00:00",
+        "revisedAt": "2025-07-15T06:09:39.191000+00:00",
         "name": "デアリングハート",
         "cn_name": "勇敢之心",
         "en": "Daring Heart",
@@ -17341,7 +17341,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/69dd0486aaf7416f8a732b8016c852ce/daringheart_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7f17f88feda84d74bfcecfab379956cd/daringheart_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -17362,9 +17362,9 @@
     "fusaichipandora": {
         "id": "fusaichipandora",
         "createdAt": "2024-09-26T06:29:25.109000+00:00",
-        "updatedAt": "2025-07-03T05:38:31.734000+00:00",
+        "updatedAt": "2025-07-15T06:09:38.396000+00:00",
         "publishedAt": "2024-09-27T12:11:09.213000+00:00",
-        "revisedAt": "2025-03-05T08:53:54.941000+00:00",
+        "revisedAt": "2025-07-15T06:09:38.396000+00:00",
         "name": "フサイチパンドラ",
         "cn_name": "",
         "en": "Fusaichi Pandora",
@@ -17478,7 +17478,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3621c440175d4dd69260ea77b3122046/fusaichipandora_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7dc48ad0c18f4bf1bf2f70314713e100/fusaichipandora_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -17499,9 +17499,9 @@
     "buenavista": {
         "id": "buenavista",
         "createdAt": "2024-06-24T03:24:36.716000+00:00",
-        "updatedAt": "2025-07-03T05:38:45.892000+00:00",
+        "updatedAt": "2025-07-15T06:09:38.864000+00:00",
         "publishedAt": "2024-06-24T12:46:38.007000+00:00",
-        "revisedAt": "2025-02-22T13:12:27.451000+00:00",
+        "revisedAt": "2025-07-15T06:09:38.864000+00:00",
         "name": "ブエナビスタ",
         "cn_name": "迷人景致",
         "en": "Buena Vista",
@@ -17528,7 +17528,7 @@
         "detail": "純真無垢な心を持つ、優等生ウマ娘。\n明るく素直で人懐こく、誰にでも愛情深く接し、自分ごとのように感情移入してしまうタイプ。\n以前、あるレース観戦で目にした『絶景』――そこに辿り着き、大切な“約束”を果たすためにトゥインクル・シリーズをひた走る。",
         "movie_id": "",
         "is_top": null,
-        "is_music": false,
+        "is_music": true,
         "list_thumb": {
             "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7f12ea9d50b44a4a9e0b8956eb1fd223/buenavista_list.png",
             "height": 389,
@@ -17615,7 +17615,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5d86565a7dd64e618073d53bfa35485b/buenavista_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b3525273bb0f45ca94fa0ca7c32426f5/buenavista_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -17636,9 +17636,9 @@
     "orfevre": {
         "id": "orfevre",
         "createdAt": "2024-01-22T14:06:01.637000+00:00",
-        "updatedAt": "2025-07-03T05:38:51.986000+00:00",
+        "updatedAt": "2025-07-15T06:09:38.621000+00:00",
         "publishedAt": "2024-01-22T14:06:01.637000+00:00",
-        "revisedAt": "2025-02-22T14:04:57.058000+00:00",
+        "revisedAt": "2025-07-15T06:09:38.621000+00:00",
         "name": "オルフェーヴル",
         "cn_name": "黄金巨匠",
         "en": "Orfevre",
@@ -17773,7 +17773,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/06cb36675c7c41ffbf1c488a3e00c0cb/orfevre_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ef5ed0f608cc4757b3fd74252a57e28a/orfevre_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -17794,9 +17794,9 @@
     "gentildonna": {
         "id": "gentildonna",
         "createdAt": "2024-01-22T14:06:01.639000+00:00",
-        "updatedAt": "2025-07-03T05:38:58.799000+00:00",
+        "updatedAt": "2025-07-15T06:09:38.523000+00:00",
         "publishedAt": "2024-01-22T14:06:01.639000+00:00",
-        "revisedAt": "2024-08-23T14:11:55.625000+00:00",
+        "revisedAt": "2025-07-15T06:09:38.523000+00:00",
         "name": "ジェンティルドンナ",
         "cn_name": "贵妇人",
         "en": "Gentildonna",
@@ -17931,7 +17931,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ec4cf2ae5303461da842c09ab53cbd88/gentildonna_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9b02b191b42b4ff4bb835e53a2feccce/gentildonna_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -17952,9 +17952,9 @@
     "winvariation": {
         "id": "winvariation",
         "createdAt": "2024-01-22T14:06:01.639000+00:00",
-        "updatedAt": "2025-07-03T05:39:06.312000+00:00",
+        "updatedAt": "2025-07-15T06:09:38.570000+00:00",
         "publishedAt": "2024-01-22T14:06:01.639000+00:00",
-        "revisedAt": "2024-12-25T12:23:51.253000+00:00",
+        "revisedAt": "2025-07-15T06:09:38.570000+00:00",
         "name": "ウインバリアシオン",
         "cn_name": "凯旋芭蕾",
         "en": "Win Variation",
@@ -18089,7 +18089,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f3769b46d40040579bc0dabe46d00223/winvariation_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ba3a2d99787749e8836819f08b0c53db/winvariation_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -18110,9 +18110,9 @@
     "dreamjourney": {
         "id": "dreamjourney",
         "createdAt": "2024-06-24T03:25:56.474000+00:00",
-        "updatedAt": "2025-07-03T05:39:14.427000+00:00",
+        "updatedAt": "2025-07-15T06:09:39.402000+00:00",
         "publishedAt": "2024-06-24T12:46:41.602000+00:00",
-        "revisedAt": "2024-10-16T08:59:07.390000+00:00",
+        "revisedAt": "2025-07-15T06:09:39.402000+00:00",
         "name": "ドリームジャーニー",
         "cn_name": "梦之旅",
         "en": "Dream Journey",
@@ -18226,7 +18226,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/36ca0dc291cd4ab6a643ba0a00077d37/dreamjourney_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c9449108b9c5434084ba11454e35708e/dreamjourney_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -18247,9 +18247,9 @@
     "calstonelighto": {
         "id": "calstonelighto",
         "createdAt": "2024-06-24T03:27:12.866000+00:00",
-        "updatedAt": "2025-07-03T05:39:21.740000+00:00",
+        "updatedAt": "2025-07-15T06:09:38.710000+00:00",
         "publishedAt": "2024-06-24T12:46:45.748000+00:00",
-        "revisedAt": "2024-10-16T08:59:33.904000+00:00",
+        "revisedAt": "2025-07-15T06:09:38.710000+00:00",
         "name": "カルストンライトオ",
         "cn_name": "金镇之光",
         "en": "Calstone Light O",
@@ -18384,7 +18384,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/94434ea3917a4602891472a89db8ef7c/calstonelighto_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e745b317aaea483b81e37235208d43e1/calstonelighto_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -18405,9 +18405,9 @@
     "durandal": {
         "id": "durandal",
         "createdAt": "2024-06-24T03:28:32.109000+00:00",
-        "updatedAt": "2025-07-03T05:39:28.605000+00:00",
+        "updatedAt": "2025-07-15T06:09:38.954000+00:00",
         "publishedAt": "2024-06-24T12:46:49.056000+00:00",
-        "revisedAt": "2024-09-27T12:13:43.235000+00:00",
+        "revisedAt": "2025-07-15T06:09:38.954000+00:00",
         "name": "デュランダル",
         "cn_name": "多旺达",
         "en": "Durandal",
@@ -18542,7 +18542,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a536f45779774d9f880d0a128af2dd20/durandal_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5c29d5443e5b4de3ae8b9f503a3c8d33/durandal_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -18563,9 +18563,9 @@
     "bubblegumfellow": {
         "id": "bubblegumfellow",
         "createdAt": "2024-08-23T09:51:06.902000+00:00",
-        "updatedAt": "2025-07-03T05:39:36.260000+00:00",
+        "updatedAt": "2025-07-15T06:09:38.765000+00:00",
         "publishedAt": "2024-08-23T12:43:40.371000+00:00",
-        "revisedAt": "2024-10-28T11:57:14.499000+00:00",
+        "revisedAt": "2025-07-15T06:09:38.765000+00:00",
         "name": "バブルガムフェロー",
         "cn_name": "吹波糖",
         "en": "Bubble Gum Fellow",
@@ -18679,7 +18679,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ea9c34874a88402492981aa55d8105f5/bubblegumfellow_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/84211b3b577b485197eae6c5500b585a/bubblegumfellow_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -18700,9 +18700,9 @@
     "sakurachitoseo": {
         "id": "sakurachitoseo",
         "createdAt": "2024-11-29T08:01:46.776000+00:00",
-        "updatedAt": "2025-07-03T05:39:44.444000+00:00",
+        "updatedAt": "2025-07-15T06:09:38.807000+00:00",
         "publishedAt": "2024-12-01T15:25:30.804000+00:00",
-        "revisedAt": "2024-12-01T15:25:30.804000+00:00",
+        "revisedAt": "2025-07-15T06:09:38.807000+00:00",
         "name": "サクラチトセオー",
         "cn_name": "",
         "en": "Sakura Chitose O",
@@ -18774,7 +18774,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1d1512053c96443ea2ed5495d4c160a3/sakurachitoseo_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0e251286bc5145769d6dae2324ee3093/sakurachitoseo_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -18795,9 +18795,9 @@
     "fenomeno": {
         "id": "fenomeno",
         "createdAt": "2025-02-22T05:40:17.817000+00:00",
-        "updatedAt": "2025-07-03T05:39:52.027000+00:00",
+        "updatedAt": "2025-07-15T06:09:38.438000+00:00",
         "publishedAt": "2025-02-22T13:11:03.586000+00:00",
-        "revisedAt": "2025-04-27T13:06:25.590000+00:00",
+        "revisedAt": "2025-07-15T06:09:38.438000+00:00",
         "name": "フェノーメノ",
         "cn_name": "超常骏骥",
         "en": "Fenomeno",
@@ -18911,7 +18911,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c5a8e9d8cbec41e180f2f9b3a550b004/fenomeno_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/82679b891ff24a5b8ef0211cceda9fef/fenomeno_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -18932,9 +18932,9 @@
     "blastonepiece": {
         "id": "blastonepiece",
         "createdAt": "2024-11-26T08:51:15.537000+00:00",
-        "updatedAt": "2025-07-03T05:39:59.584000+00:00",
+        "updatedAt": "2025-07-15T06:09:38.831000+00:00",
         "publishedAt": "2024-11-27T11:58:55.068000+00:00",
-        "revisedAt": "2025-03-05T08:54:36.535000+00:00",
+        "revisedAt": "2025-07-15T06:09:38.831000+00:00",
         "name": "ブラストワンピース",
         "cn_name": "防爆装束",
         "en": "Blast Onepiece",
@@ -19027,7 +19027,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/571c37f86da2473ba3ba6b37f4612ef7/blastonepiece_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5ca5ed99661748aca8a54307af24320f/blastonepiece_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -19048,9 +19048,9 @@
     "almondeye": {
         "id": "almondeye",
         "createdAt": "2025-02-22T05:41:36.648000+00:00",
-        "updatedAt": "2025-07-03T05:40:05.719000+00:00",
+        "updatedAt": "2025-07-15T06:09:39.369000+00:00",
         "publishedAt": "2025-02-22T13:11:10.739000+00:00",
-        "revisedAt": "2025-03-05T08:54:52.718000+00:00",
+        "revisedAt": "2025-07-15T06:09:39.369000+00:00",
         "name": "アーモンドアイ",
         "cn_name": "杏目",
         "en": "Almond Eye",
@@ -19143,7 +19143,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6bef7e9a8a81485486a93b781e75a5c9/almondeye_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5f1bbe2d8607475aa7ec645c77121986/almondeye_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -19164,9 +19164,9 @@
     "luckylilac": {
         "id": "luckylilac",
         "createdAt": "2025-02-22T05:42:48.917000+00:00",
-        "updatedAt": "2025-07-03T05:40:13.289000+00:00",
+        "updatedAt": "2025-07-15T06:12:48.106000+00:00",
         "publishedAt": "2025-02-22T13:11:16.443000+00:00",
-        "revisedAt": "2025-03-05T08:55:09.218000+00:00",
+        "revisedAt": "2025-07-15T06:12:48.106000+00:00",
         "name": "ラッキーライラック",
         "cn_name": "旺紫丁",
         "en": "Lucky Lilac",
@@ -19259,7 +19259,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6162a8d5c3704779829e340d82e81301/luckylilac_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ff90f863cc5e4c85bf75abde970d035a/luckylilac_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -19280,9 +19280,9 @@
     "granalegria": {
         "id": "granalegria",
         "createdAt": "2025-02-22T05:44:08.344000+00:00",
-        "updatedAt": "2025-07-03T05:40:20.927000+00:00",
+        "updatedAt": "2025-07-15T06:12:48.207000+00:00",
         "publishedAt": "2025-02-22T13:11:22.596000+00:00",
-        "revisedAt": "2025-03-29T12:02:06.870000+00:00",
+        "revisedAt": "2025-07-15T06:12:48.207000+00:00",
         "name": "グランアレグリア",
         "cn_name": "放声欢呼",
         "en": "Gran Alegria",
@@ -19396,7 +19396,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7c51a1964b31458bbbcedbcfd50fa141/granalegria_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/04ac771ffd4f451aa1466f711662bd53/granalegria_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -19417,9 +19417,9 @@
     "lovesonlyyou": {
         "id": "lovesonlyyou",
         "createdAt": "2025-02-22T05:45:27.572000+00:00",
-        "updatedAt": "2025-07-03T05:40:28.164000+00:00",
+        "updatedAt": "2025-07-15T06:12:48.176000+00:00",
         "publishedAt": "2025-02-22T13:11:29.473000+00:00",
-        "revisedAt": "2025-05-28T12:46:49.664000+00:00",
+        "revisedAt": "2025-07-15T06:12:48.176000+00:00",
         "name": "ラヴズオンリーユー",
         "cn_name": "唯独爱你",
         "en": "Loves Only You",
@@ -19533,7 +19533,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2c4ae75314fc4903affd4d2e219c0ed6/lovesonlyyou_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8fb22261008c488f80db503bacdd4a6b/lovesonlyyou_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -19554,9 +19554,9 @@
     "chronogenesis": {
         "id": "chronogenesis",
         "createdAt": "2025-02-22T05:46:41.491000+00:00",
-        "updatedAt": "2025-07-03T05:40:35.213000+00:00",
+        "updatedAt": "2025-07-15T06:12:48.007000+00:00",
         "publishedAt": "2025-02-22T13:11:35.212000+00:00",
-        "revisedAt": "2025-06-25T12:40:41.297000+00:00",
+        "revisedAt": "2025-07-15T06:12:48.007000+00:00",
         "name": "クロノジェネシス",
         "cn_name": "创世驹",
         "en": "Chrono Genesis",
@@ -19670,7 +19670,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/19169e2da8ba425b952fabf6e5d777fd/chronogenesis_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/592e828c19a34d04aa7eaf2808a0b58b/chronogenesis_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -19691,9 +19691,9 @@
     "currenbouquetdor": {
         "id": "currenbouquetdor",
         "createdAt": "2025-02-22T05:47:58.027000+00:00",
-        "updatedAt": "2025-07-03T05:40:43.765000+00:00",
+        "updatedAt": "2025-07-15T06:12:47.896000+00:00",
         "publishedAt": "2025-02-22T13:11:41.836000+00:00",
-        "revisedAt": "2025-03-05T08:55:54.156000+00:00",
+        "revisedAt": "2025-07-15T06:12:47.896000+00:00",
         "name": "カレンブーケドール",
         "cn_name": "机伶金花",
         "en": "Curren Bouquetd'or",
@@ -19786,7 +19786,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5c68e1fac8ff4b5cb6757886b19e4898/currenbouquetdor_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/de8acd2efdac4544aa25a2893fe8c179/currenbouquetdor_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -19807,9 +19807,9 @@
     "staygold": {
         "id": "staygold",
         "createdAt": "2025-05-25T03:05:38.021000+00:00",
-        "updatedAt": "2025-07-03T05:40:52.430000+00:00",
+        "updatedAt": "2025-07-15T06:12:47.870000+00:00",
         "publishedAt": "2025-05-25T11:36:44.536000+00:00",
-        "revisedAt": "2025-05-28T12:46:39.029000+00:00",
+        "revisedAt": "2025-07-15T06:12:47.870000+00:00",
         "name": "ステイゴールド",
         "cn_name": "",
         "en": "Stay Gold",
@@ -19902,7 +19902,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a3fbcbf5dde94b05a7457cdde4bda384/staygold_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3b388a2c3018417bae2a446fd42e5fe0/staygold_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -19923,9 +19923,9 @@
     "happymeek": {
         "id": "happymeek",
         "createdAt": "2024-01-22T14:06:01.640000+00:00",
-        "updatedAt": "2025-07-03T08:50:40.216000+00:00",
+        "updatedAt": "2025-07-15T06:12:47.824000+00:00",
         "publishedAt": "2024-01-22T14:06:01.640000+00:00",
-        "revisedAt": "2024-05-24T10:05:59.328000+00:00",
+        "revisedAt": "2025-07-15T06:12:47.824000+00:00",
         "name": "ハッピーミーク",
         "cn_name": "",
         "en": "Happy Meek",
@@ -19997,7 +19997,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/32679a5336664daaaf445eff36c999ec/happymik_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3adabc95febf477e9ddf2a428d3a334a/happymeek_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -20018,9 +20018,9 @@
     "bitterglasse": {
         "id": "bitterglasse",
         "createdAt": "2024-01-22T14:06:01.640000+00:00",
-        "updatedAt": "2025-07-03T08:50:47.311000+00:00",
+        "updatedAt": "2025-07-15T06:12:47.957000+00:00",
         "publishedAt": "2024-01-22T14:06:01.640000+00:00",
-        "revisedAt": "2024-03-27T07:21:04.552000+00:00",
+        "revisedAt": "2025-07-15T06:12:47.957000+00:00",
         "name": "ビターグラッセ",
         "cn_name": "",
         "en": "Bitter Glasse",
@@ -20092,7 +20092,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d84bc6640e1341ff8c4ea90e48427a4c/bitterglasse_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5f7def1b6e9a4c45b3185479c949f683/bitterglasse_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -20113,9 +20113,9 @@
     "littlecocon": {
         "id": "littlecocon",
         "createdAt": "2024-01-22T14:06:01.640000+00:00",
-        "updatedAt": "2025-07-03T08:50:54.753000+00:00",
+        "updatedAt": "2025-07-15T06:12:47.923000+00:00",
         "publishedAt": "2024-01-22T14:06:01.640000+00:00",
-        "revisedAt": "2024-02-13T07:15:46.340000+00:00",
+        "revisedAt": "2025-07-15T06:12:47.923000+00:00",
         "name": "リトルココン",
         "cn_name": "",
         "en": "Little Cocon",
@@ -20187,7 +20187,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f6180c813b214dcd98c770f1060b60e3/littlecocon_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d57811fc43de4a06a0108b68e46afe77/littlecocon_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -20208,9 +20208,9 @@
     "venuspaques": {
         "id": "venuspaques",
         "createdAt": "2024-01-22T14:06:01.640000+00:00",
-        "updatedAt": "2025-07-03T08:51:03.714000+00:00",
+        "updatedAt": "2025-07-15T06:12:47.773000+00:00",
         "publishedAt": "2024-01-22T14:06:01.640000+00:00",
-        "revisedAt": "2024-02-13T07:16:04.671000+00:00",
+        "revisedAt": "2025-07-15T06:12:47.773000+00:00",
         "name": "ヴェニュスパーク",
         "cn_name": "",
         "en": "Venus Paques",
@@ -20282,7 +20282,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/58d2798166dd44658d9a7dc78f1eaa07/venuspark_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/11c77708bb49443b9e2b1df422597896/venuspaques_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -20303,9 +20303,9 @@
     "rigantona": {
         "id": "rigantona",
         "createdAt": "2024-01-22T14:06:01.640000+00:00",
-        "updatedAt": "2025-07-03T08:51:11.405000+00:00",
+        "updatedAt": "2025-07-15T06:12:48.158000+00:00",
         "publishedAt": "2024-01-22T14:06:01.640000+00:00",
-        "revisedAt": "2024-02-13T07:16:13.443000+00:00",
+        "revisedAt": "2025-07-15T06:12:48.158000+00:00",
         "name": "リガントーナ",
         "cn_name": "",
         "en": "Rigantona",
@@ -20377,7 +20377,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2d55e5bf6d8a4392a4fdeddcdda03094/rigantona_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b34b94e79727456ab2cd07354681f780/rigantona_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -20398,9 +20398,9 @@
     "sononelfie": {
         "id": "sononelfie",
         "createdAt": "2024-01-22T14:06:01.640000+00:00",
-        "updatedAt": "2025-07-03T08:51:18.381000+00:00",
+        "updatedAt": "2025-07-15T06:12:48.131000+00:00",
         "publishedAt": "2024-01-22T14:06:01.640000+00:00",
-        "revisedAt": "2024-02-19T12:13:28.478000+00:00",
+        "revisedAt": "2025-07-15T06:12:48.131000+00:00",
         "name": "ソノンエルフィー",
         "cn_name": "",
         "en": "Sonon Elfie",
@@ -20472,7 +20472,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/02e816ed953b48c4b878d9eb7f02e2bc/sononelfie_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2fc9027e76be4fba80b1e82d4b5922db/sononelfie_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -20493,9 +20493,9 @@
     "hayakawatazuna": {
         "id": "hayakawatazuna",
         "createdAt": "2024-01-22T14:06:01.640000+00:00",
-        "updatedAt": "2025-07-03T08:51:25.641000+00:00",
+        "updatedAt": "2025-07-15T06:12:47.990000+00:00",
         "publishedAt": "2024-01-22T14:06:01.640000+00:00",
-        "revisedAt": "2024-05-24T10:04:13.252000+00:00",
+        "revisedAt": "2025-07-15T06:12:47.990000+00:00",
         "name": "駿川たづな",
         "cn_name": "骏川缰绳",
         "en": "Hayakawa Tazuna",
@@ -20567,7 +20567,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/34e15c75bc3f432eb4a93c4655b528e4/hayakawatazuna_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e2267241554942be826677cd1d2851ba/hayakawatazuna_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -20588,9 +20588,9 @@
     "akikawayayoi": {
         "id": "akikawayayoi",
         "createdAt": "2024-01-22T14:06:01.640000+00:00",
-        "updatedAt": "2025-07-03T08:51:37.337000+00:00",
+        "updatedAt": "2025-07-15T06:12:47.940000+00:00",
         "publishedAt": "2024-01-22T14:06:01.640000+00:00",
-        "revisedAt": "2024-02-13T07:17:09.401000+00:00",
+        "revisedAt": "2025-07-15T06:12:47.940000+00:00",
         "name": "秋川やよい",
         "cn_name": "",
         "en": "Akikawa Yayoi",
@@ -20662,7 +20662,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8d83c116841d4db681b3eee8a6f01a04/akikawayayoi_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/765567d8c66e4a49913227baab913ef7/akikawayayoi_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -20683,9 +20683,9 @@
     "otonashietsuko": {
         "id": "otonashietsuko",
         "createdAt": "2024-01-22T14:06:01.640000+00:00",
-        "updatedAt": "2025-07-03T08:51:45.507000+00:00",
+        "updatedAt": "2025-07-15T06:12:48.077000+00:00",
         "publishedAt": "2024-01-22T14:06:01.640000+00:00",
-        "revisedAt": "2024-02-17T08:13:57.649000+00:00",
+        "revisedAt": "2025-07-15T06:12:48.077000+00:00",
         "name": "乙名史悦子",
         "cn_name": "",
         "en": "Otonashi Etsuko",
@@ -20757,7 +20757,7 @@
                 "width": 500
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/68916c8635fa450ab8e1bda487b1e494/otonashietsuko_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5728030e40c04aac93fc9ae4814a8638/otonashietsuko_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -20778,9 +20778,9 @@
     "kiryuinaoi": {
         "id": "kiryuinaoi",
         "createdAt": "2024-01-22T14:06:01.640000+00:00",
-        "updatedAt": "2025-07-03T08:51:58.003000+00:00",
+        "updatedAt": "2025-07-15T06:12:47.807000+00:00",
         "publishedAt": "2024-01-22T14:06:01.640000+00:00",
-        "revisedAt": "2024-04-25T11:28:13.379000+00:00",
+        "revisedAt": "2025-07-15T06:12:47.807000+00:00",
         "name": "桐生院葵",
         "cn_name": "桐生院葵",
         "en": "Kiryuin Aoi",
@@ -20852,7 +20852,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/178275009cf2470baa6dddbef5f94e82/kiryuinaoi_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c605837a4faf45bebd28c308aba45eef/kiryuinaoi_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -20873,9 +20873,9 @@
     "anshinzawasasami": {
         "id": "anshinzawasasami",
         "createdAt": "2024-01-22T14:06:01.641000+00:00",
-        "updatedAt": "2025-07-03T08:52:14.135000+00:00",
+        "updatedAt": "2025-07-15T06:12:48.091000+00:00",
         "publishedAt": "2024-01-22T14:06:01.641000+00:00",
-        "revisedAt": "2024-03-27T07:21:48.616000+00:00",
+        "revisedAt": "2025-07-15T06:12:48.091000+00:00",
         "name": "安心沢刺々美",
         "cn_name": "安心泽刺刺美",
         "en": "Anshinzawa Sasami",
@@ -20947,7 +20947,7 @@
                 "width": 500
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/59c71277ea734af3ba4ca820cf305046/anshinzawasasami_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/fe65d68002c54373bdc129241dbb0363/anshinzawasasami_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -20968,9 +20968,9 @@
     "kashimotoriko": {
         "id": "kashimotoriko",
         "createdAt": "2024-01-22T14:06:01.641000+00:00",
-        "updatedAt": "2025-07-03T08:52:23.135000+00:00",
+        "updatedAt": "2025-07-15T06:12:48.060000+00:00",
         "publishedAt": "2024-01-22T14:06:01.641000+00:00",
-        "revisedAt": "2024-02-17T08:08:10.988000+00:00",
+        "revisedAt": "2025-07-15T06:12:48.060000+00:00",
         "name": "樫本理子",
         "cn_name": "㭴本理子",
         "en": "Kashimoto Riko",
@@ -21042,7 +21042,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/64e8e166e6644d3bae1ccef5f9692644/kashimotoriko_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/086ece9b9c89471c90152507f9877872/kashimotoriko_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -21063,9 +21063,9 @@
     "lighthello": {
         "id": "lighthello",
         "createdAt": "2024-01-22T14:06:01.641000+00:00",
-        "updatedAt": "2025-07-03T08:52:29.877000+00:00",
+        "updatedAt": "2025-07-15T06:12:47.840000+00:00",
         "publishedAt": "2024-01-22T14:06:01.641000+00:00",
-        "revisedAt": "2024-02-13T07:17:45.279000+00:00",
+        "revisedAt": "2025-07-15T06:12:47.840000+00:00",
         "name": "ライトハロー",
         "cn_name": "无忧呼唤",
         "en": "Light Hello",
@@ -21137,7 +21137,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ca3af9c29e9c4fbca9e099e94dbb00d0/lighthello_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c750619c9ab24c61a254ff5696d15995/lighthello_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -21158,9 +21158,9 @@
     "darleyarabian": {
         "id": "darleyarabian",
         "createdAt": "2024-01-22T14:06:01.641000+00:00",
-        "updatedAt": "2025-07-03T08:52:37.620000+00:00",
+        "updatedAt": "2025-07-15T06:12:48.144000+00:00",
         "publishedAt": "2024-01-22T14:06:01.641000+00:00",
-        "revisedAt": "2024-02-13T07:17:54.261000+00:00",
+        "revisedAt": "2025-07-15T06:12:48.144000+00:00",
         "name": "ダーレーアラビアン",
         "cn_name": "",
         "en": "Darley Arabian",
@@ -21232,7 +21232,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/330b8751b2bf47d2b6a1fc908bb1f9e6/darleyarabian_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2e882350e6cf45c5b3fd21905d03fb8a/darleyarabian_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -21253,9 +21253,9 @@
     "godolphinbarb": {
         "id": "godolphinbarb",
         "createdAt": "2024-01-22T14:06:01.641000+00:00",
-        "updatedAt": "2025-07-03T08:52:45.642000+00:00",
+        "updatedAt": "2025-07-15T06:12:47.973000+00:00",
         "publishedAt": "2024-01-22T14:06:01.641000+00:00",
-        "revisedAt": "2024-02-13T07:18:03.641000+00:00",
+        "revisedAt": "2025-07-15T06:12:47.973000+00:00",
         "name": "ゴドルフィンバルブ",
         "cn_name": "",
         "en": "Godolphin Barb",
@@ -21327,7 +21327,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ef3802e5fa764b4d84bff4cec60368b0/godolphinbarb_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b6664f48ba9143b9880a2a20a123187d/godolphinbarb_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -21348,9 +21348,9 @@
     "byerleyturk": {
         "id": "byerleyturk",
         "createdAt": "2024-01-22T14:06:01.641000+00:00",
-        "updatedAt": "2025-07-03T08:52:53.291000+00:00",
+        "updatedAt": "2025-07-15T06:12:48.241000+00:00",
         "publishedAt": "2024-01-22T14:06:01.641000+00:00",
-        "revisedAt": "2024-02-17T08:04:39.141000+00:00",
+        "revisedAt": "2025-07-15T06:12:48.241000+00:00",
         "name": "バイアリーターク",
         "cn_name": "",
         "en": "Byerley Turk",
@@ -21422,7 +21422,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1455bf1cfd4641ceb26dc420a5c79742/byerleyturk_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/95dd73b93e5b4d508e1b6b1444a45536/byerleyturk_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -21443,9 +21443,9 @@
     "satakemei": {
         "id": "satakemei",
         "createdAt": "2024-01-22T14:06:01.641000+00:00",
-        "updatedAt": "2025-07-03T08:53:01.677000+00:00",
+        "updatedAt": "2025-07-15T06:12:47.794000+00:00",
         "publishedAt": "2024-01-22T14:06:01.641000+00:00",
-        "revisedAt": "2024-02-13T07:18:26.833000+00:00",
+        "revisedAt": "2025-07-15T06:12:47.794000+00:00",
         "name": "佐岳メイ",
         "cn_name": "佐岳五月",
         "en": "Satake Mei",
@@ -21517,7 +21517,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/21938e27c949420b8c48f99df3dd9f3b/satakemei_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/975e12ce6d194bdba137a625eee17b10/satakemei_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -21538,9 +21538,9 @@
     "tsurugiryoka": {
         "id": "tsurugiryoka",
         "createdAt": "2024-01-22T14:06:01.641000+00:00",
-        "updatedAt": "2025-07-03T08:53:10.491000+00:00",
+        "updatedAt": "2025-07-15T06:12:48.039000+00:00",
         "publishedAt": "2024-01-22T14:06:01.641000+00:00",
-        "revisedAt": "2024-02-19T12:13:51.987000+00:00",
+        "revisedAt": "2025-07-15T06:12:48.039000+00:00",
         "name": "都留岐涼花",
         "cn_name": "都留岐凉花",
         "en": "Tsurugi Ryoka",
@@ -21612,7 +21612,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d12aeb106ed84e48a0b30d9cd9ad395b/tsurugiryoka_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f1a4c86a59694212b88507808ee2f640/tsurugiryoka_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -21633,9 +21633,9 @@
     "sugarlights": {
         "id": "sugarlights",
         "createdAt": "2024-10-25T04:10:24.786000+00:00",
-        "updatedAt": "2025-07-03T08:53:17.611000+00:00",
+        "updatedAt": "2025-07-15T06:12:47.856000+00:00",
         "publishedAt": "2024-10-28T11:55:47.704000+00:00",
-        "revisedAt": "2024-12-11T07:53:21.233000+00:00",
+        "revisedAt": "2025-07-15T06:12:47.856000+00:00",
         "name": "シュガーライツ",
         "cn_name": "",
         "en": "Sugar Lights",
@@ -21707,7 +21707,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/06fa435efd6346d7be1bab76824a9ea2/sugarlights_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9e636a51f79b45c58b5073b73bff579b/sugarlights_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -21728,9 +21728,9 @@
     "saintlite": {
         "id": "saintlite",
         "createdAt": "2025-02-22T05:49:17.325000+00:00",
-        "updatedAt": "2025-07-03T08:53:24.320000+00:00",
+        "updatedAt": "2025-07-15T06:13:41.568000+00:00",
         "publishedAt": "2025-02-22T13:10:35.932000+00:00",
-        "revisedAt": "2025-02-22T13:10:35.932000+00:00",
+        "revisedAt": "2025-07-15T06:13:41.568000+00:00",
         "name": "セントライト",
         "cn_name": "",
         "en": "Saint Lite",
@@ -21802,7 +21802,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f1a4c92c58cf406981952251592b9ab7/saintlite_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/985d04e92c0649d89c3e48e39168d3ae/saintlite_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -21823,9 +21823,9 @@
     "speedsymboli": {
         "id": "speedsymboli",
         "createdAt": "2025-02-22T05:50:27.250000+00:00",
-        "updatedAt": "2025-07-03T08:53:31.380000+00:00",
+        "updatedAt": "2025-07-15T06:13:41.582000+00:00",
         "publishedAt": "2025-02-22T13:10:44.410000+00:00",
-        "revisedAt": "2025-02-22T13:10:44.410000+00:00",
+        "revisedAt": "2025-07-15T06:13:41.582000+00:00",
         "name": "スピードシンボリ",
         "cn_name": "",
         "en": "Speed Symboli",
@@ -21897,7 +21897,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/59f3968d3ea64d38bc78dbaa78f40c3a/speedsymboli_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0acdf9ac67694c5a9587a9dea198dc11/speedsymboli_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -21918,9 +21918,9 @@
     "haiseiko": {
         "id": "haiseiko",
         "createdAt": "2025-02-22T05:52:18.609000+00:00",
-        "updatedAt": "2025-07-03T08:53:39.025000+00:00",
+        "updatedAt": "2025-07-15T06:13:41.596000+00:00",
         "publishedAt": "2025-02-22T13:10:51.351000+00:00",
-        "revisedAt": "2025-02-22T13:10:51.351000+00:00",
+        "revisedAt": "2025-07-15T06:13:41.596000+00:00",
         "name": "ハイセイコー",
         "cn_name": "",
         "en": "Haiseiko",
@@ -21992,7 +21992,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/be95fea2d1f546a49cbc20a7050c08d3/haiseiko_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9e5868266ed140edb5cf9292a2d921c6/haiseiko_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -22013,9 +22013,9 @@
     "tuckerbryne": {
         "id": "tuckerbryne",
         "createdAt": "2025-06-25T08:06:04.980000+00:00",
-        "updatedAt": "2025-06-25T12:15:01.136000+00:00",
+        "updatedAt": "2025-07-15T06:13:41.613000+00:00",
         "publishedAt": "2025-06-25T12:15:01.136000+00:00",
-        "revisedAt": "2025-06-25T12:15:01.136000+00:00",
+        "revisedAt": "2025-07-15T06:13:41.613000+00:00",
         "name": "タッカーブライン",
         "cn_name": "[[]]",
         "en": "Tucker Bryne",
@@ -22042,7 +22042,7 @@
         "detail": "無人島プロジェクトの責任者兼現場監督。\nウマ娘のさらなる飛躍を願い、無人島に最強のトレーニング施設群を建てるべく、日々駆け回っている。\n豪快で陽気な、常夏の島がよく似合うウマ娘だが……たまに、別の顔が覗くことも。",
         "movie_id": "",
         "is_top": null,
-        "is_music": false,
+        "is_music": true,
         "list_thumb": {
             "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/08cdb7dce3a2419e876a1405306d4a0a/tuckerbryne_list.png",
             "height": 389,
@@ -22108,9 +22108,9 @@
     "akasakamisato": {
         "id": "akasakamisato",
         "createdAt": "2024-01-22T14:06:01.641000+00:00",
-        "updatedAt": "2025-07-03T08:53:48.304000+00:00",
+        "updatedAt": "2025-07-15T06:13:41.630000+00:00",
         "publishedAt": "2024-01-22T14:06:01.641000+00:00",
-        "revisedAt": "2024-05-24T10:04:22.580000+00:00",
+        "revisedAt": "2025-07-15T06:13:41.630000+00:00",
         "name": "赤坂美聡",
         "cn_name": "",
         "en": "Akasaka Misato",
@@ -22182,7 +22182,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e6d9d3c585204492bf631b8eb940706e/akasakamisato_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/943620d5715d4b4283d02ab476d5e573/akasakamisato_header.png",
                 "height": 500,
                 "width": 1500
             }
@@ -22203,9 +22203,9 @@
     "hosoejunko": {
         "id": "hosoejunko",
         "createdAt": "2024-01-22T14:06:01.641000+00:00",
-        "updatedAt": "2025-07-03T08:54:00.631000+00:00",
+        "updatedAt": "2025-07-15T06:13:41.547000+00:00",
         "publishedAt": "2024-01-22T14:06:01.641000+00:00",
-        "revisedAt": "2024-02-17T08:07:47.064000+00:00",
+        "revisedAt": "2025-07-15T06:13:41.547000+00:00",
         "name": "細江純子",
         "cn_name": "",
         "en": "Hosoe Junko",
@@ -22277,7 +22277,7 @@
                 "width": 400
             },
             "header": {
-                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/138740ab48cd4c81912260d32bfb11c4/hosoejunko_header.png",
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/43e71f05243d44cdadad36759d8f85c7/hosoejunko_header.png",
                 "height": 500,
                 "width": 1500
             }
