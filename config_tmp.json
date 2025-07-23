@@ -16938,9 +16938,9 @@
         "adapt": {
             "grass": "A",
             "mud": "G",
-            "short": "A",
+            "short": "B",
             "mile": "A",
-            "middle": "B",
+            "middle": "A",
             "long": "G",
             "run_away": "E",
             "first": "A",
@@ -17366,7 +17366,7 @@
         "publishedAt": "2024-09-27T12:11:09.213000+00:00",
         "revisedAt": "2025-07-22T09:01:12.583000+00:00",
         "name": "フサイチパンドラ",
-        "cn_name": "",
+        "cn_name": "房一潘多拉",
         "en": "Fusaichi Pandora",
         "catch": "なんとかなるってー♡\nだぁってあたし、天才だし〜？",
         "cv": "佳原萌枝",
@@ -17484,16 +17484,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "E",
+            "short": "G",
+            "mile": "B",
+            "middle": "A",
+            "long": "G",
+            "run_away": "C",
+            "first": "A",
+            "center": "B",
+            "chase": "F"
         }
     },
     "buenavista": {
@@ -22017,7 +22017,7 @@
         "publishedAt": "2025-06-25T12:15:01.136000+00:00",
         "revisedAt": "2025-07-15T06:13:41.613000+00:00",
         "name": "タッカーブライン",
-        "cn_name": "[[]]",
+        "cn_name": "タッカーブライン",
         "en": "Tucker Bryne",
         "catch": "駆け抜けろウマ娘！　魂を、燃やせェーッ！\nダーッハッハッハッハ！",
         "cv": "小林ゆう",
