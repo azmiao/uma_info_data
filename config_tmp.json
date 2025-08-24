@@ -15023,9 +15023,9 @@
     "stillinlove": {
         "id": "stillinlove",
         "createdAt": "2024-01-22T14:06:02.821000+00:00",
-        "updatedAt": "2025-07-15T06:04:35.845000+00:00",
+        "updatedAt": "2025-08-22T13:59:52.128000+00:00",
         "publishedAt": "2024-01-22T14:06:02.821000+00:00",
-        "revisedAt": "2025-07-15T06:04:35.845000+00:00",
+        "revisedAt": "2025-08-22T13:59:52.128000+00:00",
         "name": "スティルインラブ",
         "cn_name": "爱如往昔",
         "en": "Still in Love",
@@ -15050,7 +15050,7 @@
         "weight": "魅惑的",
         "size": "B72・W50・H76",
         "detail": "一見、おしとやかで良識的、特徴といえばお菓子好きなところくらいの、影が薄いウマ娘。\nだが、ひとたびレースとなると強者と競い合い、喰らうことに愉悦を感じる獰猛な顔を見せる。\n普段は、そんな本能を理性で抑え込んでいるが、衝動に耐える姿は悩ましげで、謎の色気がある。",
-        "movie_id": "",
+        "movie_id": "F2HkQGRdocA",
         "is_top": null,
         "is_music": true,
         "list_thumb": {
@@ -15102,6 +15102,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d1b5c980264c4d84b4c14b085256f10b/stillinlove_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a624b12279104ffd87603051a7eb92f1/stillinlove_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d6c6fc441e0340bea278c1e15de96e6f/stillinlove_03.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -16045,9 +16066,9 @@
     "katsuragiace": {
         "id": "katsuragiace",
         "createdAt": "2024-01-22T14:06:02.824000+00:00",
-        "updatedAt": "2025-07-15T06:09:39.231000+00:00",
+        "updatedAt": "2025-08-22T12:31:29.380000+00:00",
         "publishedAt": "2024-01-22T14:06:02.824000+00:00",
-        "revisedAt": "2025-07-15T06:09:39.231000+00:00",
+        "revisedAt": "2025-08-22T12:31:29.380000+00:00",
         "name": "カツラギエース",
         "cn_name": "葛城王牌",
         "en": "Katsuragi Ace",
@@ -16124,6 +16145,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c26250ddf55842d3ba406f9e4495767e/katsuragiace_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/34faa61e1baa4e13b40c877852bd0211/katsuragiace_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/57a729b4a0934f72a2675bf7c44d2e9b/katsuragiace_03.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -17794,9 +17836,9 @@
     "gentildonna": {
         "id": "gentildonna",
         "createdAt": "2024-01-22T14:06:01.639000+00:00",
-        "updatedAt": "2025-07-15T06:09:38.523000+00:00",
+        "updatedAt": "2025-08-22T12:31:41.116000+00:00",
         "publishedAt": "2024-01-22T14:06:01.639000+00:00",
-        "revisedAt": "2025-07-15T06:09:38.523000+00:00",
+        "revisedAt": "2025-08-22T12:31:41.116000+00:00",
         "name": "ジェンティルドンナ",
         "cn_name": "贵妇人",
         "en": "Gentildonna",
@@ -17888,14 +17930,14 @@
                     "title": "原案"
                 },
                 "thumb": {
-                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/29e9ac6ead6a421282e6618bfbf3973a/gentildonna_03_thumb.png",
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f9ad643ac8354bcdb02320f186b62598/gentildonna_03_thumb.png",
                     "height": 198,
                     "width": 198
                 },
                 "image": {
-                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/bd784aa0ec7848d4a93df3bec5c93b21/gentildonna_03.png",
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b71f00cf5ebb4e11b641ba15d5749ca1/gentildonna_03_3.png",
                     "height": 1980,
-                    "width": 1150
+                    "width": 1125
                 }
             },
             {
@@ -18105,6 +18147,122 @@
             "first": "E",
             "center": "A",
             "chase": "A"
+        }
+    },
+    "admiregroove": {
+        "id": "admiregroove",
+        "createdAt": "2025-08-22T08:28:24.124000+00:00",
+        "updatedAt": "2025-08-24T02:59:06.188000+00:00",
+        "publishedAt": "2025-08-22T12:31:02.257000+00:00",
+        "revisedAt": "2025-08-24T02:59:06.188000+00:00",
+        "name": "アドマイヤグルーヴ",
+        "cn_name": "",
+        "en": "Admire Groove",
+        "catch": "やめてください……\nそういう、気まぐれで構うの――",
+        "cv": "鈴木日菜",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#344d99",
+        "color_sub": "#5cbac8",
+        "birthday": "4月30日",
+        "height": "165cm",
+        "weight": "見事な仕上がり",
+        "size": "B88・W57・H84",
+        "detail": "幼少期から非常に優秀で、神童ともてはやされてきたエリートウマ娘。\n『なれ合いなんて必要ない』『周囲の評価なんて雑音』と今なおストイックに自分を磨き続ける姿は、さながら孤高の華――なのだが。\nその凍てつくような美しさの裏には、もっと別の渇望があるようで……？",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1b6233c9460c45be81a034dd53ffe7b7/admiregroove_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/78460c922ac94f9b95fcc85a34800d40/admiregroove_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/95091c4cd8ed457e82a118a7cfe60e89/admiregroove_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2d91385722a346988b8f14953e59c5fe/admiregroove_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/25da4e239cee45f5a1afeb465db860bf/admiregroove_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/cebf37f32c6e4b12a238600b2e09f7b1/admiregroove_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2d46bef04ba24f22adaf30cf706723a6/admiregroove_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d062be63cff04d7b861e3f735c9b0ae0/admiregroove_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/563fca05fc4a49828d038089d2120d37/admiregroove_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
         }
     },
     "dreamjourney": {
@@ -18700,14 +18858,14 @@
     "sakurachitoseo": {
         "id": "sakurachitoseo",
         "createdAt": "2024-11-29T08:01:46.776000+00:00",
-        "updatedAt": "2025-07-15T06:09:38.807000+00:00",
+        "updatedAt": "2025-08-22T13:05:52.265000+00:00",
         "publishedAt": "2024-12-01T15:25:30.804000+00:00",
-        "revisedAt": "2025-07-15T06:09:38.807000+00:00",
+        "revisedAt": "2025-08-22T13:05:52.265000+00:00",
         "name": "サクラチトセオー",
         "cn_name": "",
         "en": "Sakura Chitose O",
         "catch": "『薬食同源』、千歳の命も食から……。\n疎かにしては……なりませぬよ？",
-        "cv": "",
+        "cv": "明智璃子",
         "category": [
             "ウマ娘"
         ],
@@ -18764,7 +18922,7 @@
             }
         ],
         "voice": {
-            "url": ""
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/dbac98c24dbd45d091ce7870ed50b7b6/sakurachitoseo_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -19807,9 +19965,9 @@
     "staygold": {
         "id": "staygold",
         "createdAt": "2025-05-25T03:05:38.021000+00:00",
-        "updatedAt": "2025-07-15T06:12:47.870000+00:00",
+        "updatedAt": "2025-08-22T12:31:25.073000+00:00",
         "publishedAt": "2025-05-25T11:36:44.536000+00:00",
-        "revisedAt": "2025-07-15T06:12:47.870000+00:00",
+        "revisedAt": "2025-08-22T12:31:25.073000+00:00",
         "name": "ステイゴールド",
         "cn_name": "",
         "en": "Stay Gold",
@@ -19892,7 +20050,7 @@
             }
         ],
         "voice": {
-            "url": ""
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9059130de5664d8787a7eb9342e0db79/staygold_voice.mp3"
         },
         "download": {
             "fieldId": "download",
