@@ -15166,16 +15166,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "G",
+            "short": "C",
+            "mile": "A",
+            "middle": "A",
+            "long": "G",
+            "run_away": "G",
+            "first": "A",
+            "center": "A",
+            "chase": "F"
         }
     },
     "copanorickey": {
@@ -18156,7 +18156,7 @@
         "publishedAt": "2025-08-22T12:31:02.257000+00:00",
         "revisedAt": "2025-08-24T02:59:06.188000+00:00",
         "name": "アドマイヤグルーヴ",
-        "cn_name": "",
+        "cn_name": "爱慕律动",
         "en": "Admire Groove",
         "catch": "やめてください……\nそういう、気まぐれで構うの――",
         "cv": "鈴木日菜",
@@ -19969,7 +19969,7 @@
         "publishedAt": "2025-05-25T11:36:44.536000+00:00",
         "revisedAt": "2025-08-22T12:31:25.073000+00:00",
         "name": "ステイゴールド",
-        "cn_name": "",
+        "cn_name": "黄金旅程",
         "en": "Stay Gold",
         "catch": "は〜……いい景色だ――\nあんたも、そう思うだろ？",
         "cv": "松田颯水",
