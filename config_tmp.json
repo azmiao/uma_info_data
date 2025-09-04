@@ -12600,9 +12600,9 @@
     "espoircity": {
         "id": "espoircity",
         "createdAt": "2024-01-22T14:06:02.804000+00:00",
-        "updatedAt": "2025-07-15T06:04:36.360000+00:00",
+        "updatedAt": "2025-09-04T01:44:02.011000+00:00",
         "publishedAt": "2024-01-22T14:06:02.804000+00:00",
-        "revisedAt": "2025-07-15T06:04:36.360000+00:00",
+        "revisedAt": "2025-09-04T01:44:02.011000+00:00",
         "name": "エスポワールシチー",
         "cn_name": "希望之城",
         "en": "Espoir City",
@@ -12673,12 +12673,12 @@
                     "title": "勝負服"
                 },
                 "thumb": {
-                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9433585dc16a4441a60e44a3f14e6c60/espoircity_02_thumb.png",
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/755c7b9cd1e7418d873c60ffabb751c1/espoircity_02_thumb_2.png",
                     "height": 198,
                     "width": 198
                 },
                 "image": {
-                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f136025cd5534272ad761eec5587205d/espoircity_02.png",
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/336b8d8ac65f4867a1d9b25747205b29/espoircity_02_2.png",
                     "height": 1980,
                     "width": 1125
                 }
