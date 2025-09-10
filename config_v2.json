@@ -18152,9 +18152,9 @@
     "admiregroove": {
         "id": "admiregroove",
         "createdAt": "2025-08-22T08:28:24.124000+00:00",
-        "updatedAt": "2025-08-24T02:59:06.188000+00:00",
+        "updatedAt": "2025-09-10T02:41:23.087000+00:00",
         "publishedAt": "2025-08-22T12:31:02.257000+00:00",
-        "revisedAt": "2025-08-24T02:59:06.188000+00:00",
+        "revisedAt": "2025-09-10T02:41:23.087000+00:00",
         "name": "アドマイヤグルーヴ",
         "cn_name": "爱慕律动",
         "en": "Admire Groove",
@@ -18181,7 +18181,7 @@
         "detail": "幼少期から非常に優秀で、神童ともてはやされてきたエリートウマ娘。\n『なれ合いなんて必要ない』『周囲の評価なんて雑音』と今なおストイックに自分を磨き続ける姿は、さながら孤高の華――なのだが。\nその凍てつくような美しさの裏には、もっと別の渇望があるようで……？",
         "movie_id": "",
         "is_top": null,
-        "is_music": false,
+        "is_music": true,
         "list_thumb": {
             "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1b6233c9460c45be81a034dd53ffe7b7/admiregroove_list.png",
             "height": 389,
@@ -19965,9 +19965,9 @@
     "staygold": {
         "id": "staygold",
         "createdAt": "2025-05-25T03:05:38.021000+00:00",
-        "updatedAt": "2025-08-22T12:31:25.073000+00:00",
+        "updatedAt": "2025-09-10T02:41:09.063000+00:00",
         "publishedAt": "2025-05-25T11:36:44.536000+00:00",
-        "revisedAt": "2025-08-22T12:31:25.073000+00:00",
+        "revisedAt": "2025-09-10T02:41:09.063000+00:00",
         "name": "ステイゴールド",
         "cn_name": "黄金旅程",
         "en": "Stay Gold",
@@ -19994,7 +19994,7 @@
         "detail": "好奇心が旺盛で、無類の旅好き。\n無茶な旅程を組んでは気ままな放浪を始め、長い間帰ってこないことも多い。\n常に飄々としながらもどこか達観した人柄に惹かれるのか、学園では主に個性派なウマ娘たちに慕われがち。\n彼女らいわく、『不思議と、愛さずにはいられないお方』なんだとか。",
         "movie_id": "",
         "is_top": null,
-        "is_music": false,
+        "is_music": true,
         "list_thumb": {
             "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1ae64df3a200487b88facc86e7ffd103/staygold_list.png",
             "height": 389,
