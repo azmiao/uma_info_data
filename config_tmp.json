@@ -12722,16 +12722,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "E",
+            "mud": "A",
+            "short": "A",
+            "mile": "A",
+            "middle": "B",
+            "long": "G",
+            "run_away": "A",
+            "first": "A",
+            "center": "F",
+            "chase": "G"
         }
     },
     "northflight": {
