@@ -2,9 +2,9 @@
     "specialweek": {
         "id": "specialweek",
         "createdAt": "2024-01-22T14:06:02.686000+00:00",
-        "updatedAt": "2025-09-13T04:36:01.797000+00:00",
+        "updatedAt": "2025-09-18T03:13:40.822000+00:00",
         "publishedAt": "2024-01-22T14:06:02.686000+00:00",
-        "revisedAt": "2025-07-15T05:47:00.184000+00:00",
+        "revisedAt": "2025-09-18T03:13:40.822000+00:00",
         "name": "スペシャルウィーク",
         "cn_name": "特别周",
         "en": "Special Week",
@@ -129,7 +129,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f98b225b7a334512bc9855882cc3202e/specialweek_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ea40505e327844978399501fe3f61d0c/specialweek_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -160,9 +160,9 @@
     "silencesuzuka": {
         "id": "silencesuzuka",
         "createdAt": "2024-01-22T14:06:02.687000+00:00",
-        "updatedAt": "2025-09-13T04:37:11.031000+00:00",
+        "updatedAt": "2025-09-18T03:13:42.427000+00:00",
         "publishedAt": "2024-01-22T14:06:02.687000+00:00",
-        "revisedAt": "2025-07-15T05:47:05.962000+00:00",
+        "revisedAt": "2025-09-18T03:13:42.427000+00:00",
         "name": "サイレンススズカ",
         "cn_name": "无声铃鹿",
         "en": "Silence Suzuka",
@@ -287,7 +287,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c315daadc3ce4d379cfb69a23ad005f9/silencesuzuka_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0d47119113894e4fb106d17f66e3149d/silencesuzuka_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -318,9 +318,9 @@
     "tokaiteio": {
         "id": "tokaiteio",
         "createdAt": "2024-01-22T14:06:02.687000+00:00",
-        "updatedAt": "2025-09-13T04:37:47.679000+00:00",
+        "updatedAt": "2025-09-18T03:13:40.486000+00:00",
         "publishedAt": "2024-01-22T14:06:02.687000+00:00",
-        "revisedAt": "2025-07-15T05:47:11.801000+00:00",
+        "revisedAt": "2025-09-18T03:13:40.486000+00:00",
         "name": "トウカイテイオー",
         "cn_name": "东海帝皇",
         "en": "Tokai Teio",
@@ -445,7 +445,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f32fbb9b52c44e81ba4135243528daf4/tokaiteio_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4d827fc2a81046e4a18c6564ec56df68/tokaiteio_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -476,9 +476,9 @@
     "maruzensky": {
         "id": "maruzensky",
         "createdAt": "2024-01-22T14:06:02.688000+00:00",
-        "updatedAt": "2025-09-13T04:39:04.060000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.829000+00:00",
         "publishedAt": "2024-01-22T14:06:02.688000+00:00",
-        "revisedAt": "2025-07-15T05:49:12.861000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.829000+00:00",
         "name": "マルゼンスキー",
         "cn_name": "丸善斯基",
         "en": "Maruzensky",
@@ -603,7 +603,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/86ae145af9fb43848327690ef5817609/maruzensky_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ce1a0c91f17043c69b2f511713569dfe/maruzensky_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -634,9 +634,9 @@
     "fujikiseki": {
         "id": "fujikiseki",
         "createdAt": "2024-01-22T14:06:02.688000+00:00",
-        "updatedAt": "2025-09-13T04:39:51.171000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.125000+00:00",
         "publishedAt": "2024-01-22T14:06:02.688000+00:00",
-        "revisedAt": "2025-07-15T05:49:12.525000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.125000+00:00",
         "name": "フジキセキ",
         "cn_name": "富士奇迹",
         "en": "Fuji Kiseki",
@@ -761,7 +761,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9952321dd42e496c81f8fd3d461b11a7/fujikiseki_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7f4a412590b944a8a37c6a17e597d729/fujikiseki_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -792,9 +792,9 @@
     "oguricap": {
         "id": "oguricap",
         "createdAt": "2024-01-22T14:06:02.699000+00:00",
-        "updatedAt": "2025-09-13T04:40:30.466000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.385000+00:00",
         "publishedAt": "2024-01-22T14:06:02.699000+00:00",
-        "revisedAt": "2025-07-15T05:49:12.676000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.385000+00:00",
         "name": "オグリキャップ",
         "cn_name": "小栗帽",
         "en": "Oguri Cap",
@@ -919,7 +919,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e0045f17dc314d81af3611abab5c65c4/oguricap_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e9601bc02c194ceb98bc46e8cf31741f/oguricap_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -950,9 +950,9 @@
     "goldship": {
         "id": "goldship",
         "createdAt": "2024-01-22T14:06:02.697000+00:00",
-        "updatedAt": "2025-09-13T04:41:21.761000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.581000+00:00",
         "publishedAt": "2024-01-22T14:06:02.697000+00:00",
-        "revisedAt": "2025-07-15T05:49:12.793000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.581000+00:00",
         "name": "ゴールドシップ",
         "cn_name": "黄金船",
         "en": "Gold Ship",
@@ -1077,7 +1077,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3adf5874492e405db93fa8035f5a4b04/goldship_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2db619e63535431f8fcaa050ea40efed/goldship_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -1108,9 +1108,9 @@
     "vodka": {
         "id": "vodka",
         "createdAt": "2024-01-22T14:06:02.700000+00:00",
-        "updatedAt": "2025-09-13T04:42:54.117000+00:00",
+        "updatedAt": "2025-09-18T03:13:42.500000+00:00",
         "publishedAt": "2024-01-22T14:06:02.700000+00:00",
-        "revisedAt": "2025-07-15T05:49:13.167000+00:00",
+        "revisedAt": "2025-09-18T03:13:42.500000+00:00",
         "name": "ウオッカ",
         "cn_name": "伏特加",
         "en": "Vodka",
@@ -1235,7 +1235,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5c2449e9d0294719a157c08b99bc9790/vodka_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/20526ba1c5594663b418705650090014/vodka_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -1266,9 +1266,9 @@
     "daiwascarlet": {
         "id": "daiwascarlet",
         "createdAt": "2024-01-22T14:06:02.701000+00:00",
-        "updatedAt": "2025-09-13T04:43:34.990000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.465000+00:00",
         "publishedAt": "2024-01-22T14:06:02.701000+00:00",
-        "revisedAt": "2025-07-15T05:49:12.718000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.465000+00:00",
         "name": "ダイワスカーレット",
         "cn_name": "大和赤骥",
         "en": "Daiwa Scarlet",
@@ -1393,7 +1393,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/beca5c8143d7411d92a76331030585b1/daiwascarlet_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2f56e43641ce41cc89d11b45f0fbd582/daiwascarlet_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -1424,9 +1424,9 @@
     "taikishuttle": {
         "id": "taikishuttle",
         "createdAt": "2024-01-22T14:06:02.701000+00:00",
-        "updatedAt": "2025-09-13T04:44:23.273000+00:00",
+        "updatedAt": "2025-09-18T03:13:42.081000+00:00",
         "publishedAt": "2024-01-22T14:06:02.701000+00:00",
-        "revisedAt": "2025-07-15T05:49:13.087000+00:00",
+        "revisedAt": "2025-09-18T03:13:42.081000+00:00",
         "name": "タイキシャトル",
         "cn_name": "大树快车",
         "en": "Taiki Shuttle",
@@ -1551,7 +1551,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d329c0ec5dd74877aa556da014c1af93/taikishuttle_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/efaacd37c6b14362b87ea777bd9dc720/taikishuttle_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -1582,9 +1582,9 @@
     "grasswonder": {
         "id": "grasswonder",
         "createdAt": "2024-01-22T14:06:02.702000+00:00",
-        "updatedAt": "2025-09-13T04:45:05.104000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.200000+00:00",
         "publishedAt": "2024-01-22T14:06:02.702000+00:00",
-        "revisedAt": "2025-07-15T05:49:12.631000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.200000+00:00",
         "name": "グラスワンダー",
         "cn_name": "草上飞",
         "en": "Grass Wonder",
@@ -1709,7 +1709,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8c56a50274b04371b60ce471e6469228/grasswonder_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2ddd2477690d48219009adef058208de/grasswonder_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -1740,9 +1740,9 @@
     "hishiamazon": {
         "id": "hishiamazon",
         "createdAt": "2024-01-22T14:06:02.702000+00:00",
-        "updatedAt": "2025-09-13T04:45:33.585000+00:00",
+        "updatedAt": "2025-09-18T03:13:40.414000+00:00",
         "publishedAt": "2024-01-22T14:06:02.702000+00:00",
-        "revisedAt": "2025-07-15T05:49:12.370000+00:00",
+        "revisedAt": "2025-09-18T03:13:40.414000+00:00",
         "name": "ヒシアマゾン",
         "cn_name": "菱亚马逊",
         "en": "Hishi Amazon",
@@ -1867,7 +1867,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1f2c0c0cbc6c44e99c498c1ba0767a19/hishiamazon_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5f5bb14b4dc44686907b5d5e7f821fa8/hishiamazon_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -1898,9 +1898,9 @@
     "mejiromcqueen": {
         "id": "mejiromcqueen",
         "createdAt": "2024-01-22T14:06:02.703000+00:00",
-        "updatedAt": "2025-09-13T04:46:22.977000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.866000+00:00",
         "publishedAt": "2024-01-22T14:06:02.703000+00:00",
-        "revisedAt": "2025-07-15T05:49:12.900000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.866000+00:00",
         "name": "メジロマックイーン",
         "cn_name": "目白麦昆",
         "en": "Mejiro McQueen",
@@ -2025,7 +2025,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/bd43a647648143ba8599c37d541a4415/mejiromcqueen_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f47df151d1a842c3a34864dff2fac4fb/mejiromcqueen_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -2056,9 +2056,9 @@
     "elcondorpasa": {
         "id": "elcondorpasa",
         "createdAt": "2024-01-22T14:06:02.704000+00:00",
-        "updatedAt": "2025-09-13T04:46:48.038000+00:00",
+        "updatedAt": "2025-09-18T03:13:40.860000+00:00",
         "publishedAt": "2024-01-22T14:06:02.704000+00:00",
-        "revisedAt": "2025-07-15T05:49:12.414000+00:00",
+        "revisedAt": "2025-09-18T03:13:40.860000+00:00",
         "name": "エルコンドルパサー",
         "cn_name": "神鹰",
         "en": "El Condor Pasa",
@@ -2183,7 +2183,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3b9b75be4f0e4b29b25580abdac0e527/elcondorpasa_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5eefcf17b7634d31b9e38dc19189d378/elcondorpasa_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -2214,9 +2214,9 @@
     "tmoperao": {
         "id": "tmoperao",
         "createdAt": "2024-01-22T14:06:02.705000+00:00",
-        "updatedAt": "2025-09-13T04:47:16.831000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.281000+00:00",
         "publishedAt": "2024-01-22T14:06:02.705000+00:00",
-        "revisedAt": "2025-07-15T05:49:12.595000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.281000+00:00",
         "name": "テイエムオペラオー",
         "cn_name": "好歌剧",
         "en": "T.M. Opera O",
@@ -2341,7 +2341,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/afd1a18e2aea4f9fa1d54eb621efaf2f/tmoperao_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/41348f26ea3f431ba539c2e35b96a39e/tmoperao_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -2372,9 +2372,9 @@
     "naritabrian": {
         "id": "naritabrian",
         "createdAt": "2024-01-22T14:06:02.718000+00:00",
-        "updatedAt": "2025-09-13T04:47:43.064000+00:00",
+        "updatedAt": "2025-09-18T03:13:38.991000+00:00",
         "publishedAt": "2024-01-22T14:06:02.718000+00:00",
-        "revisedAt": "2025-07-15T05:49:12.562000+00:00",
+        "revisedAt": "2025-09-18T03:13:38.991000+00:00",
         "name": "ナリタブライアン",
         "cn_name": "成田白仁",
         "en": "Narita Brian",
@@ -2499,7 +2499,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0f2ff52b335b4ec1bb3d5608ab3beba3/naritabrian_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c8b7ea866368402494b2f1238df2f1b9/naritabrian_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -2530,9 +2530,9 @@
     "symbolirudolf": {
         "id": "symbolirudolf",
         "createdAt": "2024-01-22T14:06:02.718000+00:00",
-        "updatedAt": "2025-09-13T04:48:16.904000+00:00",
+        "updatedAt": "2025-09-18T03:13:40.045000+00:00",
         "publishedAt": "2024-01-22T14:06:02.718000+00:00",
-        "revisedAt": "2025-07-15T05:49:12.938000+00:00",
+        "revisedAt": "2025-09-18T03:13:40.045000+00:00",
         "name": "シンボリルドルフ",
         "cn_name": "鲁道夫象征",
         "en": "Symboli Rudolf",
@@ -2657,7 +2657,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9a58bdfece0541c5bffb2fabedd425bb/symbolirudolf_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0f8bbf8346c34037bb2b39d6c770dfa1/symbolirudolf_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -2688,9 +2688,9 @@
     "airgroove": {
         "id": "airgroove",
         "createdAt": "2024-01-22T14:06:02.719000+00:00",
-        "updatedAt": "2025-09-13T04:48:39.741000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.652000+00:00",
         "publishedAt": "2024-01-22T14:06:02.719000+00:00",
-        "revisedAt": "2025-07-15T05:49:12.827000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.652000+00:00",
         "name": "エアグルーヴ",
         "cn_name": "气槽",
         "en": "Air Groove",
@@ -2815,7 +2815,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/226d7b545e0548b7b24afdc19dd70a9d/airgroove_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6380c60a70b74225b3c7a46a4ea0548a/airgroove_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -2846,9 +2846,9 @@
     "agnesdigital": {
         "id": "agnesdigital",
         "createdAt": "2024-01-22T14:06:02.719000+00:00",
-        "updatedAt": "2025-09-13T04:53:22.221000+00:00",
+        "updatedAt": "2025-09-18T03:13:40.977000+00:00",
         "publishedAt": "2024-01-22T14:06:02.719000+00:00",
-        "revisedAt": "2025-07-15T05:49:12.489000+00:00",
+        "revisedAt": "2025-09-18T03:13:40.977000+00:00",
         "name": "アグネスデジタル",
         "cn_name": "爱丽数码",
         "en": "Agnes Digital",
@@ -2973,7 +2973,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7759a7c62d2e458d965bf13778d0f6da/agnesdigital_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/50f96684a8f9473f83624b92abaf690b/agnesdigital_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -3004,9 +3004,9 @@
     "seiunsky": {
         "id": "seiunsky",
         "createdAt": "2024-01-22T14:06:02.720000+00:00",
-        "updatedAt": "2025-09-13T04:53:51.052000+00:00",
+        "updatedAt": "2025-09-18T03:13:40.939000+00:00",
         "publishedAt": "2024-01-22T14:06:02.720000+00:00",
-        "revisedAt": "2025-07-15T05:49:12.451000+00:00",
+        "revisedAt": "2025-09-18T03:13:40.939000+00:00",
         "name": "セイウンスカイ",
         "cn_name": "青云天空",
         "en": "Seiun Sky",
@@ -3131,7 +3131,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1124e24d96dc4af09a585687ae9999d2/seiunsky_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e4a7c0cef5dc43b48cc34e627bed8d16/seiunsky_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -3162,9 +3162,9 @@
     "tamamocross": {
         "id": "tamamocross",
         "createdAt": "2024-01-22T14:06:02.799000+00:00",
-        "updatedAt": "2025-09-13T04:54:25.929000+00:00",
+        "updatedAt": "2025-09-18T03:13:40.079000+00:00",
         "publishedAt": "2024-01-22T14:06:02.799000+00:00",
-        "revisedAt": "2025-07-15T05:49:12.979000+00:00",
+        "revisedAt": "2025-09-18T03:13:40.079000+00:00",
         "name": "タマモクロス",
         "cn_name": "玉藻十字",
         "en": "Tamamo Cross",
@@ -3289,7 +3289,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f880396364314f5d82fa55655b59b0fa/tamamocross_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/63ee80a562204200a30495bf87ee8a27/tamamocross_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -3320,9 +3320,9 @@
     "finemotion": {
         "id": "finemotion",
         "createdAt": "2024-01-22T14:06:02.799000+00:00",
-        "updatedAt": "2025-09-13T04:54:58.110000+00:00",
+        "updatedAt": "2025-09-18T03:13:42.017000+00:00",
         "publishedAt": "2024-01-22T14:06:02.799000+00:00",
-        "revisedAt": "2025-07-15T05:49:13.047000+00:00",
+        "revisedAt": "2025-09-18T03:13:42.017000+00:00",
         "name": "ファインモーション",
         "cn_name": "美妙姿势",
         "en": "Fine Motion",
@@ -3447,7 +3447,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/41352f0eb1b943018db25136b28d8673/finemotion_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/94b3c3551b2c476bbaa95c19df87f87e/finemotion_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -3478,9 +3478,9 @@
     "biwahayahide": {
         "id": "biwahayahide",
         "createdAt": "2024-01-22T14:06:02.800000+00:00",
-        "updatedAt": "2025-09-13T04:55:19.698000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.259000+00:00",
         "publishedAt": "2024-01-22T14:06:02.800000+00:00",
-        "revisedAt": "2025-07-15T05:49:12.759000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.259000+00:00",
         "name": "ビワハヤヒデ",
         "cn_name": "琵琶晨光",
         "en": "Biwa Hayahide",
@@ -3605,7 +3605,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/538cca0b3e304bfdb0983fbfcfe56b2d/biwahayahide_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/bf344c5b0491476299bef6add93771e1/biwahayahide_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -3636,9 +3636,9 @@
     "mayanotopgun": {
         "id": "mayanotopgun",
         "createdAt": "2024-01-22T14:06:02.841000+00:00",
-        "updatedAt": "2025-09-13T04:55:42.134000+00:00",
+        "updatedAt": "2025-09-18T03:13:42.219000+00:00",
         "publishedAt": "2024-01-22T14:06:02.841000+00:00",
-        "revisedAt": "2025-07-15T05:49:13.123000+00:00",
+        "revisedAt": "2025-09-18T03:13:42.219000+00:00",
         "name": "マヤノトップガン",
         "cn_name": "摩耶重炮",
         "en": "Mayano Top Gun",
@@ -3763,7 +3763,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/27c31d189d3147e8bce87c9d052e4e5c/mayanotopgun_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0fe40789c1fb43448e5323c6e2f28e8a/mayanotopgun_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -3794,9 +3794,9 @@
     "manhattancafe": {
         "id": "manhattancafe",
         "createdAt": "2024-01-22T14:06:02.808000+00:00",
-        "updatedAt": "2025-09-13T04:56:47.317000+00:00",
+        "updatedAt": "2025-09-18T03:13:40.279000+00:00",
         "publishedAt": "2024-01-22T14:06:02.808000+00:00",
-        "revisedAt": "2025-07-15T05:49:13.014000+00:00",
+        "revisedAt": "2025-09-18T03:13:40.279000+00:00",
         "name": "マンハッタンカフェ",
         "cn_name": "曼城茶座",
         "en": "Manhattan Cafe",
@@ -3921,7 +3921,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a1450b7336444c42b1d3eca1098e77a8/manhattancafe_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/31cf0151895e4f08b2ed8659971ea7d3/manhattancafe_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -3952,9 +3952,9 @@
     "mihonobourbon": {
         "id": "mihonobourbon",
         "createdAt": "2024-01-22T14:06:02.758000+00:00",
-        "updatedAt": "2025-09-13T04:57:11.095000+00:00",
+        "updatedAt": "2025-09-18T03:13:42.324000+00:00",
         "publishedAt": "2024-01-22T14:06:02.758000+00:00",
-        "revisedAt": "2025-07-15T05:52:01.537000+00:00",
+        "revisedAt": "2025-09-18T03:13:42.324000+00:00",
         "name": "ミホノブルボン",
         "cn_name": "美浦波旁",
         "en": "Mihono Bourbon",
@@ -4079,7 +4079,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ae867317957b4652b0a6593f182f2170/mihonobourbon_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/cc55a282c6284f89a09c6233beafdda3/mihonobourbon_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -4110,9 +4110,9 @@
     "mejiroryan": {
         "id": "mejiroryan",
         "createdAt": "2024-01-22T14:06:02.817000+00:00",
-        "updatedAt": "2025-09-13T04:57:34.726000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.611000+00:00",
         "publishedAt": "2024-01-22T14:06:02.817000+00:00",
-        "revisedAt": "2025-07-15T05:52:01.128000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.611000+00:00",
         "name": "メジロライアン",
         "cn_name": "目白赖恩",
         "en": "Mejiro Ryan",
@@ -4237,7 +4237,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/706f9a702f934bfaa54a1d38bfed841c/mejiroryan_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1d83a293df794185b3a6231e8abc49f2/mejiroryan_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -4268,9 +4268,9 @@
     "hishiakebono": {
         "id": "hishiakebono",
         "createdAt": "2024-01-22T14:06:02.764000+00:00",
-        "updatedAt": "2025-09-13T04:58:42.264000+00:00",
+        "updatedAt": "2025-09-18T03:13:40.648000+00:00",
         "publishedAt": "2024-01-22T14:06:02.764000+00:00",
-        "revisedAt": "2025-07-15T05:52:00.782000+00:00",
+        "revisedAt": "2025-09-18T03:13:40.648000+00:00",
         "name": "ヒシアケボノ",
         "cn_name": "菱曙",
         "en": "Hishi Akebono",
@@ -4395,7 +4395,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2c1595f95e4f4ab1ac5b19468e3ac3d0/hishiakebono_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1ccea95f7bd04806a1cc28277eb332fe/hishiakebono_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -4426,9 +4426,9 @@
     "yukinobijin": {
         "id": "yukinobijin",
         "createdAt": "2024-01-22T14:06:02.765000+00:00",
-        "updatedAt": "2025-09-13T04:59:35.462000+00:00",
+        "updatedAt": "2025-09-18T03:13:40.235000+00:00",
         "publishedAt": "2024-01-22T14:06:02.765000+00:00",
-        "revisedAt": "2025-07-15T05:52:01.311000+00:00",
+        "revisedAt": "2025-09-18T03:13:40.235000+00:00",
         "name": "ユキノビジン",
         "cn_name": "雪之美人",
         "en": "Yukino Bijin",
@@ -4553,7 +4553,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/74cee4fc767e45478bd71778dad07c80/yukinobijin_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/436fe68e4d594e5aa72edb7332bf675c/yukinobijin_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -4584,9 +4584,9 @@
     "riceshower": {
         "id": "riceshower",
         "createdAt": "2024-01-22T14:06:02.764000+00:00",
-        "updatedAt": "2025-09-13T05:00:05.004000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.171000+00:00",
         "publishedAt": "2024-01-22T14:06:02.764000+00:00",
-        "revisedAt": "2025-07-15T05:52:00.936000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.171000+00:00",
         "name": "ライスシャワー",
         "cn_name": "米浴",
         "en": "Rice Shower",
@@ -4711,7 +4711,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/90ea9aa3a9d84464a4bec035c0dc4558/riceshower_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/366338684ed24545bc29bee3c908be2f/riceshower_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -4742,9 +4742,9 @@
     "inesfujin": {
         "id": "inesfujin",
         "createdAt": "2024-01-22T14:06:02.765000+00:00",
-        "updatedAt": "2025-09-13T05:00:44.509000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.763000+00:00",
         "publishedAt": "2024-01-22T14:06:02.765000+00:00",
-        "revisedAt": "2025-07-15T05:52:01.202000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.763000+00:00",
         "name": "アイネスフウジン",
         "cn_name": "艾尼斯风神",
         "en": "Ines Fujin",
@@ -4869,7 +4869,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e5682980e9244b5d826da740f600c342/inesfujin_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d22e28fb9e664dd0af90ade5db7fc9e0/inesfujin_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -4900,9 +4900,9 @@
     "agnestachyon": {
         "id": "agnestachyon",
         "createdAt": "2024-01-22T14:06:02.780000+00:00",
-        "updatedAt": "2025-09-13T05:06:51.458000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.728000+00:00",
         "publishedAt": "2024-01-22T14:06:02.780000+00:00",
-        "revisedAt": "2025-07-15T05:52:01.165000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.728000+00:00",
         "name": "アグネスタキオン",
         "cn_name": "爱丽速子",
         "en": "Agnes Tachyon",
@@ -5027,7 +5027,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/411445ebf05445e098c3fbe14cdb938a/agnestachyon_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/72e2e310d21a4e74a9f65533e269a628/agnestachyon_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -5058,9 +5058,9 @@
     "admirevega": {
         "id": "admirevega",
         "createdAt": "2024-01-22T14:06:02.780000+00:00",
-        "updatedAt": "2025-09-13T05:07:20.301000+00:00",
+        "updatedAt": "2025-09-18T03:13:40.907000+00:00",
         "publishedAt": "2024-01-22T14:06:02.780000+00:00",
-        "revisedAt": "2025-07-15T05:52:00.816000+00:00",
+        "revisedAt": "2025-09-18T03:13:40.907000+00:00",
         "name": "アドマイヤベガ",
         "cn_name": "爱慕织姬",
         "en": "Admire Vega",
@@ -5185,7 +5185,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/859e443dda0e4a54845288a1fe1a09ca/admirevega_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/fb933924cc3e47238b00d306204df46e/admirevega_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -5216,9 +5216,9 @@
     "inarione": {
         "id": "inarione",
         "createdAt": "2024-01-22T14:06:02.766000+00:00",
-        "updatedAt": "2025-09-13T05:07:51.729000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.448000+00:00",
         "publishedAt": "2024-01-22T14:06:02.766000+00:00",
-        "revisedAt": "2025-07-15T05:52:01.020000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.448000+00:00",
         "name": "イナリワン",
         "cn_name": "稻荷一",
         "en": "Inari One",
@@ -5343,7 +5343,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d3cb7cb6bc4d415098a2722559471118/inarione_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5dcf8f54a557470e9a1ace7014bf8c27/inarione_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -5374,9 +5374,9 @@
     "winningticket": {
         "id": "winningticket",
         "createdAt": "2024-01-22T14:06:02.781000+00:00",
-        "updatedAt": "2025-09-13T05:08:14.694000+00:00",
+        "updatedAt": "2025-09-18T03:13:42.290000+00:00",
         "publishedAt": "2024-01-22T14:06:02.781000+00:00",
-        "revisedAt": "2025-07-15T05:52:01.506000+00:00",
+        "revisedAt": "2025-09-18T03:13:42.290000+00:00",
         "name": "ウイニングチケット",
         "cn_name": "胜利奖券",
         "en": "Winning Ticket",
@@ -5501,7 +5501,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f00ec0562cb849ddafcc33e0610ade99/winningticket_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/76497a2fbbfe41a8870a50c1d8a4c9ae/winningticket_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -5532,9 +5532,9 @@
     "airshakur": {
         "id": "airshakur",
         "createdAt": "2024-01-22T14:06:02.781000+00:00",
-        "updatedAt": "2025-09-13T05:08:40.357000+00:00",
+        "updatedAt": "2025-09-18T03:13:40.788000+00:00",
         "publishedAt": "2024-01-22T14:06:02.781000+00:00",
-        "revisedAt": "2025-07-15T05:52:00.856000+00:00",
+        "revisedAt": "2025-09-18T03:13:40.788000+00:00",
         "name": "エアシャカール",
         "cn_name": "空中神宫",
         "en": "Air Shakur",
@@ -5659,7 +5659,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c2569fc30ef04fbd944b9afd02d1516b/airshakur_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/99fed5352b774f9e9fded032475ec02f/airshakur_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -5690,9 +5690,9 @@
     "eishinflash": {
         "id": "eishinflash",
         "createdAt": "2024-01-22T14:06:02.782000+00:00",
-        "updatedAt": "2025-09-13T05:09:13.482000+00:00",
+        "updatedAt": "2025-09-18T03:13:40.607000+00:00",
         "publishedAt": "2024-01-22T14:06:02.782000+00:00",
-        "revisedAt": "2025-07-15T05:52:00.749000+00:00",
+        "revisedAt": "2025-09-18T03:13:40.607000+00:00",
         "name": "エイシンフラッシュ",
         "cn_name": "荣进闪耀",
         "en": "Eishin Flash",
@@ -5817,7 +5817,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f4f84d576cda4615adebaa63fca8d53a/eishinflash_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/30fe4bb4463e4dab8dc81a8ca463cbdc/eishinflash_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -5848,9 +5848,9 @@
     "currenchan": {
         "id": "currenchan",
         "createdAt": "2024-01-22T14:06:02.787000+00:00",
-        "updatedAt": "2025-09-13T05:09:40.817000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.338000+00:00",
         "publishedAt": "2024-01-22T14:06:02.787000+00:00",
-        "revisedAt": "2025-07-15T05:52:01.090000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.338000+00:00",
         "name": "カレンチャン",
         "cn_name": "真机伶",
         "en": "Curren Chan",
@@ -5975,7 +5975,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a1f5cf26ddc94f1eb732812a75be02ec/currenchan_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0efb10e7670d4f34b3716159786b86b9/currenchan_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -6006,9 +6006,9 @@
     "kawakamiprincess": {
         "id": "kawakamiprincess",
         "createdAt": "2024-01-22T14:06:02.786000+00:00",
-        "updatedAt": "2025-09-13T05:10:14.106000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.051000+00:00",
         "publishedAt": "2024-01-22T14:06:02.786000+00:00",
-        "revisedAt": "2025-07-15T05:52:00.896000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.051000+00:00",
         "name": "カワカミプリンセス",
         "cn_name": "川上公主",
         "en": "Kawakami Princess",
@@ -6133,7 +6133,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5607692e5b2e40d2a4a39f2e890ac52d/kawakamiprincess_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/edbabe08020047b0ac7e266b6d17a5ef/kawakamiprincess_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -6164,9 +6164,9 @@
     "goldcity": {
         "id": "goldcity",
         "createdAt": "2024-01-22T14:06:02.798000+00:00",
-        "updatedAt": "2025-09-13T05:10:48.567000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.417000+00:00",
         "publishedAt": "2024-01-22T14:06:02.798000+00:00",
-        "revisedAt": "2025-07-15T05:52:00.981000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.417000+00:00",
         "name": "ゴールドシチー",
         "cn_name": "黄金城",
         "en": "Gold City",
@@ -6291,7 +6291,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6138d9f5149c4dd99e1bc3403f4bacf9/goldcity_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7d56d2c2e45c41e7a25c299f59214eb7/goldcity_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -6322,9 +6322,9 @@
     "sakurabakushino": {
         "id": "sakurabakushino",
         "createdAt": "2024-01-22T14:06:02.787000+00:00",
-        "updatedAt": "2025-09-13T05:11:10.145000+00:00",
+        "updatedAt": "2025-09-18T03:13:42.394000+00:00",
         "publishedAt": "2024-01-22T14:06:02.787000+00:00",
-        "revisedAt": "2025-07-15T05:52:01.569000+00:00",
+        "revisedAt": "2025-09-18T03:13:42.394000+00:00",
         "name": "サクラバクシンオー",
         "cn_name": "樱花进王",
         "en": "Sakura Bakushin O",
@@ -6449,7 +6449,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5f089c6017e144fe87c3fd1b72e2c8ea/sakurabakushino_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/355d95c6ba914862a77fcc56880659cb/sakurabakushino_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -6480,9 +6480,9 @@
     "seekingthepearl": {
         "id": "seekingthepearl",
         "createdAt": "2024-01-22T14:06:02.788000+00:00",
-        "updatedAt": "2025-09-13T05:11:36.216000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.896000+00:00",
         "publishedAt": "2024-01-22T14:06:02.788000+00:00",
-        "revisedAt": "2025-07-15T05:52:01.277000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.896000+00:00",
         "name": "シーキングザパール",
         "cn_name": "采珠",
         "en": "Seeking the Pearl",
@@ -6607,7 +6607,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4cc199ccbc0049d79789853a2587f61f/seekingthepearl_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/33187b80a10745d3894f0d383586cca6/seekingthepearl_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -6638,9 +6638,9 @@
     "shinkowindy": {
         "id": "shinkowindy",
         "createdAt": "2024-01-22T14:06:02.788000+00:00",
-        "updatedAt": "2025-09-13T05:11:59.398000+00:00",
+        "updatedAt": "2025-09-18T03:13:40.196000+00:00",
         "publishedAt": "2024-01-22T14:06:02.788000+00:00",
-        "revisedAt": "2025-07-15T05:52:01.347000+00:00",
+        "revisedAt": "2025-09-18T03:13:40.196000+00:00",
         "name": "シンコウウインディ",
         "cn_name": "新光风",
         "en": "Shinko Windy",
@@ -6765,7 +6765,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/63b23a2456b3437684004c7464ad9fe4/shinkowindy_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ca6d51c5803545eabb332848f1c3a3aa/shinkowindy_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -6796,9 +6796,9 @@
     "sweeptosho": {
         "id": "sweeptosho",
         "createdAt": "2024-01-22T14:06:02.788000+00:00",
-        "updatedAt": "2025-09-13T05:12:22.631000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.718000+00:00",
         "publishedAt": "2024-01-22T14:06:02.788000+00:00",
-        "revisedAt": "2025-07-15T05:52:01.238000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.718000+00:00",
         "name": "スイープトウショウ",
         "cn_name": "东商变革",
         "en": "Sweep Tosho",
@@ -6923,7 +6923,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/40b61a256212441587c64cb37edb2434/sweeptosho_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3591b34c23ac472a80aeb407496ff170/sweeptosho_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -6954,9 +6954,9 @@
     "supercreek": {
         "id": "supercreek",
         "createdAt": "2024-01-22T14:06:02.799000+00:00",
-        "updatedAt": "2025-09-13T05:12:43.995000+00:00",
+        "updatedAt": "2025-09-18T03:13:42.152000+00:00",
         "publishedAt": "2024-01-22T14:06:02.799000+00:00",
-        "revisedAt": "2025-07-15T05:52:01.388000+00:00",
+        "revisedAt": "2025-09-18T03:13:42.152000+00:00",
         "name": "スーパークリーク",
         "cn_name": "超级小海湾",
         "en": "Super Creek",
@@ -7081,7 +7081,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/458b46ff1e644442987ed14601b29290/supercreek_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c616995021724fdf98aeee5f138ae069/supercreek_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -7112,9 +7112,9 @@
     "smartfalcon": {
         "id": "smartfalcon",
         "createdAt": "2024-01-22T14:06:02.798000+00:00",
-        "updatedAt": "2025-09-13T05:13:29.401000+00:00",
+        "updatedAt": "2025-09-18T03:13:42.357000+00:00",
         "publishedAt": "2024-01-22T14:06:02.798000+00:00",
-        "revisedAt": "2025-07-15T05:52:01.605000+00:00",
+        "revisedAt": "2025-09-18T03:13:42.357000+00:00",
         "name": "スマートファルコン",
         "cn_name": "醒目飞鹰",
         "en": "Smart Falcon",
@@ -7239,7 +7239,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8e04d8c31e25436a81992da89a1faaf2/smartfalcon_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3b6e27e722024f0aad66db22a6a9f91f/smartfalcon_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -7270,9 +7270,9 @@
     "zennorobroy": {
         "id": "zennorobroy",
         "createdAt": "2024-01-22T14:06:02.797000+00:00",
-        "updatedAt": "2025-09-13T05:13:59.830000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.982000+00:00",
         "publishedAt": "2024-01-22T14:06:02.797000+00:00",
-        "revisedAt": "2025-07-15T05:52:01.466000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.982000+00:00",
         "name": "ゼンノロブロイ",
         "cn_name": "荒漠英雄",
         "en": "Zenno Rob Roy",
@@ -7397,7 +7397,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e76e408ec3af4d3eba805fea85387d69/zennorobroy_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/644d7bb9fa9e47709aa5835bf7f9d24e/zennorobroy_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -7428,9 +7428,9 @@
     "tosenjordan": {
         "id": "tosenjordan",
         "createdAt": "2024-01-22T14:06:02.840000+00:00",
-        "updatedAt": "2025-09-13T05:14:24.901000+00:00",
+        "updatedAt": "2025-09-18T03:13:40.717000+00:00",
         "publishedAt": "2024-01-22T14:06:02.840000+00:00",
-        "revisedAt": "2025-07-15T05:52:00.699000+00:00",
+        "revisedAt": "2025-09-18T03:13:40.717000+00:00",
         "name": "トーセンジョーダン",
         "cn_name": "东瀛佐敦",
         "en": "Tosen Jordan",
@@ -7555,7 +7555,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6933073e85a1446d8eecf390c7c8e4c2/tosenjordan_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d616ee8f68994f63b87f3eab1d016302/tosenjordan_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -7586,9 +7586,9 @@
     "nakayamafesta": {
         "id": "nakayamafesta",
         "createdAt": "2024-01-22T14:06:02.841000+00:00",
-        "updatedAt": "2025-09-13T05:14:57.890000+00:00",
+        "updatedAt": "2025-09-18T03:13:40.342000+00:00",
         "publishedAt": "2024-01-22T14:06:02.841000+00:00",
-        "revisedAt": "2025-07-15T05:52:01.431000+00:00",
+        "revisedAt": "2025-09-18T03:13:40.342000+00:00",
         "name": "ナカヤマフェスタ",
         "cn_name": "中山庆典",
         "en": "Nakayama Festa",
@@ -7713,7 +7713,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5b030ce9e1bb4ed48b6d06e9f00459f8/nakayamafesta_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/543e20897af9428cb3b4d77b4fd85087/nakayamafesta_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -7744,9 +7744,9 @@
     "naritataishin": {
         "id": "naritataishin",
         "createdAt": "2024-01-22T14:06:02.839000+00:00",
-        "updatedAt": "2025-09-13T05:15:20.102000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.483000+00:00",
         "publishedAt": "2024-01-22T14:06:02.839000+00:00",
-        "revisedAt": "2025-07-15T05:52:01.055000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.483000+00:00",
         "name": "ナリタタイシン",
         "cn_name": "成田大进",
         "en": "Narita Taishin",
@@ -7871,7 +7871,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/669953b15fe24381ab09848a11031fdf/naritataishin_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/394c2a379a55416b8861b08228b67110/naritataishin_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -7902,9 +7902,9 @@
     "nishinoflower": {
         "id": "nishinoflower",
         "createdAt": "2024-01-22T14:06:02.721000+00:00",
-        "updatedAt": "2025-09-13T06:13:42.181000+00:00",
+        "updatedAt": "2025-09-18T03:13:42.050000+00:00",
         "publishedAt": "2024-01-22T14:06:02.721000+00:00",
-        "revisedAt": "2025-07-15T05:55:23.218000+00:00",
+        "revisedAt": "2025-09-18T03:13:42.050000+00:00",
         "name": "ニシノフラワー",
         "cn_name": "西野花",
         "en": "Nishino Flower",
@@ -8029,7 +8029,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6cc3213ee31f464190ad92f70f6ccd79/nishinoflower_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/fe8274483e944ef494120ff9a8ba1c10/nishinoflower_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -8060,9 +8060,9 @@
     "haruurara": {
         "id": "haruurara",
         "createdAt": "2024-01-22T14:06:02.721000+00:00",
-        "updatedAt": "2025-09-13T06:14:13.840000+00:00",
+        "updatedAt": "2025-09-18T03:13:42.187000+00:00",
         "publishedAt": "2024-01-22T14:06:02.721000+00:00",
-        "revisedAt": "2025-07-15T05:55:23.304000+00:00",
+        "revisedAt": "2025-09-18T03:13:42.187000+00:00",
         "name": "ハルウララ",
         "cn_name": "春乌拉拉",
         "en": "Haru Urara",
@@ -8187,7 +8187,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1b7e641b3e4a4a00883b53c08f760711/haruurara_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/794c728469de40d7896cd7df2f7be6df/haruurara_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -8218,9 +8218,9 @@
     "bamboomemory": {
         "id": "bamboomemory",
         "createdAt": "2024-01-22T14:06:02.722000+00:00",
-        "updatedAt": "2025-09-13T06:14:35.442000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.434000+00:00",
         "publishedAt": "2024-01-22T14:06:02.722000+00:00",
-        "revisedAt": "2025-07-15T05:55:22.661000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.434000+00:00",
         "name": "バンブーメモリー",
         "cn_name": "青竹回忆",
         "en": "Bamboo Memory",
@@ -8345,7 +8345,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6b269b8409dd47dea4e1a815ce091bbc/bamboomemory_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e9ffadfb605449d7a6743276f436f65e/bamboomemory_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -8376,9 +8376,9 @@
     "bikopegasus": {
         "id": "bikopegasus",
         "createdAt": "2024-01-22T14:06:02.723000+00:00",
-        "updatedAt": "2025-09-13T06:14:56.417000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.960000+00:00",
         "publishedAt": "2024-01-22T14:06:02.723000+00:00",
-        "revisedAt": "2025-07-15T05:55:22.951000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.960000+00:00",
         "name": "ビコーペガサス",
         "cn_name": "微光飞驹",
         "en": "Biko Pegasus",
@@ -8503,7 +8503,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/66877ce8a4aa4c71bcde06e8509c244b/bikopegasus_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b11b5a89b9d44e19b3bd5d63a192c212/bikopegasus_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -8534,9 +8534,9 @@
     "marveloussunday": {
         "id": "marveloussunday",
         "createdAt": "2024-01-22T14:06:02.723000+00:00",
-        "updatedAt": "2025-09-13T06:15:31.982000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.095000+00:00",
         "publishedAt": "2024-01-22T14:06:02.723000+00:00",
-        "revisedAt": "2025-07-15T05:55:22.591000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.095000+00:00",
         "name": "マーベラスサンデー",
         "cn_name": "美丽周日",
         "en": "Marvelous Sunday",
@@ -8661,7 +8661,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f7dbe6087b65480fa5190e531724e52a/marveloussunday_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e3b11ef9677e4663973ebd6842d69ec2/marveloussunday_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -8692,9 +8692,9 @@
     "matikanefukukitaru": {
         "id": "matikanefukukitaru",
         "createdAt": "2024-01-22T14:06:02.724000+00:00",
-        "updatedAt": "2025-09-13T06:16:37.724000+00:00",
+        "updatedAt": "2025-09-18T03:13:40.380000+00:00",
         "publishedAt": "2024-01-22T14:06:02.724000+00:00",
-        "revisedAt": "2025-07-15T05:55:23.174000+00:00",
+        "revisedAt": "2025-09-18T03:13:40.380000+00:00",
         "name": "マチカネフクキタル",
         "cn_name": "待兼福来",
         "en": "Matikanefukukitaru",
@@ -8819,7 +8819,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b18ac682dfc344859376bc8857de3c89/matikanefukukitaru_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/16982b14e8bf4cc68888001620337f08/matikanefukukitaru_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -8850,9 +8850,9 @@
     "mrcb": {
         "id": "mrcb",
         "createdAt": "2024-01-22T14:06:02.724000+00:00",
-        "updatedAt": "2025-09-13T06:17:21.895000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.319000+00:00",
         "publishedAt": "2024-01-22T14:06:02.724000+00:00",
-        "revisedAt": "2025-07-15T05:55:22.551000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.319000+00:00",
         "name": "ミスターシービー",
         "cn_name": "千明代表",
         "en": "Mr. C.B.",
@@ -8977,7 +8977,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c71cfc0a85f149ee89b7d4aab3926c07/mrcb_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/117a4e82f82f42879dc6952dec68a798/mrcb_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -9008,9 +9008,9 @@
     "meishodoto": {
         "id": "meishodoto",
         "createdAt": "2024-01-22T14:06:02.737000+00:00",
-        "updatedAt": "2025-09-13T06:17:47.033000+00:00",
+        "updatedAt": "2025-09-18T03:13:38.951000+00:00",
         "publishedAt": "2024-01-22T14:06:02.737000+00:00",
-        "revisedAt": "2025-07-15T05:55:22.474000+00:00",
+        "revisedAt": "2025-09-18T03:13:38.951000+00:00",
         "name": "メイショウドトウ",
         "cn_name": "名将怒涛",
         "en": "Meisho Doto",
@@ -9135,7 +9135,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ed04ae77f53a4e05b34bacbe1a015d2e/meishodoto_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0deee93f35a44a6eb6764e80dc7ae9e1/meishodoto_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -9166,9 +9166,9 @@
     "mejirodober": {
         "id": "mejirodober",
         "createdAt": "2024-01-22T14:06:02.738000+00:00",
-        "updatedAt": "2025-09-13T06:18:16.740000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.159000+00:00",
         "publishedAt": "2024-01-22T14:06:02.738000+00:00",
-        "revisedAt": "2025-07-15T05:55:22.623000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.159000+00:00",
         "name": "メジロドーベル",
         "cn_name": "目白多伯",
         "en": "Mejiro Dober",
@@ -9293,7 +9293,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/708b0261521941a982c2e63744bcf435/mejirodober_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/94a0263a12f14401a57388480f77c959/mejirodober_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -9324,9 +9324,9 @@
     "nicenature": {
         "id": "nicenature",
         "createdAt": "2024-01-22T14:06:02.739000+00:00",
-        "updatedAt": "2025-09-13T06:18:45.774000+00:00",
+        "updatedAt": "2025-09-18T03:13:40.533000+00:00",
         "publishedAt": "2024-01-22T14:06:02.739000+00:00",
-        "revisedAt": "2025-07-15T05:55:22.390000+00:00",
+        "revisedAt": "2025-09-18T03:13:40.533000+00:00",
         "name": "ナイスネイチャ",
         "cn_name": "优秀素质",
         "en": "Nice Nature",
@@ -9451,7 +9451,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3eb027bf717f4ff88644d7a230435702/nicenature_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ec0bb33e5c0c43dc8f00371cc5f0f372/nicenature_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -9482,9 +9482,9 @@
     "kinghalo": {
         "id": "kinghalo",
         "createdAt": "2024-01-22T14:06:02.739000+00:00",
-        "updatedAt": "2025-09-13T06:19:08.183000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.928000+00:00",
         "publishedAt": "2024-01-22T14:06:02.739000+00:00",
-        "revisedAt": "2025-07-15T05:55:23.020000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.928000+00:00",
         "name": "キングヘイロー",
         "cn_name": "帝王光辉",
         "en": "King Halo",
@@ -9609,7 +9609,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/725bceedfcd944829d5ca7e66c24f7a4/kinghalo_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ad8180f6884847c5b6ab6f2510436cb0/kinghalo_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -9640,9 +9640,9 @@
     "matikanetannhauser": {
         "id": "matikanetannhauser",
         "createdAt": "2024-01-22T14:06:02.740000+00:00",
-        "updatedAt": "2025-09-13T06:19:53.499000+00:00",
+        "updatedAt": "2025-09-18T03:13:40.120000+00:00",
         "publishedAt": "2024-01-22T14:06:02.740000+00:00",
-        "revisedAt": "2025-07-15T05:55:23.091000+00:00",
+        "revisedAt": "2025-09-18T03:13:40.120000+00:00",
         "name": "マチカネタンホイザ",
         "cn_name": "待兼诗歌剧",
         "en": "Matikanetannhauser",
@@ -9767,7 +9767,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/99e04cf1899e49a69e38e0572f0297bf/matikanetannhauser_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f724ae38d8e743d995a560ef7b3d7a90/matikanetannhauser_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -9798,9 +9798,9 @@
     "ikunodictus": {
         "id": "ikunodictus",
         "createdAt": "2024-01-22T14:06:02.741000+00:00",
-        "updatedAt": "2025-09-13T06:20:14.681000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.825000+00:00",
         "publishedAt": "2024-01-22T14:06:02.741000+00:00",
-        "revisedAt": "2025-07-15T05:55:22.912000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.825000+00:00",
         "name": "イクノディクタス",
         "cn_name": "生野狄杜斯",
         "en": "Ikuno Dictus",
@@ -9925,7 +9925,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2fd243e4854344e4b9bcb096e7b9df32/ikunodictus_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1843446ffe0243b5a312489324138c30/ikunodictus_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -9956,9 +9956,9 @@
     "mejiropalmer": {
         "id": "mejiropalmer",
         "createdAt": "2024-01-22T14:06:02.741000+00:00",
-        "updatedAt": "2025-09-13T06:24:52.279000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.502000+00:00",
         "publishedAt": "2024-01-22T14:06:02.741000+00:00",
-        "revisedAt": "2025-07-15T05:55:22.732000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.502000+00:00",
         "name": "メジロパーマー",
         "cn_name": "目白善信",
         "en": "Mejiro Palmer",
@@ -10083,7 +10083,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7c011e06b033492c825a7e8a7b98c17b/mejiropalmer_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/29e09b4105c4445cad858f92210db5af/mejiropalmer_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -10114,9 +10114,9 @@
     "daitakuhelios": {
         "id": "daitakuhelios",
         "createdAt": "2024-01-22T14:06:02.742000+00:00",
-        "updatedAt": "2025-09-13T06:25:13.372000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.088000+00:00",
         "publishedAt": "2024-01-22T14:06:02.742000+00:00",
-        "revisedAt": "2025-07-15T05:55:22.516000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.088000+00:00",
         "name": "ダイタクヘリオス",
         "cn_name": "大拓太阳神",
         "en": "Daitaku Helios",
@@ -10241,7 +10241,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/819a356b660a465bbb17c32fc1e7ce57/daitakuhelios_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d2a52dc149cf4f078157bb42a3db95bc/daitakuhelios_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -10272,9 +10272,9 @@
     "twinturbo": {
         "id": "twinturbo",
         "createdAt": "2024-01-22T14:06:02.742000+00:00",
-        "updatedAt": "2025-09-13T06:26:03.094000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.785000+00:00",
         "publishedAt": "2024-01-22T14:06:02.742000+00:00",
-        "revisedAt": "2025-07-15T05:55:22.874000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.785000+00:00",
         "name": "ツインターボ",
         "cn_name": "双涡轮",
         "en": "Twin Turbo",
@@ -10399,7 +10399,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5d5e2ee7aa46419380f3e065d5adaa43/twinturbo_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b46e8f1279f845df8b66af6e3e3c7d68/twinturbo_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -10430,9 +10430,9 @@
     "satonodiamond": {
         "id": "satonodiamond",
         "createdAt": "2024-01-22T14:06:02.743000+00:00",
-        "updatedAt": "2025-09-13T06:26:26.142000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.534000+00:00",
         "publishedAt": "2024-01-22T14:06:02.743000+00:00",
-        "revisedAt": "2025-07-15T05:55:22.812000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.534000+00:00",
         "name": "サトノダイヤモンド",
         "cn_name": "里见光钻",
         "en": "Satono Diamond",
@@ -10557,7 +10557,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/603b1dd7d3a5488ebc45138ac1c22c50/satonodiamond_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7eec0e8008d343aa9a41dc7e14dc3c8b/satonodiamond_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -10588,9 +10588,9 @@
     "kitasanblack": {
         "id": "kitasanblack",
         "createdAt": "2024-01-22T14:06:02.744000+00:00",
-        "updatedAt": "2025-09-13T06:27:13.370000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.998000+00:00",
         "publishedAt": "2024-01-22T14:06:02.744000+00:00",
-        "revisedAt": "2025-07-15T05:55:22.987000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.998000+00:00",
         "name": "キタサンブラック",
         "cn_name": "北部玄驹",
         "en": "Kitasan Black",
@@ -10715,7 +10715,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/45fe1137d3de4ca69655d56725fee24e/kitasanblack_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/732c7b93a2544670b502084f114b624d/kitasanblack_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -10746,9 +10746,9 @@
     "sakurachiyonoo": {
         "id": "sakurachiyonoo",
         "createdAt": "2024-01-22T14:06:02.744000+00:00",
-        "updatedAt": "2025-09-13T06:27:44.034000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.294000+00:00",
         "publishedAt": "2024-01-22T14:06:02.744000+00:00",
-        "revisedAt": "2025-07-15T05:55:22.695000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.294000+00:00",
         "name": "サクラチヨノオー",
         "cn_name": "樱花千代王",
         "en": "Sakura Chiyono O",
@@ -10873,7 +10873,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/783dcba6a72945f2aacca69ab9910818/sakurachiyonoo_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0427a2a9266848089bbfc9aad7ced6b8/sakurachiyonoo_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -10904,9 +10904,9 @@
     "siriussymboli": {
         "id": "siriussymboli",
         "createdAt": "2024-01-22T14:06:02.757000+00:00",
-        "updatedAt": "2025-09-13T06:28:06.008000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.941000+00:00",
         "publishedAt": "2024-01-22T14:06:02.757000+00:00",
-        "revisedAt": "2025-07-15T05:55:23.052000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.941000+00:00",
         "name": "シリウスシンボリ",
         "cn_name": "天狼星象征",
         "en": "Sirius Symboli",
@@ -11031,7 +11031,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/81dd737c0d1e4bf9b89bb2398edcc192/siriussymboli_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/112df1bcc7634b11891a4b67fdc7c4d1/siriussymboli_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -11062,9 +11062,9 @@
     "mejiroardan": {
         "id": "mejiroardan",
         "createdAt": "2024-01-22T14:06:02.800000+00:00",
-        "updatedAt": "2025-09-13T06:28:33.082000+00:00",
+        "updatedAt": "2025-09-18T03:13:40.309000+00:00",
         "publishedAt": "2024-01-22T14:06:02.800000+00:00",
-        "revisedAt": "2025-07-15T05:55:23.131000+00:00",
+        "revisedAt": "2025-09-18T03:13:40.309000+00:00",
         "name": "メジロアルダン",
         "cn_name": "目白阿尔丹",
         "en": "Mejiro Ardan",
@@ -11189,7 +11189,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1de7c0324cc7460db5ef515faf2bc799/mejiroardan_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1ef7f45273b548a88875b7b7efe680d5/mejiroardan_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -11220,9 +11220,9 @@
     "yaenomuteki": {
         "id": "yaenomuteki",
         "createdAt": "2024-01-22T14:06:02.801000+00:00",
-        "updatedAt": "2025-09-13T06:28:56.431000+00:00",
+        "updatedAt": "2025-09-18T03:13:40.685000+00:00",
         "publishedAt": "2024-01-22T14:06:02.801000+00:00",
-        "revisedAt": "2025-07-15T05:55:22.439000+00:00",
+        "revisedAt": "2025-09-18T03:13:40.685000+00:00",
         "name": "ヤエノムテキ",
         "cn_name": "八重无敌",
         "en": "Yaeno Muteki",
@@ -11347,7 +11347,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f06dc06d16914d2582f63ca949e83bb4/yaenomuteki_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/620ff9d7294045ba8ff99f5f3ba92021/yaenomuteki_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -11378,9 +11378,9 @@
     "tsurumarutsuyoshi": {
         "id": "tsurumarutsuyoshi",
         "createdAt": "2024-01-22T14:06:02.801000+00:00",
-        "updatedAt": "2025-09-13T06:29:22.449000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.689000+00:00",
         "publishedAt": "2024-01-22T14:06:02.801000+00:00",
-        "revisedAt": "2025-07-15T05:55:22.775000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.689000+00:00",
         "name": "ツルマルツヨシ",
         "cn_name": "鹤丸刚志",
         "en": "Tsurumaru Tsuyoshi",
@@ -11505,7 +11505,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8439cf85e7574f9fa71a558e3a53f8d8/tsurumarutsuyoshi_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f8ef8b5965b14dcb8bc2b20f0d0e4970/tsurumarutsuyoshi_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -11536,9 +11536,9 @@
     "mejirobright": {
         "id": "mejirobright",
         "createdAt": "2024-01-22T14:06:02.801000+00:00",
-        "updatedAt": "2025-09-13T06:30:19.684000+00:00",
+        "updatedAt": "2025-09-18T03:13:42.252000+00:00",
         "publishedAt": "2024-01-22T14:06:02.801000+00:00",
-        "revisedAt": "2025-07-15T05:55:23.260000+00:00",
+        "revisedAt": "2025-09-18T03:13:42.252000+00:00",
         "name": "メジロブライト",
         "cn_name": "目白光明",
         "en": "Mejiro Bright",
@@ -11663,7 +11663,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7a28745d3e5d4a4caeb99ffbc801698b/mejirobright_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/26ba65940a36416ca31bbe1cc473543c/mejirobright_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -11694,9 +11694,9 @@
     "daringtact": {
         "id": "daringtact",
         "createdAt": "2024-01-22T14:06:02.802000+00:00",
-        "updatedAt": "2025-09-13T06:30:39.889000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.757000+00:00",
         "publishedAt": "2024-01-22T14:06:02.802000+00:00",
-        "revisedAt": "2025-07-15T05:55:22.845000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.757000+00:00",
         "name": "デアリングタクト",
         "cn_name": "谋勇兼备",
         "en": "Daring Tact",
@@ -11800,7 +11800,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5ef8998840b94b26b925f21a696bdb1e/daringtact_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/94b94f7e6618425faf6bc8e16a487cb8/daringtact_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -11831,9 +11831,9 @@
     "sakuralaurel": {
         "id": "sakuralaurel",
         "createdAt": "2024-01-22T14:06:02.802000+00:00",
-        "updatedAt": "2025-09-13T06:31:00.870000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.650000+00:00",
         "publishedAt": "2024-01-22T14:06:02.802000+00:00",
-        "revisedAt": "2025-07-15T06:04:36.143000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.650000+00:00",
         "name": "サクラローレル",
         "cn_name": "樱花桂冠",
         "en": "Sakura Laurel",
@@ -11937,7 +11937,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1845d41e76d843fe90c05b6eb191a326/sakuralaurel_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/71914d9483f447629c5ff4b7c409998a/sakuralaurel_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -11968,9 +11968,9 @@
     "naritatoproad": {
         "id": "naritatoproad",
         "createdAt": "2024-01-22T14:06:02.803000+00:00",
-        "updatedAt": "2025-09-13T06:31:27.727000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.060000+00:00",
         "publishedAt": "2024-01-22T14:06:02.803000+00:00",
-        "revisedAt": "2025-07-15T06:04:35.871000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.060000+00:00",
         "name": "ナリタトップロード",
         "cn_name": "成田路",
         "en": "Narita Top Road",
@@ -12095,7 +12095,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f23a12ca828144b4baa35733a7d59008/naritatoproad_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9307a22230a44bf2a685d251d4194c58/naritatoproad_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -12126,9 +12126,9 @@
     "yamaninzephyr": {
         "id": "yamaninzephyr",
         "createdAt": "2024-01-22T14:06:02.803000+00:00",
-        "updatedAt": "2025-09-13T06:34:25.816000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.795000+00:00",
         "publishedAt": "2024-01-22T14:06:02.803000+00:00",
-        "revisedAt": "2025-07-15T06:04:36.215000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.795000+00:00",
         "name": "ヤマニンゼファー",
         "cn_name": "也文摄辉",
         "en": "Yamanin Zephyr",
@@ -12253,7 +12253,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3f65887d165d4c369784e65972ef51d4/yamaninzephyr_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7a72a4ae1995406594f2fb5e1ff578d7/yamaninzephyr_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -12284,9 +12284,9 @@
     "furioso": {
         "id": "furioso",
         "createdAt": "2024-01-22T14:06:02.804000+00:00",
-        "updatedAt": "2025-09-13T06:34:50.383000+00:00",
+        "updatedAt": "2025-09-18T03:13:40.570000+00:00",
         "publishedAt": "2024-01-22T14:06:02.804000+00:00",
-        "revisedAt": "2025-07-15T06:04:35.663000+00:00",
+        "revisedAt": "2025-09-18T03:13:40.570000+00:00",
         "name": "フリオーソ",
         "cn_name": "狂怒乐章",
         "en": "Furioso",
@@ -12411,7 +12411,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/301aa7306fad49c092f9269b479f587f/furioso_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/74c35abfa32e45988fd946208625d9e0/furioso_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -12442,9 +12442,9 @@
     "transcend": {
         "id": "transcend",
         "createdAt": "2024-01-22T14:06:02.804000+00:00",
-        "updatedAt": "2025-09-13T06:35:16.405000+00:00",
+        "updatedAt": "2025-09-18T03:13:38.903000+00:00",
         "publishedAt": "2024-01-22T14:06:02.804000+00:00",
-        "revisedAt": "2025-07-15T06:04:35.564000+00:00",
+        "revisedAt": "2025-09-18T03:13:38.903000+00:00",
         "name": "トランセンド",
         "cn_name": "创升",
         "en": "Transcend",
@@ -12569,7 +12569,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/02bd824e19284ddc9eae09c2761c1ebe/transcend_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/aa11a342d6ad47c0aa388014792140ec/transcend_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -12600,9 +12600,9 @@
     "espoircity": {
         "id": "espoircity",
         "createdAt": "2024-01-22T14:06:02.804000+00:00",
-        "updatedAt": "2025-09-13T06:35:40.653000+00:00",
+        "updatedAt": "2025-09-18T03:13:42.118000+00:00",
         "publishedAt": "2024-01-22T14:06:02.804000+00:00",
-        "revisedAt": "2025-09-09T09:01:11.735000+00:00",
+        "revisedAt": "2025-09-18T03:13:42.118000+00:00",
         "name": "エスポワールシチー",
         "cn_name": "希望之城",
         "en": "Espoir City",
@@ -12706,7 +12706,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9ad038e028354f299294393c8dca3a80/espoircity_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/fa31232f934b40bb86cbe6bad98f47e0/espoircity_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -12737,9 +12737,9 @@
     "northflight": {
         "id": "northflight",
         "createdAt": "2024-01-22T14:06:02.805000+00:00",
-        "updatedAt": "2025-09-13T06:36:05.614000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.564000+00:00",
         "publishedAt": "2024-01-22T14:06:02.805000+00:00",
-        "revisedAt": "2025-07-15T06:04:36.042000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.564000+00:00",
         "name": "ノースフライト",
         "cn_name": "北方飞翔",
         "en": "North Flight",
@@ -12864,7 +12864,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1f6d0ccf7139489d8accc86cd39135f3/northflight_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/70823f85025d4f8daaf3d88d802038ef/northflight_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -12895,9 +12895,9 @@
     "symbolikriss": {
         "id": "symbolikriss",
         "createdAt": "2024-01-22T14:06:02.805000+00:00",
-        "updatedAt": "2025-09-13T06:36:57.055000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.522000+00:00",
         "publishedAt": "2024-01-22T14:06:02.805000+00:00",
-        "revisedAt": "2025-07-15T06:04:36.007000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.522000+00:00",
         "name": "シンボリクリスエス",
         "cn_name": "吉兆",
         "en": "Symboli Kris S",
@@ -13022,7 +13022,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/21a0f14bb9c1468fa684a42a21c73484/symbolikriss_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3e77d866d0ae47d7a9d74bd18118b4db/symbolikriss_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -13053,9 +13053,9 @@
     "taninogimlet": {
         "id": "taninogimlet",
         "createdAt": "2024-01-22T14:06:02.806000+00:00",
-        "updatedAt": "2025-09-13T06:37:20.755000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.619000+00:00",
         "publishedAt": "2024-01-22T14:06:02.806000+00:00",
-        "revisedAt": "2025-07-15T06:04:36.177000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.619000+00:00",
         "name": "タニノギムレット",
         "cn_name": "谷水琴蕾",
         "en": "Tanino Gimlet",
@@ -13180,7 +13180,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/80ee5ddba6ba409b807ad66e14c69730/taninogimlet_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f2512e8a5df04776ae8e27a087b41820/taninogimlet_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -13211,9 +13211,9 @@
     "daiichiruby": {
         "id": "daiichiruby",
         "createdAt": "2024-01-22T14:06:02.806000+00:00",
-        "updatedAt": "2025-09-13T06:41:26.320000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.023000+00:00",
         "publishedAt": "2024-01-22T14:06:02.806000+00:00",
-        "revisedAt": "2025-07-15T06:04:35.809000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.023000+00:00",
         "name": "ダイイチルビー",
         "cn_name": "第一红宝石",
         "en": "Daiichi Ruby",
@@ -13338,7 +13338,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6673e17f91fa4fa485f4127acc3701a5/daiichiruby_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5774939415b04068a3debabac92c7110/daiichiruby_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -13369,9 +13369,9 @@
     "mejiroramonu": {
         "id": "mejiroramonu",
         "createdAt": "2024-01-22T14:06:02.806000+00:00",
-        "updatedAt": "2025-09-13T06:41:50.421000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.017000+00:00",
         "publishedAt": "2024-01-22T14:06:02.806000+00:00",
-        "revisedAt": "2025-07-15T06:04:35.701000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.017000+00:00",
         "name": "メジロラモーヌ",
         "cn_name": "目白高峰",
         "en": "Mejiro Ramonu",
@@ -13496,7 +13496,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/05277be967c740c8ae86594c872fd3ed/mejiroramonu_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d2fc584a3d084342a08042ff6f673937/mejiroramonu_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -13527,9 +13527,9 @@
     "astonmachan": {
         "id": "astonmachan",
         "createdAt": "2024-01-22T14:06:02.807000+00:00",
-        "updatedAt": "2025-09-13T06:42:12.731000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.684000+00:00",
         "publishedAt": "2024-01-22T14:06:02.807000+00:00",
-        "revisedAt": "2025-07-15T06:04:36.101000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.684000+00:00",
         "name": "アストンマーチャン",
         "cn_name": "真弓快车",
         "en": "Aston Machan",
@@ -13654,7 +13654,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1144d155ec56463cbe85b62f534e2889/astonmachan_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/128b439b0daa4ecaa8288079e796e0be/astonmachan_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -13685,9 +13685,9 @@
     "satonocrown": {
         "id": "satonocrown",
         "createdAt": "2024-01-22T14:06:02.807000+00:00",
-        "updatedAt": "2025-09-13T06:42:36.715000+00:00",
+        "updatedAt": "2025-09-18T03:13:40.158000+00:00",
         "publishedAt": "2024-01-22T14:06:02.807000+00:00",
-        "revisedAt": "2025-07-15T06:04:36.326000+00:00",
+        "revisedAt": "2025-09-18T03:13:40.158000+00:00",
         "name": "サトノクラウン",
         "cn_name": "里见皇冠",
         "en": "Satono Crown",
@@ -13812,7 +13812,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a3e19b0b71084f7e87982bac93cc40da/satonocrown_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/faae83b75e1546ce8c688f0c1e74f357/satonocrown_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -13843,9 +13843,9 @@
     "chevalgrand": {
         "id": "chevalgrand",
         "createdAt": "2024-01-22T14:06:02.808000+00:00",
-        "updatedAt": "2025-09-13T06:43:06.915000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.901000+00:00",
         "publishedAt": "2024-01-22T14:06:02.808000+00:00",
-        "revisedAt": "2025-07-15T06:04:36.294000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.901000+00:00",
         "name": "シュヴァルグラン",
         "cn_name": "高尚骏逸",
         "en": "Cheval Grand",
@@ -13970,7 +13970,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7f87f0f099814195bec0e024e7410122/chevalgrand_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c092ee8e4ec94adeae5d1038425a287b/chevalgrand_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -14001,9 +14001,9 @@
     "verxina": {
         "id": "verxina",
         "createdAt": "2024-01-22T14:06:02.808000+00:00",
-        "updatedAt": "2025-09-13T06:43:39.707000+00:00",
+        "updatedAt": "2025-09-18T03:13:40.755000+00:00",
         "publishedAt": "2024-01-22T14:06:02.808000+00:00",
-        "revisedAt": "2025-07-15T06:04:35.607000+00:00",
+        "revisedAt": "2025-09-18T03:13:40.755000+00:00",
         "name": "ヴィルシーナ",
         "cn_name": "极峰",
         "en": "Verxina",
@@ -14107,7 +14107,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/453b703e2ef8422cbe33e73598b7eab0/verxina_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c1810b7bb07442dfa6ccf1a55441ed65/verxina_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -14138,9 +14138,9 @@
     "vivlos": {
         "id": "vivlos",
         "createdAt": "2024-01-22T14:06:02.842000+00:00",
-        "updatedAt": "2025-09-13T06:44:03.560000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.206000+00:00",
         "publishedAt": "2024-01-22T14:06:02.842000+00:00",
-        "revisedAt": "2025-07-15T06:04:35.735000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.206000+00:00",
         "name": "ヴィブロス",
         "cn_name": "强击",
         "en": "Vivlos",
@@ -14265,7 +14265,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e8092b6a7857476db3f93c3862970b24/vivlos_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c2da394d1d24410ab27d8015c56a8f50/vivlos_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -14296,9 +14296,9 @@
     "dantsuflame": {
         "id": "dantsuflame",
         "createdAt": "2024-01-22T14:06:02.842000+00:00",
-        "updatedAt": "2025-09-13T06:44:23.631000+00:00",
+        "updatedAt": "2025-09-18T03:13:40.452000+00:00",
         "publishedAt": "2024-01-22T14:06:02.842000+00:00",
-        "revisedAt": "2025-07-15T06:04:35.633000+00:00",
+        "revisedAt": "2025-09-18T03:13:40.452000+00:00",
         "name": "ダンツフレーム",
         "cn_name": "烈焰快驹",
         "en": "Dantsu Flame",
@@ -14402,7 +14402,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c79e5c12df2f4e4bb2f6d28263cfa0d9/dantsuflame_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/db917bd26be04c36a412505662a3303b/dantsuflame_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -14433,9 +14433,9 @@
     "ksmiracle": {
         "id": "ksmiracle",
         "createdAt": "2024-01-22T14:06:02.820000+00:00",
-        "updatedAt": "2025-09-13T06:45:01.842000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.862000+00:00",
         "publishedAt": "2024-01-22T14:06:02.820000+00:00",
-        "revisedAt": "2025-07-15T06:04:36.252000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.862000+00:00",
         "name": "ケイエスミラクル",
         "cn_name": "凯斯奇迹",
         "en": "K.S.Miracle",
@@ -14560,7 +14560,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ac5a659e5999488dabf746bc497fc185/k.s.miracle_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c683d961d6264b2c803f5bff421e07c5/k.s.miracle_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -14591,9 +14591,9 @@
     "junglepocket": {
         "id": "junglepocket",
         "createdAt": "2024-01-22T14:06:02.820000+00:00",
-        "updatedAt": "2025-09-13T06:45:26.316000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.400000+00:00",
         "publishedAt": "2024-01-22T14:06:02.820000+00:00",
-        "revisedAt": "2025-07-15T06:04:35.941000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.400000+00:00",
         "name": "ジャングルポケット",
         "cn_name": "森林宝穴",
         "en": "Jungle Pocket",
@@ -14718,7 +14718,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9f04cc5e9bdc430f874315db90974b75/junglepocket_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0a316901680e4ce8aa152ae4f8ff7e60/junglepocket_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -14749,9 +14749,9 @@
     "believe": {
         "id": "believe",
         "createdAt": "2024-06-24T03:22:37.682000+00:00",
-        "updatedAt": "2025-09-13T06:45:52.452000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.373000+00:00",
         "publishedAt": "2024-06-24T12:46:33.032000+00:00",
-        "revisedAt": "2025-07-15T06:04:35.977000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.373000+00:00",
         "name": "ビリーヴ",
         "cn_name": "",
         "en": "Believe",
@@ -14855,7 +14855,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/36609042c7e8458bae621a3bc319b79b/believe_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/03d2a3456d1340c89d9e2b03b51c5be7/believe_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -14886,9 +14886,9 @@
     "noreason": {
         "id": "noreason",
         "createdAt": "2024-01-22T14:06:02.821000+00:00",
-        "updatedAt": "2025-09-13T06:46:13.269000+00:00",
+        "updatedAt": "2025-09-18T03:13:41.230000+00:00",
         "publishedAt": "2024-01-22T14:06:02.821000+00:00",
-        "revisedAt": "2025-07-15T06:04:36.075000+00:00",
+        "revisedAt": "2025-09-18T03:13:41.230000+00:00",
         "name": "ノーリーズン",
         "cn_name": "莫名其妙",
         "en": "No Reason",
@@ -14992,7 +14992,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/43c3245af7eb40a083261f64cc02fe2b/noreason_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/99fc75a545d947afbc888b3b749006aa/noreason_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -15023,9 +15023,9 @@
     "stillinlove": {
         "id": "stillinlove",
         "createdAt": "2024-01-22T14:06:02.821000+00:00",
-        "updatedAt": "2025-09-13T06:46:46.524000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.131000+00:00",
         "publishedAt": "2024-01-22T14:06:02.821000+00:00",
-        "revisedAt": "2025-08-22T13:59:52.128000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.131000+00:00",
         "name": "スティルインラブ",
         "cn_name": "爱如往昔",
         "en": "Still in Love",
@@ -15150,7 +15150,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5a0fd41742cd4ed58cc31e33a4313a16/stillinlove_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d1842180c601493196b189d9906bd5d8/stillinlove_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -15181,9 +15181,9 @@
     "copanorickey": {
         "id": "copanorickey",
         "createdAt": "2024-01-22T14:06:02.822000+00:00",
-        "updatedAt": "2025-09-13T06:47:23.761000+00:00",
+        "updatedAt": "2025-09-18T03:13:42.462000+00:00",
         "publishedAt": "2024-01-22T14:06:02.822000+00:00",
-        "revisedAt": "2025-07-15T06:04:36.389000+00:00",
+        "revisedAt": "2025-09-18T03:13:42.462000+00:00",
         "name": "コパノリッキー",
         "cn_name": "小林历奇",
         "en": "Copano Rickey",
@@ -15308,7 +15308,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ef0e2d444ad647b684792b7f014d8f9c/copanorickey_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0a8920c2b9c84b58a209b8f1e8ebfc0e/copanorickey_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -15339,9 +15339,9 @@
     "hokkotarumae": {
         "id": "hokkotarumae",
         "createdAt": "2024-01-22T14:06:02.822000+00:00",
-        "updatedAt": "2025-09-13T06:48:42.699000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.355000+00:00",
         "publishedAt": "2024-01-22T14:06:02.822000+00:00",
-        "revisedAt": "2025-07-15T06:04:35.907000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.355000+00:00",
         "name": "ホッコータルマエ",
         "cn_name": "北港火山",
         "en": "Hokko Tarumae",
@@ -15466,7 +15466,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f40959cf30924ea381249f585ab32ef4/hokkotarumae_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/16ee85ba3fd5471f8cba646ba83eb484/hokkotarumae_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -15497,9 +15497,9 @@
     "wonderacute": {
         "id": "wonderacute",
         "createdAt": "2024-01-22T14:06:02.822000+00:00",
-        "updatedAt": "2025-09-13T06:49:18.486000+00:00",
+        "updatedAt": "2025-09-18T03:13:39.243000+00:00",
         "publishedAt": "2024-01-22T14:06:02.822000+00:00",
-        "revisedAt": "2025-07-15T06:04:35.765000+00:00",
+        "revisedAt": "2025-09-18T03:13:39.243000+00:00",
         "name": "ワンダーアキュート",
         "cn_name": "奇锐骏",
         "en": "Wonder Acute",
@@ -15624,7 +15624,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/02f569e2d311489d884bb247f23fb9f5/wonderacute_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2e3b6df0feb84cd892e1fb8df52d92ae/wonderacute_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -15792,9 +15792,9 @@
     "soundsofearth": {
         "id": "soundsofearth",
         "createdAt": "2024-01-22T14:06:02.823000+00:00",
-        "updatedAt": "2025-09-13T06:49:55.951000+00:00",
+        "updatedAt": "2025-09-18T03:14:29.846000+00:00",
         "publishedAt": "2024-01-22T14:06:02.823000+00:00",
-        "revisedAt": "2025-07-15T06:09:38.482000+00:00",
+        "revisedAt": "2025-09-18T03:14:29.846000+00:00",
         "name": "サウンズオブアース",
         "cn_name": "万籁争鸣",
         "en": "Sounds of Earth",
@@ -15898,7 +15898,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/fe567738e84d43778b51d1880175770b/soundsofearth_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f7561ee4b9c24b7e8fb5545356d9a55f/soundsofearth_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -15929,9 +15929,9 @@
     "royceandroyce": {
         "id": "royceandroyce",
         "createdAt": "2024-01-22T14:06:02.824000+00:00",
-        "updatedAt": "2025-09-13T06:53:29.272000+00:00",
+        "updatedAt": "2025-09-18T03:14:30.197000+00:00",
         "publishedAt": "2024-01-22T14:06:02.824000+00:00",
-        "revisedAt": "2025-07-15T06:09:38.668000+00:00",
+        "revisedAt": "2025-09-18T03:14:30.197000+00:00",
         "name": "ロイスアンドロイス",
         "cn_name": "ロイスアンドロイス",
         "en": "Royce and Royce",
@@ -16035,7 +16035,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/bce8c054ab3c402da812c845371280b1/royceandroyce_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f879cddc42724242a1d4b95b9b725ed4/royceandroyce_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -16066,9 +16066,9 @@
     "katsuragiace": {
         "id": "katsuragiace",
         "createdAt": "2024-01-22T14:06:02.824000+00:00",
-        "updatedAt": "2025-09-13T06:54:04.681000+00:00",
+        "updatedAt": "2025-09-18T03:14:30.832000+00:00",
         "publishedAt": "2024-01-22T14:06:02.824000+00:00",
-        "revisedAt": "2025-08-22T12:31:29.380000+00:00",
+        "revisedAt": "2025-09-18T03:14:30.832000+00:00",
         "name": "カツラギエース",
         "cn_name": "葛城王牌",
         "en": "Katsuragi Ace",
@@ -16193,7 +16193,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9ee462a7db6d4f45b71fcc4bbe06033d/katsuragiace_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/928027cb4f2648dc872d8a57c2e484bb/katsuragiace_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -16224,9 +16224,9 @@
     "neouniverse": {
         "id": "neouniverse",
         "createdAt": "2024-01-22T14:06:02.825000+00:00",
-        "updatedAt": "2025-09-13T06:54:31.863000+00:00",
+        "updatedAt": "2025-09-18T03:14:30.449000+00:00",
         "publishedAt": "2024-01-22T14:06:02.825000+00:00",
-        "revisedAt": "2025-07-15T06:09:38.906000+00:00",
+        "revisedAt": "2025-09-18T03:14:30.449000+00:00",
         "name": "ネオユニヴァース",
         "cn_name": "新宇宙",
         "en": "Neo Universe",
@@ -16351,7 +16351,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8c62b88698034b91a0e11b11c9138b99/neouniverse_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ad994b0faded41fd8c85de55de075b91/neouniverse_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -16382,9 +16382,9 @@
     "hishimiracle": {
         "id": "hishimiracle",
         "createdAt": "2024-01-22T14:06:02.840000+00:00",
-        "updatedAt": "2025-09-13T06:55:00.610000+00:00",
+        "updatedAt": "2025-09-18T03:14:30.916000+00:00",
         "publishedAt": "2024-01-22T14:06:02.840000+00:00",
-        "revisedAt": "2025-07-15T06:09:39.273000+00:00",
+        "revisedAt": "2025-09-18T03:14:30.916000+00:00",
         "name": "ヒシミラクル",
         "cn_name": "菱钻奇宝",
         "en": "Hishi Miracle",
@@ -16509,7 +16509,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4f5151282bc34e1da333052a87494a4d/hishimiracle_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2a0f362833ce42b3a4b948c696127bee/hishimiracle_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -16540,9 +16540,9 @@
     "tapdancecity": {
         "id": "tapdancecity",
         "createdAt": "2024-01-22T14:06:02.839000+00:00",
-        "updatedAt": "2025-09-13T06:55:26.401000+00:00",
+        "updatedAt": "2025-09-18T03:14:30.564000+00:00",
         "publishedAt": "2024-01-22T14:06:02.839000+00:00",
-        "revisedAt": "2025-07-15T06:09:39.039000+00:00",
+        "revisedAt": "2025-09-18T03:14:30.564000+00:00",
         "name": "タップダンスシチー",
         "cn_name": "跳舞城",
         "en": "Tap Dance City",
@@ -16667,7 +16667,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a233d8f711fc42feb826d2193b4afc77/tapdancecity_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2f415670a81a4f5281c77278059312d9/tapdancecity_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -16698,9 +16698,9 @@
     "duramente": {
         "id": "duramente",
         "createdAt": "2024-01-22T14:06:02.840000+00:00",
-        "updatedAt": "2025-09-13T06:56:05.869000+00:00",
+        "updatedAt": "2025-09-18T03:14:30.670000+00:00",
         "publishedAt": "2024-01-22T14:06:02.840000+00:00",
-        "revisedAt": "2025-07-15T06:09:39.142000+00:00",
+        "revisedAt": "2025-09-18T03:14:30.670000+00:00",
         "name": "ドゥラメンテ",
         "cn_name": "大鸣大放",
         "en": "Duramente",
@@ -16825,7 +16825,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/915f4493fd1c4413893f9b9a491b2831/duramente_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3f5d47319dc5491e86ab7bd1d41a15ae/duramente_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -16856,9 +16856,9 @@
     "rheinkraft": {
         "id": "rheinkraft",
         "createdAt": "2024-01-22T14:06:02.837000+00:00",
-        "updatedAt": "2025-09-13T06:56:35.752000+00:00",
+        "updatedAt": "2025-09-18T03:14:30.729000+00:00",
         "publishedAt": "2024-01-22T14:06:02.837000+00:00",
-        "revisedAt": "2025-07-15T06:09:39.326000+00:00",
+        "revisedAt": "2025-09-18T03:14:30.729000+00:00",
         "name": "ラインクラフト",
         "cn_name": "莱茵力量",
         "en": "Rhein Kraft",
@@ -16962,7 +16962,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3eb906af107f4ac98f5a8f77c2a16fc5/rheinkraft_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9fb4a36936f746cf8787c8fb88e8cc85/rheinkraft_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -16993,9 +16993,9 @@
     "cesario": {
         "id": "cesario",
         "createdAt": "2024-01-22T14:06:02.838000+00:00",
-        "updatedAt": "2025-09-13T06:56:56.859000+00:00",
+        "updatedAt": "2025-09-18T03:14:29.689000+00:00",
         "publishedAt": "2024-01-22T14:06:02.838000+00:00",
-        "revisedAt": "2025-07-15T06:09:38.342000+00:00",
+        "revisedAt": "2025-09-18T03:14:29.689000+00:00",
         "name": "シーザリオ",
         "cn_name": "西沙里奥",
         "en": "Cesario",
@@ -17099,7 +17099,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/637a55dc153c401e99e348e2c7edbf78/cesario_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2853c152b7a84af99de5d35e34e94c8c/cesario_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -17130,9 +17130,9 @@
     "airmessiah": {
         "id": "airmessiah",
         "createdAt": "2024-01-22T14:06:02.838000+00:00",
-        "updatedAt": "2025-09-13T06:57:18.933000+00:00",
+        "updatedAt": "2025-09-18T03:14:30.629000+00:00",
         "publishedAt": "2024-01-22T14:06:02.838000+00:00",
-        "revisedAt": "2025-07-15T06:09:39.091000+00:00",
+        "revisedAt": "2025-09-18T03:14:30.629000+00:00",
         "name": "エアメサイア",
         "cn_name": "空中救世主",
         "en": "Air Messiah",
@@ -17236,7 +17236,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8650ab49985f4a0892d01116ebff5bd6/airmessiah_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/08ff54df8f45445690d59970032667e5/airmessiah_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -17267,9 +17267,9 @@
     "daringheart": {
         "id": "daringheart",
         "createdAt": "2024-01-22T14:06:01.628000+00:00",
-        "updatedAt": "2025-09-13T06:57:44.048000+00:00",
+        "updatedAt": "2025-09-18T03:14:30.782000+00:00",
         "publishedAt": "2024-01-22T14:06:01.628000+00:00",
-        "revisedAt": "2025-07-15T06:09:39.191000+00:00",
+        "revisedAt": "2025-09-18T03:14:30.782000+00:00",
         "name": "デアリングハート",
         "cn_name": "勇敢之心",
         "en": "Daring Heart",
@@ -17373,7 +17373,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/704818a356c145fea44f9122a59b42b1/daringheart_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/98818441186c4c3ea658708391f694ce/daringheart_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -17404,9 +17404,9 @@
     "fusaichipandora": {
         "id": "fusaichipandora",
         "createdAt": "2024-09-26T06:29:25.109000+00:00",
-        "updatedAt": "2025-09-13T06:58:14.970000+00:00",
+        "updatedAt": "2025-09-18T03:14:29.753000+00:00",
         "publishedAt": "2024-09-27T12:11:09.213000+00:00",
-        "revisedAt": "2025-07-22T09:01:12.583000+00:00",
+        "revisedAt": "2025-09-18T03:14:29.753000+00:00",
         "name": "フサイチパンドラ",
         "cn_name": "房一潘多拉",
         "en": "Fusaichi Pandora",
@@ -17510,7 +17510,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/845eb573fd8548f194953152a709a63b/fusaichipandora_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8529f3810e4c46e0b27c8306a8cdec85/fusaichipandora_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -17541,9 +17541,9 @@
     "buenavista": {
         "id": "buenavista",
         "createdAt": "2024-06-24T03:24:36.716000+00:00",
-        "updatedAt": "2025-09-13T06:58:34.575000+00:00",
+        "updatedAt": "2025-09-18T03:14:30.383000+00:00",
         "publishedAt": "2024-06-24T12:46:38.007000+00:00",
-        "revisedAt": "2025-07-15T06:09:38.864000+00:00",
+        "revisedAt": "2025-09-18T03:14:30.383000+00:00",
         "name": "ブエナビスタ",
         "cn_name": "迷人景致",
         "en": "Buena Vista",
@@ -17647,7 +17647,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/136539f7e76d43b1b8ae11e0f48d9ccb/buenavista_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/39831e66fcc64e9b836fd14e2432d521/buenavista_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -17678,9 +17678,9 @@
     "orfevre": {
         "id": "orfevre",
         "createdAt": "2024-01-22T14:06:01.637000+00:00",
-        "updatedAt": "2025-09-13T06:59:24.100000+00:00",
+        "updatedAt": "2025-09-18T03:14:30.062000+00:00",
         "publishedAt": "2024-01-22T14:06:01.637000+00:00",
-        "revisedAt": "2025-07-15T06:09:38.621000+00:00",
+        "revisedAt": "2025-09-18T03:14:30.062000+00:00",
         "name": "オルフェーヴル",
         "cn_name": "黄金巨匠",
         "en": "Orfevre",
@@ -17805,7 +17805,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b331fbe591b642ee9392ecfc29c8a84a/orfevre_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/94622e4609404229aca9c82e1228067e/orfevre_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -17836,9 +17836,9 @@
     "gentildonna": {
         "id": "gentildonna",
         "createdAt": "2024-01-22T14:06:01.639000+00:00",
-        "updatedAt": "2025-09-13T06:59:46.245000+00:00",
+        "updatedAt": "2025-09-18T03:14:29.888000+00:00",
         "publishedAt": "2024-01-22T14:06:01.639000+00:00",
-        "revisedAt": "2025-08-22T12:31:41.116000+00:00",
+        "revisedAt": "2025-09-18T03:14:29.888000+00:00",
         "name": "ジェンティルドンナ",
         "cn_name": "贵妇人",
         "en": "Gentildonna",
@@ -17963,7 +17963,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a44d07619131467da6163abc7f4d64be/gentildonna_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/40bf2586231f4119930f20dc8b28eaa6/gentildonna_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -17994,9 +17994,9 @@
     "winvariation": {
         "id": "winvariation",
         "createdAt": "2024-01-22T14:06:01.639000+00:00",
-        "updatedAt": "2025-09-13T07:00:07.381000+00:00",
+        "updatedAt": "2025-09-18T03:14:29.991000+00:00",
         "publishedAt": "2024-01-22T14:06:01.639000+00:00",
-        "revisedAt": "2025-07-15T06:09:38.570000+00:00",
+        "revisedAt": "2025-09-18T03:14:29.991000+00:00",
         "name": "ウインバリアシオン",
         "cn_name": "凯旋芭蕾",
         "en": "Win Variation",
@@ -18121,7 +18121,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/33eb230cd8684a5a93386474c0b0b83a/winvariation_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ee214116f265493685e699c47191a13f/winvariation_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -18268,9 +18268,9 @@
     "dreamjourney": {
         "id": "dreamjourney",
         "createdAt": "2024-06-24T03:25:56.474000+00:00",
-        "updatedAt": "2025-09-13T07:03:42.277000+00:00",
+        "updatedAt": "2025-09-18T03:14:30.976000+00:00",
         "publishedAt": "2024-06-24T12:46:41.602000+00:00",
-        "revisedAt": "2025-07-15T06:09:39.402000+00:00",
+        "revisedAt": "2025-09-18T03:14:30.976000+00:00",
         "name": "ドリームジャーニー",
         "cn_name": "梦之旅",
         "en": "Dream Journey",
@@ -18374,7 +18374,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3b80ed2dbf73473e99f2fe1695a19469/dreamjourney_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d0e2ee1c7dca4e1d93d9cd676eb9c2fb/dreamjourney_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -18405,9 +18405,9 @@
     "calstonelighto": {
         "id": "calstonelighto",
         "createdAt": "2024-06-24T03:27:12.866000+00:00",
-        "updatedAt": "2025-09-13T07:04:01.423000+00:00",
+        "updatedAt": "2025-09-18T03:14:30.122000+00:00",
         "publishedAt": "2024-06-24T12:46:45.748000+00:00",
-        "revisedAt": "2025-07-15T06:09:38.710000+00:00",
+        "revisedAt": "2025-09-18T03:14:30.122000+00:00",
         "name": "カルストンライトオ",
         "cn_name": "金镇之光",
         "en": "Calstone Light O",
@@ -18532,7 +18532,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1070cf568d02472dbdbb259ea812f6eb/calstonelighto_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7a8a6b64b7834064b4c98f97c72faebe/calstonelighto_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -18563,9 +18563,9 @@
     "durandal": {
         "id": "durandal",
         "createdAt": "2024-06-24T03:28:32.109000+00:00",
-        "updatedAt": "2025-09-13T07:04:20.047000+00:00",
+        "updatedAt": "2025-09-18T03:14:30.505000+00:00",
         "publishedAt": "2024-06-24T12:46:49.056000+00:00",
-        "revisedAt": "2025-07-15T06:09:38.954000+00:00",
+        "revisedAt": "2025-09-18T03:14:30.505000+00:00",
         "name": "デュランダル",
         "cn_name": "多旺达",
         "en": "Durandal",
@@ -18690,7 +18690,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/160f9fd0c37a435aaadc8053906d2738/durandal_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/127f549f5b0242cf8fd8240929a49811/durandal_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -18721,9 +18721,9 @@
     "bubblegumfellow": {
         "id": "bubblegumfellow",
         "createdAt": "2024-08-23T09:51:06.902000+00:00",
-        "updatedAt": "2025-09-13T07:04:38.181000+00:00",
+        "updatedAt": "2025-09-18T03:14:30.258000+00:00",
         "publishedAt": "2024-08-23T12:43:40.371000+00:00",
-        "revisedAt": "2025-07-15T06:09:38.765000+00:00",
+        "revisedAt": "2025-09-18T03:14:30.258000+00:00",
         "name": "バブルガムフェロー",
         "cn_name": "吹波糖",
         "en": "Bubble Gum Fellow",
@@ -18827,7 +18827,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2b42233f5be64fb9a2ebeab8422c81fd/bubblegumfellow_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/363537d2bc0b4b2290564181aabe073d/bubblegumfellow_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -18953,9 +18953,9 @@
     "fenomeno": {
         "id": "fenomeno",
         "createdAt": "2025-02-22T05:40:17.817000+00:00",
-        "updatedAt": "2025-09-13T07:05:08.831000+00:00",
+        "updatedAt": "2025-09-18T03:14:29.793000+00:00",
         "publishedAt": "2025-02-22T13:11:03.586000+00:00",
-        "revisedAt": "2025-07-15T06:09:38.438000+00:00",
+        "revisedAt": "2025-09-18T03:14:29.793000+00:00",
         "name": "フェノーメノ",
         "cn_name": "超常骏骥",
         "en": "Fenomeno",
@@ -19059,7 +19059,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/255c62a104af4ed6849883a6f3ef1460/fenomeno_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2edf453407cc484a87d820598f93bb61/fenomeno_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -19090,9 +19090,9 @@
     "blastonepiece": {
         "id": "blastonepiece",
         "createdAt": "2024-11-26T08:51:15.537000+00:00",
-        "updatedAt": "2025-09-13T07:05:30.779000+00:00",
+        "updatedAt": "2025-09-18T03:14:30.346000+00:00",
         "publishedAt": "2024-11-27T11:58:55.068000+00:00",
-        "revisedAt": "2025-07-15T06:09:38.831000+00:00",
+        "revisedAt": "2025-09-18T03:14:30.346000+00:00",
         "name": "ブラストワンピース",
         "cn_name": "防爆装束",
         "en": "Blast Onepiece",
@@ -19175,7 +19175,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a1923bc0d7ba4fe18e9cd2c76a6d9787/blastonepiece_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4c28dbe43f5540da99a69c53821878b2/blastonepiece_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -19206,9 +19206,9 @@
     "almondeye": {
         "id": "almondeye",
         "createdAt": "2025-02-22T05:41:36.648000+00:00",
-        "updatedAt": "2025-09-13T07:05:50.138000+00:00",
+        "updatedAt": "2025-09-18T03:14:31.026000+00:00",
         "publishedAt": "2025-02-22T13:11:10.739000+00:00",
-        "revisedAt": "2025-07-15T06:09:39.369000+00:00",
+        "revisedAt": "2025-09-18T03:14:31.026000+00:00",
         "name": "アーモンドアイ",
         "cn_name": "杏目",
         "en": "Almond Eye",
@@ -19291,7 +19291,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/01e0911915f94c7f9fc77d4cd411d1da/almondeye_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/fb3aee4aa5ba4551ac2e9b4f0fb67aec/almondeye_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -19322,9 +19322,9 @@
     "luckylilac": {
         "id": "luckylilac",
         "createdAt": "2025-02-22T05:42:48.917000+00:00",
-        "updatedAt": "2025-09-13T07:06:12.966000+00:00",
+        "updatedAt": "2025-09-18T03:14:30.886000+00:00",
         "publishedAt": "2025-02-22T13:11:16.443000+00:00",
-        "revisedAt": "2025-07-15T06:12:48.106000+00:00",
+        "revisedAt": "2025-09-18T03:14:30.886000+00:00",
         "name": "ラッキーライラック",
         "cn_name": "旺紫丁",
         "en": "Lucky Lilac",
@@ -19407,7 +19407,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/abfb1b6f9e304554a85ea1e4863a5172/luckylilac_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/528ad14e9bdc45929ce1917022b90cda/luckylilac_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -19438,9 +19438,9 @@
     "granalegria": {
         "id": "granalegria",
         "createdAt": "2025-02-22T05:44:08.344000+00:00",
-        "updatedAt": "2025-09-13T07:06:30.571000+00:00",
+        "updatedAt": "2025-09-18T03:14:31.108000+00:00",
         "publishedAt": "2025-02-22T13:11:22.596000+00:00",
-        "revisedAt": "2025-07-15T06:12:48.207000+00:00",
+        "revisedAt": "2025-09-18T03:14:31.108000+00:00",
         "name": "グランアレグリア",
         "cn_name": "放声欢呼",
         "en": "Gran Alegria",
@@ -19544,7 +19544,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7e714392896441fabe3ba47051af2b00/granalegria_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b0879bd34c6c4004ade0d24e63dc69d9/granalegria_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -19575,9 +19575,9 @@
     "lovesonlyyou": {
         "id": "lovesonlyyou",
         "createdAt": "2025-02-22T05:45:27.572000+00:00",
-        "updatedAt": "2025-09-13T07:07:07.870000+00:00",
+        "updatedAt": "2025-09-18T03:14:31.071000+00:00",
         "publishedAt": "2025-02-22T13:11:29.473000+00:00",
-        "revisedAt": "2025-07-15T06:12:48.176000+00:00",
+        "revisedAt": "2025-09-18T03:14:31.071000+00:00",
         "name": "ラヴズオンリーユー",
         "cn_name": "唯独爱你",
         "en": "Loves Only You",
@@ -19681,7 +19681,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ce2acfac5e464b3da162b193c1244278/lovesonlyyou_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/169a33404e9d43a3b89a7698013da079/lovesonlyyou_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -19712,9 +19712,9 @@
     "chronogenesis": {
         "id": "chronogenesis",
         "createdAt": "2025-02-22T05:46:41.491000+00:00",
-        "updatedAt": "2025-09-13T07:07:33.343000+00:00",
+        "updatedAt": "2025-09-18T03:14:30.300000+00:00",
         "publishedAt": "2025-02-22T13:11:35.212000+00:00",
-        "revisedAt": "2025-07-15T06:12:48.007000+00:00",
+        "revisedAt": "2025-09-18T03:14:30.300000+00:00",
         "name": "クロノジェネシス",
         "cn_name": "创世驹",
         "en": "Chrono Genesis",
@@ -19818,7 +19818,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1032c03625ba468aabf8e32a0e659a85/chronogenesis_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/547b458a6edc45e6bed431235d652554/chronogenesis_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -19849,9 +19849,9 @@
     "currenbouquetdor": {
         "id": "currenbouquetdor",
         "createdAt": "2025-02-22T05:47:58.027000+00:00",
-        "updatedAt": "2025-09-13T07:07:50.866000+00:00",
+        "updatedAt": "2025-09-18T03:14:29.955000+00:00",
         "publishedAt": "2025-02-22T13:11:41.836000+00:00",
-        "revisedAt": "2025-07-15T06:12:47.896000+00:00",
+        "revisedAt": "2025-09-18T03:14:29.955000+00:00",
         "name": "カレンブーケドール",
         "cn_name": "机伶金花",
         "en": "Curren Bouquetd'or",
@@ -19934,7 +19934,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0ae3d88ea69041bc95686fa487466326/currenbouquetdor_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5f3775faa66c4ca9865204f219fdbfbd/currenbouquetdor_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -20651,9 +20651,9 @@
     "hayakawatazuna": {
         "id": "hayakawatazuna",
         "createdAt": "2024-01-22T14:06:01.640000+00:00",
-        "updatedAt": "2025-09-13T07:08:34.686000+00:00",
+        "updatedAt": "2025-09-18T03:14:30.241000+00:00",
         "publishedAt": "2024-01-22T14:06:01.640000+00:00",
-        "revisedAt": "2025-07-15T06:12:47.990000+00:00",
+        "revisedAt": "2025-09-18T03:14:30.241000+00:00",
         "name": "駿川たづな",
         "cn_name": "骏川缰绳",
         "en": "Hayakawa Tazuna",
@@ -20715,7 +20715,7 @@
             }
         ],
         "voice": {
-            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/27921946304c495282052402fc7f720f/hayakawatazuna_voice.mp3"
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/79d00a357c044a9886365644c2abad36/hayakawatazuna_voice.mp3"
         },
         "download": {
             "fieldId": "download",
