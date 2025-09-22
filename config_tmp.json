@@ -14753,7 +14753,7 @@
         "publishedAt": "2024-06-24T12:46:33.032000+00:00",
         "revisedAt": "2025-09-19T09:01:40.852000+00:00",
         "name": "ビリーヴ",
-        "cn_name": "",
+        "cn_name": "信念",
         "en": "Believe",
         "catch": "手助けは不要です。\nこれは僕の仕事ですから",
         "cv": "秋山実咲",
@@ -14871,16 +14871,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "G",
+            "short": "A",
+            "mile": "D",
+            "middle": "G",
+            "long": "G",
+            "run_away": "D",
+            "first": "A",
+            "center": "D",
+            "chase": "G"
         }
     },
     "noreason": {
