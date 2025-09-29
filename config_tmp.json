@@ -12600,9 +12600,9 @@
     "espoircity": {
         "id": "espoircity",
         "createdAt": "2024-01-22T14:06:02.804000+00:00",
-        "updatedAt": "2025-09-18T03:13:42.118000+00:00",
+        "updatedAt": "2025-09-28T12:33:28.338000+00:00",
         "publishedAt": "2024-01-22T14:06:02.804000+00:00",
-        "revisedAt": "2025-09-18T03:13:42.118000+00:00",
+        "revisedAt": "2025-09-28T12:33:28.338000+00:00",
         "name": "エスポワールシチー",
         "cn_name": "希望之城",
         "en": "Espoir City",
@@ -12679,6 +12679,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/336b8d8ac65f4867a1d9b25747205b29/espoircity_02_2.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/69eab496537a4c1593cb0391ecb14eea/espoircity_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e2a99aa55057446484784ab8410033f9/espoircity_03.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -14749,9 +14770,9 @@
     "believe": {
         "id": "believe",
         "createdAt": "2024-06-24T03:22:37.682000+00:00",
-        "updatedAt": "2025-09-19T09:01:40.852000+00:00",
+        "updatedAt": "2025-09-28T12:33:35.290000+00:00",
         "publishedAt": "2024-06-24T12:46:33.032000+00:00",
-        "revisedAt": "2025-09-19T09:01:40.852000+00:00",
+        "revisedAt": "2025-09-28T12:33:35.290000+00:00",
         "name": "ビリーヴ",
         "cn_name": "信念",
         "en": "Believe",
@@ -14828,6 +14849,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3136a8d8d2e24458a4ffd8cc9c1415d7/believe_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3aab96c3410b45c8ad5575d9cb289762/believe_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3aae4eca64144664b8304c690a5a05e0/believe_03.png",
                     "height": 1980,
                     "width": 1125
                 }
