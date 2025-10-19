@@ -20120,6 +20120,122 @@
             "chase": ""
         }
     },
+    "reddesire": {
+        "id": "reddesire",
+        "createdAt": "2025-10-19T07:20:50.476000+00:00",
+        "updatedAt": "2025-10-19T11:49:31.592000+00:00",
+        "publishedAt": "2025-10-19T11:49:31.592000+00:00",
+        "revisedAt": "2025-10-19T11:49:31.592000+00:00",
+        "name": "レッドディザイア",
+        "cn_name": "",
+        "en": "Red Desire",
+        "catch": "貴方に祝福を、“セカイ”に輝きを――",
+        "cv": "関根瞳",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#cb3a43",
+        "color_sub": "#802f2d",
+        "birthday": "4月19日",
+        "height": "160cm",
+        "weight": "神聖なるヒミツ",
+        "size": "B74・W55・H79",
+        "detail": "いずれ遥かなる“異セカイ”へ到り、崇め奉られる聖女となる宿命を背負いしウマ娘（自称）。\n『嗚呼、きっと全てはかの“セカイ”へ昇るための“聖女の試練”――必ずや乗り越えてみせます』なんて話を、憧れの先輩が淹れてくれたカフェラテを飲みながら語る姿がよく目撃されている。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d20a53c8c7be42d79bcb938abcff5e19/reddesire_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4c90c95ee2304ee0a15dbe4f3c2d5609/reddesire_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f86e0bd85aaa485987a7e7374fdc0077/reddesire_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ffb7fe4173ae45ea8b1befcd7db223b4/reddesire_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8559607bd8c4406fa02ee26b8dc28431/reddesire_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/114ecab9617b46f281c626a0613939e2/reddesire_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6d2178acaf1443d8918feab42c03ca8f/reddesire_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/cb4af3e7f7f1487393d9bdf3a6d56794/reddesire_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2e583322546e4801b68fa9dd1818af23/reddesire_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
     "happymeek": {
         "id": "happymeek",
         "createdAt": "2024-01-22T14:06:01.640000+00:00",
