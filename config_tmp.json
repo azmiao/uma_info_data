@@ -22421,6 +22421,196 @@
             "chase": ""
         }
     },
+    "hoshinakiyoko": {
+        "id": "hoshinakiyoko",
+        "createdAt": "2025-10-28T06:45:29.470000+00:00",
+        "updatedAt": "2025-10-28T12:13:59.383000+00:00",
+        "publishedAt": "2025-10-28T12:13:59.383000+00:00",
+        "revisedAt": "2025-10-28T12:13:59.383000+00:00",
+        "name": "保科健子",
+        "cn_name": "",
+        "en": "Hoshina Kiyoko",
+        "catch": "いい人生はいい休養から。\nウマ娘も人も、健康が一番ですよ。",
+        "cv": "高垣彩陽",
+        "category": [
+            "トレセン学園関係者"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#316757",
+        "color_sub": "#343f3e",
+        "birthday": "",
+        "height": "",
+        "weight": "",
+        "size": "",
+        "detail": "URAが誇る保養施設『ゆこま旅館』の女将。\nウマ娘の健康を想った心づくしのおもてなしと、上品で丁寧な接客が評判ながら、ときおり気だるげな艶っぽさも垣間見える。\nまた、昔はレース界で伝説的な人だったという噂も……？",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d594bf4806a44533a66bef1e96fcf5a4/hoshinakiyoko_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7d664423381c4c889e604043697637be/hoshinakiyoko_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "",
+                    "createdAt": null,
+                    "updatedAt": null,
+                    "publishedAt": null,
+                    "revisedAt": null,
+                    "title": ""
+                },
+                "thumb": {
+                    "url": "",
+                    "height": 0,
+                    "width": 0
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b7da205cb41f4dbf899afee790d962b2/hoshinakiyoko_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": ""
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/699d5e7f597546dc855d7a15255ef93c/hoshinakiyoko_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/dff3e418635949c0941ca64c627cf7e1/hoshinakiyoko_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
+    "yunohanabloom": {
+        "id": "yunohanabloom",
+        "createdAt": "2025-10-28T06:46:46.289000+00:00",
+        "updatedAt": "2025-10-28T12:13:45.826000+00:00",
+        "publishedAt": "2025-10-28T12:13:45.826000+00:00",
+        "revisedAt": "2025-10-28T12:13:45.826000+00:00",
+        "name": "ユノハナブルーム",
+        "cn_name": "",
+        "en": "Yunohana Bloom",
+        "catch": "どうぞ、癒されていってくださいね。\nゆこまぁ〜温泉〜♪　ぴょいやそいそい〜♪",
+        "cv": "豊崎愛生",
+        "category": [
+            "トレセン学園関係者"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#ed718c",
+        "color_sub": "#d7d2d5",
+        "birthday": "",
+        "height": "",
+        "weight": "",
+        "size": "",
+        "detail": "『ゆこま旅館』で修業中のウマ娘。\nゆくゆくは女将になるべくまったり奮闘している。\nおっとりして見えるが、お茶目でノリがよく、しれっとふざける場面も。\n気配り上手で柔らかな接客が、お客さんたちの癒しとなっている。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3df80272be754893a01b18c65f022cd8/yunohanabloom_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/dc7e5aac6f7248a788aa0658a63edc85/yunohanabloom_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "",
+                    "createdAt": null,
+                    "updatedAt": null,
+                    "publishedAt": null,
+                    "revisedAt": null,
+                    "title": ""
+                },
+                "thumb": {
+                    "url": "",
+                    "height": 0,
+                    "width": 0
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/64f3f3e341d24b5dbe69b32af362c471/yunohanabloom_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": ""
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8e98ba0c4c7d4bd8afac8bd8368c4a8f/yunohanabloom_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/cdaf3af19e084f06acdd9942fcb157c3/yunohanabloom_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
     "akasakamisato": {
         "id": "akasakamisato",
         "createdAt": "2024-01-22T14:06:01.641000+00:00",
