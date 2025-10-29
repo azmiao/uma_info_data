@@ -14317,9 +14317,9 @@
     "dantsuflame": {
         "id": "dantsuflame",
         "createdAt": "2024-01-22T14:06:02.842000+00:00",
-        "updatedAt": "2025-10-18T12:02:55.858000+00:00",
+        "updatedAt": "2025-10-28T12:36:57.451000+00:00",
         "publishedAt": "2024-01-22T14:06:02.842000+00:00",
-        "revisedAt": "2025-10-18T12:02:55.858000+00:00",
+        "revisedAt": "2025-10-28T12:36:57.451000+00:00",
         "name": "ダンツフレーム",
         "cn_name": "烈焰快驹",
         "en": "Dantsu Flame",
@@ -14396,6 +14396,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1f4a96c2e4cd4e72ac168efeaef1ef1c/dantsuflame_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b0c8648c3df14db4925315e84534937c/dantsuflame_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2c9d0d1f396a4950ae53380d09aa7a5c/dantsuflame_03.png",
                     "height": 1980,
                     "width": 1125
                 }
