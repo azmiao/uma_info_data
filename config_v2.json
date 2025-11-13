@@ -15711,7 +15711,7 @@
             "long": "E",
             "run_away": "C",
             "first": "A",
-            "center": "C",
+            "center": "B",
             "chase": "E"
         }
     },
@@ -18626,9 +18626,9 @@
     "durandal": {
         "id": "durandal",
         "createdAt": "2024-06-24T03:28:32.109000+00:00",
-        "updatedAt": "2025-09-18T03:14:30.505000+00:00",
+        "updatedAt": "2025-11-13T07:21:07.926000+00:00",
         "publishedAt": "2024-06-24T12:46:49.056000+00:00",
-        "revisedAt": "2025-09-18T03:14:30.505000+00:00",
+        "revisedAt": "2025-11-13T07:21:07.926000+00:00",
         "name": "デュランダル",
         "cn_name": "多旺达",
         "en": "Durandal",
@@ -18655,7 +18655,7 @@
         "detail": "騎士道精神に溢れ、礼節を重んじるウマ娘。\n剣のごとく“鋭く切れる末脚”を追い求めている。\n物語のような素敵な騎士として、忠義を尽くすべき王――運命のトレーナーと出会う日を夢見ているのだとか。\n常に礼儀正しく気品ある振る舞いを心がけている。",
         "movie_id": "1z278WXZo7c",
         "is_top": null,
-        "is_music": false,
+        "is_music": true,
         "list_thumb": {
             "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/54adb7d4190642e4a9d29b6e8da8ddf8/durandal_list.png",
             "height": 389,
