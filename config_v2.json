@@ -17726,16 +17726,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "F",
+            "short": "G",
+            "mile": "A",
+            "middle": "A",
+            "long": "C",
+            "run_away": "G",
+            "first": "B",
+            "center": "A",
+            "chase": "A"
         }
     },
     "orfevre": {
