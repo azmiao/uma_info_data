@@ -17604,9 +17604,9 @@
     "buenavista": {
         "id": "buenavista",
         "createdAt": "2024-06-24T03:24:36.716000+00:00",
-        "updatedAt": "2025-11-19T09:01:00.824000+00:00",
+        "updatedAt": "2025-11-27T12:27:02.779000+00:00",
         "publishedAt": "2024-06-24T12:46:38.007000+00:00",
-        "revisedAt": "2025-11-19T09:01:00.824000+00:00",
+        "revisedAt": "2025-11-27T12:27:02.779000+00:00",
         "name": "ブエナビスタ",
         "cn_name": "迷人景致",
         "en": "Buena Vista",
@@ -17683,6 +17683,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/41d830aecd0145f898987aee7b40fc08/buenavista_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7dbd4fe96f3d4f4799f2f615ac5db7ab/buenavista_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f3110ead71764ad5a0d8f53308a38f7f/buenavista_03.png",
                     "height": 1980,
                     "width": 1125
                 }
