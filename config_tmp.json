@@ -20150,16 +20150,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "G",
+            "short": "G",
+            "mile": "G",
+            "middle": "A",
+            "long": "A",
+            "run_away": "G",
+            "first": "B",
+            "center": "A",
+            "chase": "C"
         }
     },
     "reddesire": {
