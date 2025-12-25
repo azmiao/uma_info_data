@@ -19659,9 +19659,9 @@
     "lovesonlyyou": {
         "id": "lovesonlyyou",
         "createdAt": "2025-02-22T05:45:27.572000+00:00",
-        "updatedAt": "2025-09-18T03:14:31.071000+00:00",
+        "updatedAt": "2025-12-25T02:22:56.897000+00:00",
         "publishedAt": "2025-02-22T13:11:29.473000+00:00",
-        "revisedAt": "2025-09-18T03:14:31.071000+00:00",
+        "revisedAt": "2025-12-25T02:22:56.897000+00:00",
         "name": "ラヴズオンリーユー",
         "cn_name": "唯独爱你",
         "en": "Loves Only You",
@@ -19732,12 +19732,12 @@
                     "title": "勝負服"
                 },
                 "thumb": {
-                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/77cc5586a50e4e018cc1928228b429ec/lovesonlyyou_02_thumb.png",
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b4176a1a9b2040388559f8c9955ea3e4/lovesonlyyou_02_thumb.png",
                     "height": 198,
                     "width": 198
                 },
                 "image": {
-                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c0fc7a0c53344a21a7061adaa52cddbf/lovesonlyyou_02.png",
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/912f108beda647f7aeb14201254c137c/lovesonlyyou_02.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -20049,9 +20049,9 @@
     "staygold": {
         "id": "staygold",
         "createdAt": "2025-05-25T03:05:38.021000+00:00",
-        "updatedAt": "2025-12-21T13:40:31.030000+00:00",
+        "updatedAt": "2025-12-25T02:54:55.858000+00:00",
         "publishedAt": "2025-05-25T11:36:44.536000+00:00",
-        "revisedAt": "2025-12-21T13:40:31.030000+00:00",
+        "revisedAt": "2025-12-25T02:54:55.858000+00:00",
         "name": "ステイゴールド",
         "cn_name": "黄金旅程",
         "en": "Stay Gold",
@@ -20122,12 +20122,33 @@
                     "title": "勝負服"
                 },
                 "thumb": {
-                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2c498884d91f46a99a59ee90e1a7858e/staygold_02_thumb.png",
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5feb640514e049358b3a90a4b5922f2a/staygold_02_thumb_2.png",
                     "height": 198,
                     "width": 198
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2f061dcf6d4f4a569e5cf6fd14fd3da8/staygold_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7b5c681032e442cabe5e290ae72e693a/staygold_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/40a277f5f4ae4b24bac3994d152ab4f0/staygold_03.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -20261,6 +20282,122 @@
             },
             "header": {
                 "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2e583322546e4801b68fa9dd1818af23/reddesire_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
+    "kiseki": {
+        "id": "kiseki",
+        "createdAt": "2025-12-24T06:45:55.091000+00:00",
+        "updatedAt": "2025-12-24T12:42:42.798000+00:00",
+        "publishedAt": "2025-12-24T12:42:42.798000+00:00",
+        "revisedAt": "2025-12-24T12:42:42.798000+00:00",
+        "name": "キセキ",
+        "cn_name": "",
+        "en": "Kiseki",
+        "catch": "ライバルとの死闘、ピンチからの大逆転！\nまさに――王道展開じゃないですか！",
+        "cv": "星希成奏",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#2c9c46",
+        "color_sub": "#c8dbe9",
+        "birthday": "5月13日",
+        "height": "166cm",
+        "weight": "大好評調整中！",
+        "size": "B86・W56・H84",
+        "detail": "漫画を読むこと＆描くことが大好きなクリエイター気質のウマ娘。\n日々自室で新作ネームを描き溜めながら、自分の脚でも漫画のようにワクワクするレースを創りたいと夢見ている。\n三度の飯よりも面白い創作を愛する彼女の目標は――“主人公”になること。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7134544fbb3d4cc38936414e1dadd3f7/kiseki_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/819eb774360943f78aa56b1e5f028c09/kiseki_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2f7ff5f546cf4039abe501ce98e573de/kiseki_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2c06ffa1f24f40f69176710c874e2501/kiseki_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/05de5e19dfed477880006dc9fbf3818d/kiseki_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/67913ad7a76b4115815db193974fff90/kiseki_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b2bd900af04e4fe592b5927c9c821a2d/kiseki_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/170cf5a83cdb4f9ea69014df5b03f7cb/kiseki_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/232859ac915a4710ae8792a54ded1c6b/kiseki_header.png",
                 "height": 500,
                 "width": 1500
             }
