@@ -15992,9 +15992,9 @@
     "royceandroyce": {
         "id": "royceandroyce",
         "createdAt": "2024-01-22T14:06:02.824000+00:00",
-        "updatedAt": "2025-09-18T03:14:30.197000+00:00",
+        "updatedAt": "2026-02-14T08:01:19.496000+00:00",
         "publishedAt": "2024-01-22T14:06:02.824000+00:00",
-        "revisedAt": "2025-09-18T03:14:30.197000+00:00",
+        "revisedAt": "2026-02-14T08:01:19.496000+00:00",
         "name": "ロイスアンドロイス",
         "cn_name": "ロイスアンドロイス",
         "en": "Royce and Royce",
@@ -16019,7 +16019,7 @@
         "weight": "最強の風格",
         "size": "B83・W56・H82",
         "detail": "自己演出を得意とする頭脳明晰なウマ娘。\n人の心を掴む“最強”ウマ娘となるべく、レースに加え、ファンへのアピール方法の研究に熱心に取り組む。\nファンの前では頑張り屋キャラを演じ、他者とのキャラ被りを許さない。\nまさにセルフプロデュースの鬼である。",
-        "movie_id": "",
+        "movie_id": "J79c1BrclUc",
         "is_top": null,
         "is_music": true,
         "list_thumb": {
@@ -18942,9 +18942,9 @@
     "sakurachitoseo": {
         "id": "sakurachitoseo",
         "createdAt": "2024-11-29T08:01:46.776000+00:00",
-        "updatedAt": "2025-08-22T13:05:52.265000+00:00",
+        "updatedAt": "2026-02-14T03:00:08.272000+00:00",
         "publishedAt": "2024-12-01T15:25:30.804000+00:00",
-        "revisedAt": "2025-08-22T13:05:52.265000+00:00",
+        "revisedAt": "2026-02-14T03:00:08.272000+00:00",
         "name": "サクラチトセオー",
         "cn_name": "樱花千岁王",
         "en": "Sakura Chitose O",
@@ -19000,6 +19000,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/634945162f1c4bae87fda88f55716621/sakurachitoseo_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/af28d9e69ef54e03a16eb30a3ad96c21/sakurachitoseo_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0ccafb3b9f584c9692948eb54635b10c/sakurachitoseo_02.png",
                     "height": 1980,
                     "width": 1125
                 }
