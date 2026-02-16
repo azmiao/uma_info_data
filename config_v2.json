@@ -16114,16 +16114,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "G",
+            "short": "G",
+            "mile": "B",
+            "middle": "A",
+            "long": "E",
+            "run_away": "E",
+            "first": "A",
+            "center": "A",
+            "chase": "G"
         }
     },
     "katsuragiace": {
