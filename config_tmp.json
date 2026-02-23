@@ -15992,9 +15992,9 @@
     "royceandroyce": {
         "id": "royceandroyce",
         "createdAt": "2024-01-22T14:06:02.824000+00:00",
-        "updatedAt": "2026-02-22T11:32:01.929000+00:00",
+        "updatedAt": "2026-02-22T13:33:24.262000+00:00",
         "publishedAt": "2024-01-22T14:06:02.824000+00:00",
-        "revisedAt": "2026-02-14T08:01:19.496000+00:00",
+        "revisedAt": "2026-02-22T13:33:24.262000+00:00",
         "name": "ロイスアンドロイス",
         "cn_name": "莱斯莱斯",
         "en": "Royce and Royce",
@@ -16071,6 +16071,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/db818ee75f80477ca84c6d6afcaf5e6f/royceandroyce_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/48effe7b90b34b3684fa908a32840913/royceandroyce_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/18fcfdd08e5043d88bcc25c711a58df7/royceandroyce_03.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -16919,9 +16940,9 @@
     "rheinkraft": {
         "id": "rheinkraft",
         "createdAt": "2024-01-22T14:06:02.837000+00:00",
-        "updatedAt": "2026-02-22T11:32:55.821000+00:00",
+        "updatedAt": "2026-02-22T13:33:27.726000+00:00",
         "publishedAt": "2024-01-22T14:06:02.837000+00:00",
-        "revisedAt": "2025-09-18T03:14:30.729000+00:00",
+        "revisedAt": "2026-02-22T13:33:27.726000+00:00",
         "name": "ラインクラフト",
         "cn_name": "莱茵力量",
         "en": "Rhein Kraft",
@@ -17000,6 +17021,27 @@
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7e71539426fa4d439bd79ed1cafd28bc/rheinkraft_02.png",
                     "height": 1980,
                     "width": 1123
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/35b1480fd2754f1a94aa68858936fd34/rheinkraft_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/16f122e99a6c41a4a4b5fe29f3dd2cc9/rheinkraft_03.png",
+                    "height": 1980,
+                    "width": 1125
                 }
             },
             {
@@ -18805,9 +18847,9 @@
     "bubblegumfellow": {
         "id": "bubblegumfellow",
         "createdAt": "2024-08-23T09:51:06.902000+00:00",
-        "updatedAt": "2026-02-22T11:35:14.376000+00:00",
+        "updatedAt": "2026-02-22T13:33:37.267000+00:00",
         "publishedAt": "2024-08-23T12:43:40.371000+00:00",
-        "revisedAt": "2025-09-18T03:14:30.258000+00:00",
+        "revisedAt": "2026-02-22T13:33:37.267000+00:00",
         "name": "バブルガムフェロー",
         "cn_name": "吹波糖",
         "en": "Bubble Gum Fellow",
@@ -18908,6 +18950,27 @@
                     "height": 1783,
                     "width": 1013
                 }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2aff5756a9a047228f20c283ef835a68/bubblegumfellow_04_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/272b1b8bef5f4e74835c5f41e787cd5a/bubblegumfellow_04.png",
+                    "height": 1980,
+                    "width": 1125
+                }
             }
         ],
         "voice": {
@@ -18942,9 +19005,9 @@
     "sakurachitoseo": {
         "id": "sakurachitoseo",
         "createdAt": "2024-11-29T08:01:46.776000+00:00",
-        "updatedAt": "2026-02-22T11:36:00.010000+00:00",
+        "updatedAt": "2026-02-22T13:33:41.016000+00:00",
         "publishedAt": "2024-12-01T15:25:30.804000+00:00",
-        "revisedAt": "2026-02-14T03:00:08.272000+00:00",
+        "revisedAt": "2026-02-22T13:33:41.016000+00:00",
         "name": "サクラチトセオー",
         "cn_name": "樱花千岁王",
         "en": "Sakura Chitose O",
@@ -19024,6 +19087,27 @@
                     "height": 1980,
                     "width": 1125
                 }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-004",
+                    "createdAt": "2024-01-22T06:31:54.262000+00:00",
+                    "updatedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "publishedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "revisedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "title": "<small>STARTING<br>FUTURE</small>"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/481107bef3d0489bb49eb8ea468f46a1/sakurachitoseo_04_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0f77e28d12ca4bb3ba839d18bde724ac/sakurachitoseo_04.png",
+                    "height": 1980,
+                    "width": 1125
+                }
             }
         ],
         "voice": {
@@ -19058,9 +19142,9 @@
     "fenomeno": {
         "id": "fenomeno",
         "createdAt": "2025-02-22T05:40:17.817000+00:00",
-        "updatedAt": "2026-02-22T11:36:40.344000+00:00",
+        "updatedAt": "2026-02-22T13:33:44.522000+00:00",
         "publishedAt": "2025-02-22T13:11:03.586000+00:00",
-        "revisedAt": "2025-09-18T03:14:29.793000+00:00",
+        "revisedAt": "2026-02-22T13:33:44.522000+00:00",
         "name": "フェノーメノ",
         "cn_name": "超常骏骥",
         "en": "Fenomeno",
@@ -19160,6 +19244,27 @@
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f09e8e0f1bdc4265853e1263c94af757/fenomeno_03.png",
                     "height": 1980,
                     "width": 1300
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-004",
+                    "createdAt": "2024-01-22T06:31:54.262000+00:00",
+                    "updatedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "publishedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "revisedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "title": "<small>STARTING<br>FUTURE</small>"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/22014c6f005749d0801d6d75e248d816/fenomeno_04_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7496c52fd9a0489b96bda201470c6950/fenomeno_04.png",
+                    "height": 1980,
+                    "width": 1125
                 }
             }
         ],
@@ -19311,9 +19416,9 @@
     "almondeye": {
         "id": "almondeye",
         "createdAt": "2025-02-22T05:41:36.648000+00:00",
-        "updatedAt": "2026-02-22T11:34:33.403000+00:00",
+        "updatedAt": "2026-02-23T01:52:14.926000+00:00",
         "publishedAt": "2025-02-22T13:11:10.739000+00:00",
-        "revisedAt": "2025-09-18T03:14:31.026000+00:00",
+        "revisedAt": "2026-02-23T01:52:14.926000+00:00",
         "name": "アーモンドアイ",
         "cn_name": "杏目",
         "en": "Almond Eye",
@@ -19338,7 +19443,7 @@
         "weight": "完璧、よ",
         "size": "B86・W57・H81",
         "detail": "文武両道にしてスター性兼備、あらゆる方面で完璧な超絶優等生。\nただしそれは彼女が『超』が9個ほどつくレベルの『負けず嫌い』であるからこその結果。\n負けん気が強すぎて完璧主義のきらいがあったり、体力以上の無茶をしがちなのが玉にキズ。",
-        "movie_id": "",
+        "movie_id": "Odl_tgk3Pl4",
         "is_top": null,
         "is_music": true,
         "list_thumb": {
@@ -19393,6 +19498,48 @@
                     "height": 1980,
                     "width": 1125
                 }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1b47844dbf464f7e9b258f9c6cc8f931/almondeye_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c4aa5e81b5c04cef884c2af963a31485/almondeye_03.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-004",
+                    "createdAt": "2024-01-22T06:31:54.262000+00:00",
+                    "updatedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "publishedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "revisedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "title": "<small>STARTING<br>FUTURE</small>"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ca39f49d24d04af4881c544d4638f257/almondeye_04_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d81b0c9f00b94fb2aefb9ac8f8c4de3e/almondeye_04.png",
+                    "height": 1980,
+                    "width": 1125
+                }
             }
         ],
         "voice": {
@@ -19427,9 +19574,9 @@
     "luckylilac": {
         "id": "luckylilac",
         "createdAt": "2025-02-22T05:42:48.917000+00:00",
-        "updatedAt": "2026-02-22T11:37:19.336000+00:00",
+        "updatedAt": "2026-02-22T13:33:48.087000+00:00",
         "publishedAt": "2025-02-22T13:11:16.443000+00:00",
-        "revisedAt": "2025-09-18T03:14:30.886000+00:00",
+        "revisedAt": "2026-02-22T13:33:48.087000+00:00",
         "name": "ラッキーライラック",
         "cn_name": "旺紫丁",
         "en": "Lucky Lilac",
@@ -19509,6 +19656,27 @@
                     "height": 1980,
                     "width": 1125
                 }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-004",
+                    "createdAt": "2024-01-22T06:31:54.262000+00:00",
+                    "updatedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "publishedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "revisedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "title": "<small>STARTING<br>FUTURE</small>"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/95718762d29b4443b5273b39d8db9b63/luckylilac_04_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/38eb55ec36fc47ee85dccbfcf1126875/luckylilac_04.png",
+                    "height": 1980,
+                    "width": 1125
+                }
             }
         ],
         "voice": {
@@ -19543,9 +19711,9 @@
     "granalegria": {
         "id": "granalegria",
         "createdAt": "2025-02-22T05:44:08.344000+00:00",
-        "updatedAt": "2026-02-22T11:38:17.779000+00:00",
+        "updatedAt": "2026-02-22T13:33:51.828000+00:00",
         "publishedAt": "2025-02-22T13:11:22.596000+00:00",
-        "revisedAt": "2025-09-18T03:14:31.108000+00:00",
+        "revisedAt": "2026-02-22T13:33:51.828000+00:00",
         "name": "グランアレグリア",
         "cn_name": "放声欢呼",
         "en": "Gran Alegria",
@@ -19646,6 +19814,27 @@
                     "height": 1980,
                     "width": 1125
                 }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-004",
+                    "createdAt": "2024-01-22T06:31:54.262000+00:00",
+                    "updatedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "publishedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "revisedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "title": "<small>STARTING<br>FUTURE</small>"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4d75ac1e677648aeb3f1ca57aa7b617b/granalegria_04_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/02e2098fac314c35b4993e479ba59f54/granalegria_04.png",
+                    "height": 1980,
+                    "width": 1125
+                }
             }
         ],
         "voice": {
@@ -19680,9 +19869,9 @@
     "lovesonlyyou": {
         "id": "lovesonlyyou",
         "createdAt": "2025-02-22T05:45:27.572000+00:00",
-        "updatedAt": "2026-02-22T11:39:04.293000+00:00",
+        "updatedAt": "2026-02-22T13:33:55.179000+00:00",
         "publishedAt": "2025-02-22T13:11:29.473000+00:00",
-        "revisedAt": "2025-12-25T02:22:56.897000+00:00",
+        "revisedAt": "2026-02-22T13:33:55.179000+00:00",
         "name": "ラヴズオンリーユー",
         "cn_name": "唯独爱你",
         "en": "Loves Only You",
@@ -19783,6 +19972,27 @@
                     "height": 1980,
                     "width": 1125
                 }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-004",
+                    "createdAt": "2024-01-22T06:31:54.262000+00:00",
+                    "updatedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "publishedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "revisedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "title": "<small>STARTING<br>FUTURE</small>"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d72ee043f7b74daa9753cd2efce150ed/lovesonlyyou_04_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d5e178d29aa94764a7b599416c5e1d6e/lovesonlyyou_04.png",
+                    "height": 1980,
+                    "width": 1125
+                }
             }
         ],
         "voice": {
@@ -19817,9 +20027,9 @@
     "chronogenesis": {
         "id": "chronogenesis",
         "createdAt": "2025-02-22T05:46:41.491000+00:00",
-        "updatedAt": "2026-02-22T11:39:40.939000+00:00",
+        "updatedAt": "2026-02-22T13:33:59.131000+00:00",
         "publishedAt": "2025-02-22T13:11:35.212000+00:00",
-        "revisedAt": "2025-09-18T03:14:30.300000+00:00",
+        "revisedAt": "2026-02-22T13:33:59.131000+00:00",
         "name": "クロノジェネシス",
         "cn_name": "创世驹",
         "en": "Chrono Genesis",
@@ -19920,6 +20130,27 @@
                     "height": 1980,
                     "width": 1125
                 }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-004",
+                    "createdAt": "2024-01-22T06:31:54.262000+00:00",
+                    "updatedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "publishedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "revisedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "title": "<small>STARTING<br>FUTURE</small>"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/568ef0989ef747e0ad9c069e2526c29c/chronogenesis_04_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b5b32c8348254056a437791708ab1945/chronogenesis_04.png",
+                    "height": 1980,
+                    "width": 1125
+                }
             }
         ],
         "voice": {
@@ -19954,9 +20185,9 @@
     "currenbouquetdor": {
         "id": "currenbouquetdor",
         "createdAt": "2025-02-22T05:47:58.027000+00:00",
-        "updatedAt": "2026-02-22T11:40:25.652000+00:00",
+        "updatedAt": "2026-02-22T13:34:01.978000+00:00",
         "publishedAt": "2025-02-22T13:11:41.836000+00:00",
-        "revisedAt": "2025-09-18T03:14:29.955000+00:00",
+        "revisedAt": "2026-02-22T13:34:01.978000+00:00",
         "name": "カレンブーケドール",
         "cn_name": "机伶金花",
         "en": "Curren Bouquetd'or",
@@ -20035,6 +20266,27 @@
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/43eaaf309f724a3285459681bb43ceed/currenbouquetdor_02.png",
                     "height": 1980,
                     "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-004",
+                    "createdAt": "2024-01-22T06:31:54.262000+00:00",
+                    "updatedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "publishedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "revisedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "title": "<small>STARTING<br>FUTURE</small>"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/007d8d0dda8f43ba8990adcffe535bd5/currenbouquetdor_04_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9df9dc0dcf974cfeac805551fc005fa6/currenbouquetdor_04.png",
+                    "height": 1980,
+                    "width": 1300
                 }
             }
         ],
@@ -20434,6 +20686,818 @@
             "first": "B",
             "center": "A",
             "chase": "E"
+        }
+    },
+    "foreveryoung": {
+        "id": "foreveryoung",
+        "createdAt": "2026-02-20T09:42:23.255000+00:00",
+        "updatedAt": "2026-02-22T12:40:53.931000+00:00",
+        "publishedAt": "2026-02-22T12:40:53.931000+00:00",
+        "revisedAt": "2026-02-22T12:40:53.931000+00:00",
+        "name": "フォーエバーヤング",
+        "cn_name": "",
+        "en": "Forever Young",
+        "catch": "このローテはさ、いわば投資じゃん？\nセルフブランディング的な",
+        "cv": "海弓シュリ",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#822b4a",
+        "color_sub": "#d8ced2",
+        "birthday": "2月24日",
+        "height": "167cm",
+        "weight": "予想外",
+        "size": "B90・W60・H89",
+        "detail": "『ウマ娘界にイノベーションを起こす』と豪語するイノベーター系ウマ娘。\nギャルいバイタリティと、幼い頃から世界中のレースやビジネスを見て培ったロジカル思考、そして常識破りの発想力を武器に、日々プロジェクトを進行中。\nちなみに、彼女の誕生日はこの世界のある祝日と同じなのだとか。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/09175cc749d347109289ca5a8b4da2c0/foreveryoung_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/dd3d3243c6094d6ab655e21bb5bdf74b/foreveryoung_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7ab0e5f758fe445390557fec82367348/foreveryoung_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/708cf648f364469d81b7e80bb378c0b5/foreveryoung_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d4521012d4204b6db625fccb8b9da59f/foreveryoung_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9e4c1db04cdb4722bc545ee778ba38e6/foreveryoung_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3a29844da3824835acdfd9fdd5e59221/foreveryoung_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/68579507696e4ec6b73969d24ed9057c/foreveryoung_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f0bc10b278a4434f91d657b787154439/foreveryoung_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
+    "marchelorraine": {
+        "id": "marchelorraine",
+        "createdAt": "2026-02-20T09:43:00.392000+00:00",
+        "updatedAt": "2026-02-22T12:41:02.059000+00:00",
+        "publishedAt": "2026-02-22T12:41:02.059000+00:00",
+        "revisedAt": "2026-02-22T12:41:02.059000+00:00",
+        "name": "マルシュロレーヌ",
+        "cn_name": "",
+        "en": "Marche Lorraine",
+        "catch": "え、えと、その……――\n『はいはーい☆　マルちゃんにご用ですか〜？』",
+        "cv": "近貞月乃",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#8b1538",
+        "color_sub": "#e9a2b2",
+        "birthday": "2月4日",
+        "height": "157cm",
+        "weight": "黙秘",
+        "size": "B90・W59・H89",
+        "detail": "極度の引っ込み思案ゆえ、自作のパペットを通じてでないと周囲と会話することもままならない。\n反面パペットを通しての言動は非常に陽気で社交的。\nクリエイティブ系の技能に長けており、それを活かしたイラストやデザインの提供で幼馴染の配信活動を支えている。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a34bb4e4616249eab5e8a21bd7c4eca4/marchelorraine_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/990ab625942743d097df2cec1ef43a0a/marchelorraine_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f2fea8d6cc6648599bd096fc7269848c/marchelorraine_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/530293256a724890a8884238bf9d4295/marchelorraine_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3462c6163cfc43f3a32e826e57b7b0f0/marchelorraine_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/bf1584b2c28a4266a9bbeb24d7fb2a7e/marchelorraine_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4ee9d41e338c4f15aef683730869a390/marchelorraine_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3f2a1725304b43b983783905b1bd2a82/marchelorraine_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/796b08265e51416c8d1971e65dcc449b/marchelorraine_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
+    "epiphaneia": {
+        "id": "epiphaneia",
+        "createdAt": "2026-02-20T09:43:12.880000+00:00",
+        "updatedAt": "2026-02-22T13:31:12.002000+00:00",
+        "publishedAt": "2026-02-22T13:31:12.002000+00:00",
+        "revisedAt": "2026-02-22T13:31:12.002000+00:00",
+        "name": "エピファネイア",
+        "cn_name": "",
+        "en": "Epiphaneia",
+        "catch": "運命がアタシにささやいたんだ！\n今行け、すぐ行け、早く行け、ってね！！",
+        "cv": "千賀光莉",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#17af87",
+        "color_sub": "#d0dee8",
+        "birthday": "2月11日",
+        "height": "159cm",
+        "weight": "運命的",
+        "size": "B81・W56・H83",
+        "detail": "常に善き方へ自分の背中を押してくれる不思議な声、曰く『運命の声』が聞こえる……らしい。\n『そんな自分がみんなを導くのは天命！』と信じ、圧倒的な推進力で皆を引っ張っていくバイタリティに溢れたウマ娘。\n勢いがありすぎて、あらぬ方向へ引っ張りまわす大暴走になりがちなのはご愛嬌。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5a9f49152d614451a8ee0957fe3a28d1/epiphaneia_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/95a3db0b604a4db1b203c0531d9c2851/epiphaneia_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/89fc4681dd3640ff87867d47483a4c2d/epiphaneia_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6415427d7d47465f9cf8d5d31cbc6a43/epiphaneia_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f0c27b47bd37473c889e91868b501da6/epiphaneia_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b97bc43bd3e74cf69ca608798591f7c0/epiphaneia_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/775601a06d8d46478e3aa63de2d5e797/epiphaneia_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/39645c138d9f44dea5d55599af96b231/epiphaneia_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/db65fa2d0e8a4ecda4a75a7ede3def56/epiphaneia_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
+    "logotype": {
+        "id": "logotype",
+        "createdAt": "2026-02-20T09:43:25.766000+00:00",
+        "updatedAt": "2026-02-22T13:31:02.220000+00:00",
+        "publishedAt": "2026-02-22T13:31:02.220000+00:00",
+        "revisedAt": "2026-02-22T13:31:02.220000+00:00",
+        "name": "ロゴタイプ",
+        "cn_name": "",
+        "en": "Logotype",
+        "catch": "いいものを作り続けていれば……\nまあ、いつか誰かに届くと思うんですよね",
+        "cv": "髙橋美空",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#7e2d40",
+        "color_sub": "#bd9b60",
+        "birthday": "3月10日",
+        "height": "160cm",
+        "weight": "粘り強い推移",
+        "size": "B83・W56・H84",
+        "detail": "穏やかで堅実な性格の、老舗手描き看板屋の跡取りウマ娘。\n家業をはじめとした様々な『古きよきもの』を深く愛しており、日々その保全に励んでいる。\nレースに出始めたきっかけも、自分が『看板娘』として世間の注目を集めれば、店が安泰になるのでは？と思ったからだそう。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/dceb3d9190484c2ab6fcd465c8751eba/logotype_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e1b570d444b646f8950c731039f59449/logotype_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/bff27b8d425648febf9a91709702a462/logotype_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/476a5174e441428389a97f25b51c3b63/logotype_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/24a20dcd128f418d9c7ffc3556a8855d/logotype_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d089abbdc94c48b897bd459194a641f1/logotype_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e2f1a92971bc4d5483af50566b443140/logotype_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/caae8e5a5fdd4bbda8a350644f197d39/logotype_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7ed0ed0d97684438bc697b88e5b66f85/logotype_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
+    "victoirepisa": {
+        "id": "victoirepisa",
+        "createdAt": "2026-02-20T09:43:35.382000+00:00",
+        "updatedAt": "2026-02-22T13:30:58.918000+00:00",
+        "publishedAt": "2026-02-22T13:30:58.918000+00:00",
+        "revisedAt": "2026-02-22T13:30:58.918000+00:00",
+        "name": "ヴィクトワールピサ",
+        "cn_name": "",
+        "en": "Victoire Pisa",
+        "catch": "いつか、世界中が希望で繋がる輪を作れたら\n――そう、思うんです",
+        "cv": "嶋野花",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#4146b8",
+        "color_sub": "#f1eb9d",
+        "birthday": "3月31日",
+        "height": "161cm",
+        "weight": "微増",
+        "size": "B80・W53・H78",
+        "detail": "純粋で温かな心を持ち、『ひとりぼっち』や『孤独』を嫌うウマ娘。\nそんな状況に陥っている人を見かけたらすかさず駆け付け、その心が『希望』へと繋がるまで寄り添うのをやめない。\nその姿を『まるで天使のよう』と評する者も多いとか。\n趣味は天体観測と芸術鑑賞。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/74830f0fde314abca6ff711118afbdfb/victoirepisa_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/759459c2ba8549baa3e55bc1014fea95/victoirepisa_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6726e9315487458ab626292e0828b2a0/victoirepisa_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b0732ebb951941e490270684307142dc/victoirepisa_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/226fb243fbca4fb39f0ff0f6c63bbc76/victoirepisa_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/419bbb05ec1d43429cfffecd7daf12a6/victoirepisa_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/25c1fc1d0b86448b8923b6ca2a12be87/victoirepisa_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/bfbe62c6b00d49dbab70299dc1632455/victoirepisa_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d4d261eadc494e2a820743f0d7509081/victoirepisa_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
+    "rosekingdom": {
+        "id": "rosekingdom",
+        "createdAt": "2026-02-20T09:43:43.549000+00:00",
+        "updatedAt": "2026-02-22T13:31:05.898000+00:00",
+        "publishedAt": "2026-02-22T13:31:05.898000+00:00",
+        "revisedAt": "2026-02-22T13:31:05.898000+00:00",
+        "name": "ローズキングダム",
+        "cn_name": "",
+        "en": "Rose Kingdom",
+        "catch": "全ては我が一族が悲願、\n『薔薇の王国』のために――",
+        "cv": "菊池ゆりな",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#cb363d",
+        "color_sub": "#52606b",
+        "birthday": "5月10日",
+        "height": "155cm",
+        "weight": "高貴な仕上がり",
+        "size": "B74・W54・H77",
+        "detail": "名門『薔薇一族』に生まれ、その立場に相応しき英才教育を修めてきた高貴なるウマ娘。\n自分の走りで、レース界における一族の地位を単なる名門に留まらない高みへ導く――即ち一族を率いる『王』と成る、という使命を抱いている。\n高貴すぎて、世俗のことにはやや疎い。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d8395693e7d44d58b051d29b85acf0ea/rosekingdom_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c6e923dbc6554ffeb3f77f1ad0a006f2/rosekingdom_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8e9d307593c5492b9fbbe1191421dffb/rosekingdom_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8520590863054ce7b95d942050df296b/rosekingdom_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ae1ff481f6494553953898a4aa65c06c/rosekingdom_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0f157dc7eb0c4e95800d848aaad2c1c0/rosekingdom_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/bdc85dd0529c4fbc96c5e7281d068f64/rosekingdom_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/cf691c5426ea48e2ad8c83f05284d065/rosekingdom_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1ad9de66a31744e2bcceed2dd24930b0/rosekingdom_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
+    "rulership": {
+        "id": "rulership",
+        "createdAt": "2026-02-20T09:43:49.322000+00:00",
+        "updatedAt": "2026-02-22T13:31:08.779000+00:00",
+        "publishedAt": "2026-02-22T13:31:08.779000+00:00",
+        "revisedAt": "2026-02-22T13:31:08.779000+00:00",
+        "name": "ルーラーシップ",
+        "cn_name": "",
+        "en": "Rulership",
+        "catch": "チェックメイト――\nこの盤面は、すでに俺の掌の上だ",
+        "cv": "海野水玉",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#beab08",
+        "color_sub": "#3a4c5c",
+        "birthday": "5月15日",
+        "height": "160cm",
+        "weight": "計測場に現れず",
+        "size": "B90・W57・H86",
+        "detail": "リバーシ等の古典的なものから現代的なものまで、ボードゲーム全般を愛する重度のボドゲーマー。\n策を用いて盤面を支配するのを得意とする頭脳派。\nレースでもその知略を武器とするが……メンタルが激烈に弱いのが弱点。\nうっかり策が外れると途端にベッコベコに凹み、部屋に籠って出てこなくなる。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/84a7d75432a94a11ba16dc515263342e/rulership_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/827bcd7f288e4e81bb564c98059b3648/rulership_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/fc04d5d07e5b41dd97813bf837078b5d/rulership_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/706397ffa714415ba382102075672284/rulership_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/afb2827a4bbf47bcb1bade83d0a67292/rulership_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5e340806b42e40efa37d365a975fe9da/rulership_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/737bae9b0cf64b7996d9bb1dda52003d/rulership_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4aeb1b2498dd4371a3333a59fedb22ca/rulership_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/342b98fcce5c4e1c83eb0204e74930f7/rulership_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
         }
     },
     "happymeek": {
@@ -22794,6 +23858,101 @@
             },
             "header": {
                 "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/cdaf3af19e084f06acdd9942fcb157c3/yunohanabloom_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
+    "casinodrive": {
+        "id": "casinodrive",
+        "createdAt": "2026-02-20T09:42:47.675000+00:00",
+        "updatedAt": "2026-02-22T12:41:25.702000+00:00",
+        "publishedAt": "2026-02-22T12:41:25.702000+00:00",
+        "revisedAt": "2026-02-22T12:41:25.702000+00:00",
+        "name": "カジノドライヴ",
+        "cn_name": "",
+        "en": "Casino Drive",
+        "catch": "American Dreamです、皆さん！\nBCで、私とともに夢を掴みましょう！",
+        "cv": "愛美",
+        "category": [
+            "トレセン学園関係者"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#5198b0",
+        "color_sub": "#dde4e2",
+        "birthday": "",
+        "height": "",
+        "weight": "",
+        "size": "",
+        "detail": "ブリーダーズカップ遠征プロジェクト『DREAMS』を立ち上げた、プレゼン巧者なウマ娘。\n米レース界の超名門一族出身であるが、現在は単身日本へ留学中。\n『American Dream』をモットーとしているが、彼女にとってのそれは『日本から米国の大レースを制すること』にあるらしい。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/fff5260b6f454d4eaa8204afdd261332/casinodrive_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9af3a57b435a4de3909b53c366160786/casinodrive_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "",
+                    "createdAt": null,
+                    "updatedAt": null,
+                    "publishedAt": null,
+                    "revisedAt": null,
+                    "title": ""
+                },
+                "thumb": {
+                    "url": "",
+                    "height": 0,
+                    "width": 0
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/91ab89209fbe44cb9e774c86e0ae4769/casinodrive_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": ""
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5aad4ede013a4ba4b49043940e3c0c92/casinodrive_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/474e728d740345f6a33720e73665ba16/casinodrive_header.png",
                 "height": 500,
                 "width": 1500
             }
