@@ -18847,9 +18847,9 @@
     "bubblegumfellow": {
         "id": "bubblegumfellow",
         "createdAt": "2024-08-23T09:51:06.902000+00:00",
-        "updatedAt": "2026-02-22T13:33:37.267000+00:00",
+        "updatedAt": "2026-02-24T02:12:21.093000+00:00",
         "publishedAt": "2024-08-23T12:43:40.371000+00:00",
-        "revisedAt": "2026-02-22T13:33:37.267000+00:00",
+        "revisedAt": "2026-02-24T02:12:21.093000+00:00",
         "name": "バブルガムフェロー",
         "cn_name": "吹波糖",
         "en": "Bubble Gum Fellow",
@@ -18954,12 +18954,12 @@
             {
                 "fieldId": "visual",
                 "name": {
-                    "id": "v-003",
-                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
-                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
-                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
-                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
-                    "title": "原案"
+                    "id": "v-004",
+                    "createdAt": "2024-01-22T06:31:54.262000+00:00",
+                    "updatedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "publishedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "revisedAt": "2024-01-22T06:31:54.262000+00:00",
+                    "title": "<small>STARTING<br>FUTURE</small>"
                 },
                 "thumb": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2aff5756a9a047228f20c283ef835a68/bubblegumfellow_04_thumb.png",
