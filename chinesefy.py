@@ -53,10 +53,10 @@ async def get_cn_name():
         cn_name = com_list[0].text.strip()
         cn_name = '春' + cn_name if cn_name == '乌拉拉' else cn_name
         uma_dict[jp_name]['cn_name'] = cn_name
-        i = 0
-        for c_type in com_str:
-            uma_dict[jp_name][c_type] = com_list[i + 4].text.strip()
-            i += 1
+#        i = 0
+#        for c_type in com_str:
+#            uma_dict[jp_name][c_type] = com_list[i + 4].text.strip()
+#            i += 1
     # 实际马娘适应性
     uma_dict = await get_com_uma(uma_dict)
     # 绿帽战神
