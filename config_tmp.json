@@ -19696,16 +19696,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "G",
+            "short": "G",
+            "mile": "A",
+            "middle": "A",
+            "long": "C",
+            "run_away": "F",
+            "first": "A",
+            "center": "A",
+            "chase": "G"
         }
     },
     "granalegria": {
