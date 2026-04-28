@@ -18278,9 +18278,9 @@
     "admiregroove": {
         "id": "admiregroove",
         "createdAt": "2025-08-22T08:28:24.124000+00:00",
-        "updatedAt": "2026-04-20T10:09:34.814000+00:00",
+        "updatedAt": "2026-04-28T12:39:51.779000+00:00",
         "publishedAt": "2025-08-22T12:31:02.257000+00:00",
-        "revisedAt": "2026-04-20T10:09:34.814000+00:00",
+        "revisedAt": "2026-04-28T12:39:51.779000+00:00",
         "name": "アドマイヤグルーヴ",
         "cn_name": "爱慕律动",
         "en": "Admire Groove",
@@ -18357,6 +18357,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/cebf37f32c6e4b12a238600b2e09f7b1/admiregroove_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/27feaf19508249f1b9c2b09134d1c344/admiregroove_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/be3eae5b742b4fdbb8aef858499ebcca/admiregroove_03.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -19574,9 +19595,9 @@
     "luckylilac": {
         "id": "luckylilac",
         "createdAt": "2025-02-22T05:42:48.917000+00:00",
-        "updatedAt": "2026-04-10T09:01:11.495000+00:00",
+        "updatedAt": "2026-04-28T12:39:49.043000+00:00",
         "publishedAt": "2025-02-22T13:11:16.443000+00:00",
-        "revisedAt": "2026-04-10T09:01:11.495000+00:00",
+        "revisedAt": "2026-04-28T12:39:49.043000+00:00",
         "name": "ラッキーライラック",
         "cn_name": "旺紫丁",
         "en": "Lucky Lilac",
@@ -19653,6 +19674,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/92a3ff168d034d8fba9ce16dd9e3c9d6/luckylilac_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/88fac7513ae74365b9dd7e80f50ae7fa/luckylilac_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/da443cbacd2745278130ee215487c88a/luckylilac_03.png",
                     "height": 1980,
                     "width": 1125
                 }
