@@ -17494,16 +17494,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "D",
+            "short": "B",
+            "mile": "A",
+            "middle": "E",
+            "long": "G",
+            "run_away": "D",
+            "first": "A",
+            "center": "F",
+            "chase": "G"
         }
     },
     "fusaichipandora": {
