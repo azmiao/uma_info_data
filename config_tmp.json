@@ -20602,16 +20602,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "B",
+            "short": "G",
+            "mile": "A",
+            "middle": "A",
+            "long": "F",
+            "run_away": "G",
+            "first": "B",
+            "center": "A",
+            "chase": "F"
         }
     },
     "kiseki": {
