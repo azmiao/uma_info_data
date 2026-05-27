@@ -17372,9 +17372,9 @@
     "daringheart": {
         "id": "daringheart",
         "createdAt": "2024-01-22T14:06:01.628000+00:00",
-        "updatedAt": "2026-05-11T09:01:13.963000+00:00",
+        "updatedAt": "2026-05-27T12:49:33.625000+00:00",
         "publishedAt": "2024-01-22T14:06:01.628000+00:00",
-        "revisedAt": "2026-05-11T09:01:13.963000+00:00",
+        "revisedAt": "2026-05-27T12:49:33.625000+00:00",
         "name": "デアリングハート",
         "cn_name": "勇敢的心",
         "en": "Daring Heart",
@@ -17453,6 +17453,27 @@
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/01288e4868ef4ae695425180eda7ceda/daringheart_02.png",
                     "height": 1980,
                     "width": 1123
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d7bb2171cb444688b057a1895a3720f3/daringheart_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6be352c6937b4b8280bbacca6da538a7/daringheart_03.png",
+                    "height": 1980,
+                    "width": 1125
                 }
             },
             {
@@ -20501,9 +20522,9 @@
     "reddesire": {
         "id": "reddesire",
         "createdAt": "2025-10-19T07:20:50.476000+00:00",
-        "updatedAt": "2026-05-20T09:00:46.141000+00:00",
+        "updatedAt": "2026-05-27T12:49:30.415000+00:00",
         "publishedAt": "2025-10-19T11:49:31.592000+00:00",
-        "revisedAt": "2026-05-20T09:00:46.141000+00:00",
+        "revisedAt": "2026-05-27T12:49:30.415000+00:00",
         "name": "レッドディザイア",
         "cn_name": "红色梦想",
         "en": "Red Desire",
@@ -20580,6 +20601,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/114ecab9617b46f281c626a0613939e2/reddesire_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c40ba66aee3b493b87e6ef91ed2ef297/reddesire_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f631708b60784036a910b691eb902ef9/reddesire_03.png",
                     "height": 1980,
                     "width": 1125
                 }
