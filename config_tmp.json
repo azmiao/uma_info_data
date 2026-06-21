@@ -21584,6 +21584,122 @@
             "chase": ""
         }
     },
+    "titleholder": {
+        "id": "titleholder",
+        "createdAt": "2026-06-21T04:21:06.495000+00:00",
+        "updatedAt": "2026-06-21T11:15:32.551000+00:00",
+        "publishedAt": "2026-06-21T11:15:32.551000+00:00",
+        "revisedAt": "2026-06-21T11:15:32.551000+00:00",
+        "name": "タイトルホルダー",
+        "cn_name": "",
+        "en": "Titleholder",
+        "catch": "鹿より身軽に、熊より強靭に――\nそのためにも、鍛錬だ",
+        "cv": "華成結",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#4ea547",
+        "color_sub": "#ebe367",
+        "birthday": "2月10日",
+        "height": "155cm",
+        "weight": "強靭な仕上がり",
+        "size": "B79・W54・H83",
+        "detail": "『最強の生物』を目指して修行中のウマ娘。\n総合格闘技の世界で活躍していたが、あるウマ娘の『最強の走り』に魅せられ、それを会得するためトレセン学園にやってきた。\nストイックで朴訥とした性格。\n格闘家の頃の修行生活の名残で、つい鍛錬のため極限の自然環境に身を置きたがりがち。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/136a29af837e451e963bbe91880dbfb1/titleholder_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2be989dc9f084ae0add9342ac57747a7/titleholder_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ce906bc001844a0d9a6d7239b15299d2/titleholder_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8ac0c410ad7a420db16a5b805bf05819/titleholder_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0d7f6fd368904d3e9ab815054231f8cd/titleholder_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/472ef26323ee4114a0494367e1427a57/titleholder_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/eb89efc1ff4645009ab138cc4eb90a02/titleholder_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b54da4c99deb4fd6987a3244a57cb36f/titleholder_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/621fca830572480fbd462cdd945e5cf0/titleholder_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
     "happymeek": {
         "id": "happymeek",
         "createdAt": "2024-01-22T14:06:01.640000+00:00",
