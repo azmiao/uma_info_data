@@ -20248,9 +20248,9 @@
     "currenbouquetdor": {
         "id": "currenbouquetdor",
         "createdAt": "2025-02-22T05:47:58.027000+00:00",
-        "updatedAt": "2026-06-15T09:01:15.881000+00:00",
+        "updatedAt": "2026-06-26T12:44:26.062000+00:00",
         "publishedAt": "2025-02-22T13:11:41.836000+00:00",
-        "revisedAt": "2026-06-15T09:01:15.881000+00:00",
+        "revisedAt": "2026-06-26T12:44:26.062000+00:00",
         "name": "カレンブーケドール",
         "cn_name": "机伶金花",
         "en": "Curren Bouquetd'or",
@@ -20327,6 +20327,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/43eaaf309f724a3285459681bb43ceed/currenbouquetdor_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/bbd352ed3bdd4170aaf24540cde0b850/currenbouquetdor_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/65d1d89617574bf69236c6e1b2ee5fd4/currenbouquetdor_03.png",
                     "height": 1980,
                     "width": 1125
                 }
@@ -22843,9 +22864,9 @@
     "lighthello": {
         "id": "lighthello",
         "createdAt": "2024-01-22T14:06:01.641000+00:00",
-        "updatedAt": "2025-07-15T06:12:47.840000+00:00",
+        "updatedAt": "2026-06-26T12:09:19.597000+00:00",
         "publishedAt": "2024-01-22T14:06:01.641000+00:00",
-        "revisedAt": "2025-07-15T06:12:47.840000+00:00",
+        "revisedAt": "2026-06-26T12:09:19.597000+00:00",
         "name": "ライトハロー",
         "cn_name": "无忧呼唤",
         "en": "Light Hello",
@@ -22869,7 +22890,7 @@
         "height": "",
         "weight": "",
         "size": "",
-        "detail": "『グランドライブ再建計画』の発起人にして、責任者を務めるイベントプロデューサー。\n『グランドライブ』へ並々ならぬ情熱を注いでおり、計画実現のために奔走している。\nかつてはトレセン学園の生徒であり青春をレースに懸けたウマ娘だったようだが……？",
+        "detail": "『グランドライブ再建計画』の発起人にして、責任者を務めるイベントプロデューサー。\n『グランドライブ』へ並々ならぬ情熱を注いでおり、計画実現のために奔走している。\nかつてはトレセン学園の生徒であり青春をレースに懸けたウマ娘だったようだが……？\n<br><br>\nまた、ラーメンで恩返しをしたいウマ娘たちと協力し、『ラーメン・ジャンボリー』という\nイベントも立案。活躍の幅を広げている。",
         "movie_id": "",
         "is_top": null,
         "is_music": false,
