@@ -21496,7 +21496,7 @@
         "publishedAt": "2026-02-22T13:31:08.779000+00:00",
         "revisedAt": "2026-07-21T09:03:34.229000+00:00",
         "name": "ルーラーシップ",
-        "cn_name": "",
+        "cn_name": "统治地位",
         "en": "Rulership",
         "catch": "チェックメイト――\nこの盤面は、すでに俺の掌の上だ",
         "cv": "海野水玉",
@@ -21593,16 +21593,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "G",
+            "short": "G",
+            "mile": "B",
+            "middle": "A",
+            "long": "B",
+            "run_away": "G",
+            "first": "A",
+            "center": "A",
+            "chase": "A"
         }
     },
     "titleholder": {
