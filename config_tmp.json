@@ -18886,6 +18886,101 @@
             "chase": "A"
         }
     },
+    "genuine": {
+        "id": "genuine",
+        "createdAt": "2026-08-19T09:34:29.411000+00:00",
+        "updatedAt": "2026-08-21T03:30:03.296000+00:00",
+        "publishedAt": "2026-08-21T03:30:03.296000+00:00",
+        "revisedAt": "2026-08-21T03:30:03.296000+00:00",
+        "name": "ジェニュイン",
+        "cn_name": "",
+        "en": "Genuine",
+        "catch": "『やあ、かわいいポニーちゃん！』\n――ふふっ、『本物』みたいだったかしら？",
+        "cv": "福島美里衣",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#d3b927",
+        "color_sub": "#e17fa5",
+        "birthday": "4月28日",
+        "height": "157cm",
+        "weight": "本当は……",
+        "size": "B87・W58・H86",
+        "detail": "本物と偽物を見抜く、非常に優れた目利きの才を持ったウマ娘。\nまたその観察眼を応用することで、他人を模写・模倣するという特技を持っている。\nこの特技もあり、周囲からは『なんでもそつなくこなす天才肌の優等生』と評価されているが……。\nその陰には、本人のみぞ知る深い悩みがある模様。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b76b541a06084b4a823081a9204c75b0/genuine_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/449870167c3a47b6914b6746c208df60/genuine_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9fc862fb25084631b3125f7a6b04eaee/genuine_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0a9a194156a14806a64bd462f090e0b3/genuine_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": ""
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0e682d0ac5bf45e0beaafa3fd79bae57/genuine_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1f0a26bffe564ef1b8ae1daa267b2b12/genuine_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
     "bubblegumfellow": {
         "id": "bubblegumfellow",
         "createdAt": "2024-08-23T09:51:06.902000+00:00",
