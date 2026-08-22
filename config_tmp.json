@@ -18889,7 +18889,7 @@
     "genuine": {
         "id": "genuine",
         "createdAt": "2026-08-19T09:34:29.411000+00:00",
-        "updatedAt": "2026-08-21T03:30:03.296000+00:00",
+        "updatedAt": "2026-08-22T11:08:26.309000+00:00",
         "publishedAt": "2026-08-21T03:30:03.296000+00:00",
         "revisedAt": "2026-08-21T03:30:03.296000+00:00",
         "name": "ジェニュイン",
@@ -20775,7 +20775,7 @@
     "kiseki": {
         "id": "kiseki",
         "createdAt": "2025-12-24T06:45:55.091000+00:00",
-        "updatedAt": "2026-04-02T10:15:56.770000+00:00",
+        "updatedAt": "2026-08-22T11:02:59.484000+00:00",
         "publishedAt": "2025-12-24T12:42:42.798000+00:00",
         "revisedAt": "2026-04-02T10:15:56.770000+00:00",
         "name": "キセキ",
@@ -21123,7 +21123,7 @@
     "epiphaneia": {
         "id": "epiphaneia",
         "createdAt": "2026-02-20T09:43:12.880000+00:00",
-        "updatedAt": "2026-04-02T10:16:42.584000+00:00",
+        "updatedAt": "2026-08-22T11:05:03.938000+00:00",
         "publishedAt": "2026-02-22T13:31:12.002000+00:00",
         "revisedAt": "2026-04-02T10:16:42.584000+00:00",
         "name": "エピファネイア",
@@ -21700,6 +21700,122 @@
             "chase": "A"
         }
     },
+    "efforia": {
+        "id": "efforia",
+        "createdAt": "2026-08-21T05:52:47.554000+00:00",
+        "updatedAt": "2026-08-22T10:12:58.832000+00:00",
+        "publishedAt": "2026-08-22T10:12:58.832000+00:00",
+        "revisedAt": "2026-08-22T10:12:58.832000+00:00",
+        "name": "エフフォーリア",
+        "cn_name": "",
+        "en": "Efforia",
+        "catch": "我が一族に栄光を。\nそれが、私の従うべき運命です",
+        "cv": "香里有佐",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#3cbba7",
+        "color_sub": "#b33137",
+        "birthday": "3月10日",
+        "height": "164cm",
+        "weight": "運命のまま",
+        "size": "B85・W57・H86",
+        "detail": "レース界の名門一家の令嬢。\n非常に真面目で使命感が強い性格で、自らの家の誇りに相応しい競走成績を残すことこそが己が従うべき運命である、と信じて疑っていない。\nそれ故か『運命』というものに従順すぎるきらいがある。\nストイック過ぎる言動から『まるでレースマシーン』と評されることも。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4a93119876e74ecd8b12660a632fecc7/efforia_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/33137e9ddf2e4c118cc7fc60a3e6e63d/efforia_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/927fd85eba654caeae4bc2423a97c6bb/efforia_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ba860d05635f417b89e735122b64138b/efforia_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5c7f5c88eab4447eadf84d0251cd0ab6/efforia_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b6ddcc1371cb4cb79daec89a21446055/efforia_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/345852ec7a74469296dc5d6874796fc9/efforia_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8d3e00bcd2b946138bea1a6166fc13aa/efforia_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ba4dc7cc97eb4b449735d35f1f87b212/efforia_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
     "titleholder": {
         "id": "titleholder",
         "createdAt": "2026-06-21T04:21:06.495000+00:00",
@@ -21799,6 +21915,122 @@
             },
             "header": {
                 "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/621fca830572480fbd462cdd945e5cf0/titleholder_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
+    "phalaenopsis": {
+        "id": "phalaenopsis",
+        "createdAt": "2026-08-21T05:53:52.120000+00:00",
+        "updatedAt": "2026-08-22T10:12:50.981000+00:00",
+        "publishedAt": "2026-08-22T10:12:50.981000+00:00",
+        "revisedAt": "2026-08-22T10:12:50.981000+00:00",
+        "name": "ファレノプシス",
+        "cn_name": "",
+        "en": "Phalaenopsis",
+        "catch": "体質、不調――何するものぞ。斯様なことで\n鈍る脚に、獲れる勝利などあるまいよ",
+        "cv": "浅見春那",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#5ba4d9",
+        "color_sub": "#ae4555",
+        "birthday": "4月4日",
+        "height": "151cm",
+        "weight": "華やかな変化",
+        "size": "B76・W53・H78",
+        "detail": "武家の姫君のような気高さと武人のような豪胆さを兼ね備えたウマ娘。\n体質の弱かった自分を、立派な競走ウマ娘として育て上げてくれた育成倶楽部への恩義に報いるため、トゥインクル・シリーズという戦場の華となる覚悟を決めたという。\nナリタブライアン・ビワハヤヒデとは幼馴染であり従姉妹。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a71dc787083a49c7b0010755cdb31dc3/phalaenopsis_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/645fe493e12b4f82953bbe4b027bdb8a/phalaenopsis_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9d8cebceecfa42c69e50612ea2ec66eb/phalaenopsis_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/cdd4f4716ab048fc959251f28ed80ced/phalaenopsis_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/59322e297e2446cf820459abf81567a3/phalaenopsis_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ee9ba12e58864b71ae136f5dc2d0a89e/phalaenopsis_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/af64fdc43dec4a1292f34f372d025e0d/phalaenopsis_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8039560544ce4b349e622b7a75c0d955/phalaenopsis_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a08cb059b56648bd93f556751234988c/phalaenopsis_header.png",
                 "height": 500,
                 "width": 1500
             }
