@@ -15718,9 +15718,9 @@
     "samsonbig": {
         "id": "samsonbig",
         "createdAt": "2024-01-22T14:06:02.823000+00:00",
-        "updatedAt": "2025-07-15T06:09:39.002000+00:00",
+        "updatedAt": "2026-08-31T03:00:08.531000+00:00",
         "publishedAt": "2024-01-22T14:06:02.823000+00:00",
-        "revisedAt": "2025-07-15T06:09:39.002000+00:00",
+        "revisedAt": "2026-08-31T03:00:08.531000+00:00",
         "name": "サムソンビッグ",
         "cn_name": "",
         "en": "Samson Big",
@@ -15824,7 +15824,7 @@
             }
         ],
         "voice": {
-            "url": ""
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/411637179f6c4f998369d069b6f368ab/samsonbig_voice.mp3"
         },
         "download": {
             "fieldId": "download",
@@ -21148,7 +21148,7 @@
         "publishedAt": "2026-02-22T13:31:12.002000+00:00",
         "revisedAt": "2026-08-22T13:43:21.691000+00:00",
         "name": "エピファネイア",
-        "cn_name": "エピファネイア",
+        "cn_name": "神威启示",
         "en": "Epiphaneia",
         "catch": "運命がアタシにささやいたんだ！\n今行け、すぐ行け、早く行け、ってね！！",
         "cv": "千賀光莉",
