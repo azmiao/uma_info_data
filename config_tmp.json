@@ -21981,7 +21981,7 @@
         "publishedAt": "2026-08-22T10:12:50.981000+00:00",
         "revisedAt": "2026-09-11T09:01:26.996000+00:00",
         "name": "ファレノプシス",
-        "cn_name": "",
+        "cn_name": "蝴蝶兰",
         "en": "Phalaenopsis",
         "catch": "体質、不調――何するものぞ。斯様なことで\n鈍る脚に、獲れる勝利などあるまいよ",
         "cv": "浅見春那",
@@ -22078,16 +22078,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "F",
+            "short": "D",
+            "mile": "A",
+            "middle": "A",
+            "long": "F",
+            "run_away": "G",
+            "first": "A",
+            "center": "A",
+            "chase": "C"
         }
     },
     "happymeek": {
