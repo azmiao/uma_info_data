@@ -21977,9 +21977,9 @@
     "phalaenopsis": {
         "id": "phalaenopsis",
         "createdAt": "2026-08-21T05:53:52.120000+00:00",
-        "updatedAt": "2026-09-11T09:01:26.996000+00:00",
+        "updatedAt": "2026-09-27T13:06:54.559000+00:00",
         "publishedAt": "2026-08-22T10:12:50.981000+00:00",
-        "revisedAt": "2026-09-11T09:01:26.996000+00:00",
+        "revisedAt": "2026-09-27T13:06:54.559000+00:00",
         "name": "ファレノプシス",
         "cn_name": "蝴蝶兰",
         "en": "Phalaenopsis",
@@ -22056,6 +22056,27 @@
                 },
                 "image": {
                     "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ee9ba12e58864b71ae136f5dc2d0a89e/phalaenopsis_02.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-003",
+                    "createdAt": "2024-01-22T06:32:01.091000+00:00",
+                    "updatedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "publishedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "revisedAt": "2024-01-22T06:32:01.091000+00:00",
+                    "title": "原案"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/35602f3830d54f61aa2ef8d06bf4dc0b/phalaenopsis_03_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7e4bcaf81c66463c8e5414197da74914/phalaenopsis_03.png",
                     "height": 1980,
                     "width": 1125
                 }
