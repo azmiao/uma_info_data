@@ -22111,6 +22111,122 @@
             "chase": "C"
         }
     },
+    "winmarilyn": {
+        "id": "winmarilyn",
+        "createdAt": "2026-10-24T04:24:56.600000+00:00",
+        "updatedAt": "2026-10-24T12:24:50.063000+00:00",
+        "publishedAt": "2026-10-24T12:24:50.063000+00:00",
+        "revisedAt": "2026-10-24T12:24:50.063000+00:00",
+        "name": "ウインマリリン",
+        "cn_name": "",
+        "en": "Win Marilyn",
+        "catch": "演じてみせるわ。『極上のキネマ』\n――そう言われるようなレースを",
+        "cv": "廣瀬千夏",
+        "category": [
+            "ウマ娘"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#b9214a",
+        "color_sub": "#283640",
+        "birthday": "5月23日",
+        "height": "158cm",
+        "weight": "驚くかもね",
+        "size": "B86・W56・H85",
+        "detail": "名優の父を持ち、子役の頃からドラマや映画で活躍してきた現役俳優ウマ娘。\n幼い頃から芸能界に慣れ親しんできたためか、コミュニケーション能力と自己プロデュース能力は非常に高い。\n常に淑やかかつ華麗に振る舞う、『銀幕のスタア』の卵。\n当たり役はレースで敵を成敗していくスケバンの役。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/bea559b24f2d45a68118543f109d219f/winmarilyn_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4e74c8587705403497808566185b4201/winmarilyn_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-001",
+                    "createdAt": "2024-01-22T06:32:14.141000+00:00",
+                    "updatedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "publishedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "revisedAt": "2024-01-22T06:32:14.141000+00:00",
+                    "title": "制服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e373b7f81a024abcbefcfde7e1ca175f/winmarilyn_01_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ad0596af8da44b3b884896de2d58c8f3/winmarilyn_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            },
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "v-002",
+                    "createdAt": "2024-01-22T06:32:07.522000+00:00",
+                    "updatedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "publishedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "revisedAt": "2024-01-22T06:32:07.522000+00:00",
+                    "title": "勝負服"
+                },
+                "thumb": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/442cc614225848de93f98d2c2ec97c64/winmarilyn_02_thumb.png",
+                    "height": 198,
+                    "width": 198
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1b8a57c394a14382baeaf0b715abefee/winmarilyn_02.png",
+                    "height": 1980,
+                    "width": 1300
+                }
+            }
+        ],
+        "voice": {
+            "url": "https://files.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/bbb29a5e4bed4f7aa50332e5dfce7e27/winmarilyn_voice.mp3"
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/da2a3ab8e02d47118533f2d476bc95b6/winmarilyn_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7275411410a7490e96436ffe53e33f21/winmarilyn_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
     "happymeek": {
         "id": "happymeek",
         "createdAt": "2024-01-22T14:06:01.640000+00:00",
@@ -24564,6 +24680,101 @@
             },
             "header": {
                 "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/474e728d740345f6a33720e73665ba16/casinodrive_header.png",
+                "height": 500,
+                "width": 1500
+            }
+        },
+        "adapt": {
+            "grass": "",
+            "mud": "",
+            "short": "",
+            "mile": "",
+            "middle": "",
+            "long": "",
+            "run_away": "",
+            "first": "",
+            "center": "",
+            "chase": ""
+        }
+    },
+    "azuma": {
+        "id": "azuma",
+        "createdAt": "2026-10-24T04:25:43.239000+00:00",
+        "updatedAt": "2026-10-24T11:42:18.174000+00:00",
+        "publishedAt": "2026-10-24T11:42:18.174000+00:00",
+        "revisedAt": "2026-10-24T11:42:18.174000+00:00",
+        "name": "吾妻",
+        "cn_name": "",
+        "en": "Azuma",
+        "catch": "これも古より連なる儀……\nウマ娘と人の絆の歴史でございます",
+        "cv": "三石琴乃",
+        "category": [
+            "トレセン学園関係者"
+        ],
+        "affiliation": {
+            "id": "",
+            "createdAt": null,
+            "updatedAt": null,
+            "publishedAt": null,
+            "revisedAt": null,
+            "title": ""
+        },
+        "earring": [],
+        "color_main": "#de3b34",
+        "color_sub": "#ddccb3",
+        "birthday": "",
+        "height": "",
+        "weight": "",
+        "size": "",
+        "detail": "十二年に一度行われる、午式駿大祭を司る巫女。\n過去の歴史に詳しく、とりわけウマ娘と人の歴史に関しては誰も知らぬことすら知ると囁かれている。\n皆は畏敬を込め、彼女を“吾妻様”と呼び慕う。\nどれほど長く巫女を務めているかは定かではない。\n彼女の願いは、ウマ娘と人の絆が永久に続くこと。",
+        "movie_id": "",
+        "is_top": null,
+        "is_music": false,
+        "list_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/81f6ba4037974efb9f03d21897a60eb8/azuma_list.png",
+            "height": 389,
+            "width": 296
+        },
+        "top_thumb": {
+            "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9f811f8107784e21938da9e417f55b71/azuma_top.png",
+            "height": 680,
+            "width": 680
+        },
+        "visual": [
+            {
+                "fieldId": "visual",
+                "name": {
+                    "id": "",
+                    "createdAt": null,
+                    "updatedAt": null,
+                    "publishedAt": null,
+                    "revisedAt": null,
+                    "title": ""
+                },
+                "thumb": {
+                    "url": "",
+                    "height": 0,
+                    "width": 0
+                },
+                "image": {
+                    "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2dc7fddcae3d44ab96b6fc82946c124e/azuma_01.png",
+                    "height": 1980,
+                    "width": 1125
+                }
+            }
+        ],
+        "voice": {
+            "url": ""
+        },
+        "download": {
+            "fieldId": "download",
+            "icon": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/889fbd91787d46a7b5c85fc6d19f4fd8/azuma_icon.png",
+                "height": 400,
+                "width": 400
+            },
+            "header": {
+                "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7ba4eda9c93e4fb988eeee823ae08e24/azuma_header.png",
                 "height": 500,
                 "width": 1500
             }
