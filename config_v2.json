@@ -4570,7 +4570,7 @@
         },
         "adapt": {
             "grass": "A",
-            "mud": "A",
+            "mud": "B",
             "short": "D",
             "mile": "A",
             "middle": "A",
