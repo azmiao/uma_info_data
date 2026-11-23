@@ -62,6 +62,5 @@ async def auto_update_info(current_attempts: int):
 if __name__ == '__main__':
     # init async task
     logging.info(f'==== Auto update action start ====')
-    loop = asyncio.get_event_loop()
-    loop.run_until_complete(auto_update_info(0))
+    asyncio.run(auto_update_info(0))
     logging.info(f'==== Auto update action finished ====')
