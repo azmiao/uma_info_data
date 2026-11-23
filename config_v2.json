@@ -8218,9 +8218,9 @@
     "bamboomemory": {
         "id": "bamboomemory",
         "createdAt": "2024-01-22T14:06:02.722000+00:00",
-        "updatedAt": "2025-09-18T03:13:41.434000+00:00",
+        "updatedAt": "2026-11-18T08:18:34.591000+00:00",
         "publishedAt": "2024-01-22T14:06:02.722000+00:00",
-        "revisedAt": "2025-09-18T03:13:41.434000+00:00",
+        "revisedAt": "2026-11-18T08:18:34.591000+00:00",
         "name": "バンブーメモリー",
         "cn_name": "青竹回忆",
         "en": "Bamboo Memory",
@@ -8247,7 +8247,7 @@
         "detail": "情熱のままに突き進む熱血タイプ。\n好敵手と激しくやりあった父の武勇伝に感動し、自分もそんなライバルに巡り合いたいと血潮を燃やす。\n風紀委員長を務めているが、そのきっかけは、TVドラマで竹刀を握る風紀委員長役がカッコいいと思ったからである。",
         "movie_id": "Dfeovpe_Rdk",
         "is_top": null,
-        "is_music": false,
+        "is_music": true,
         "list_thumb": {
             "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6f5207cad44044c5a5b7ebffda2d80e7/bamboomemory_list.png",
             "height": 389,
@@ -11694,9 +11694,9 @@
     "daringtact": {
         "id": "daringtact",
         "createdAt": "2024-01-22T14:06:02.802000+00:00",
-        "updatedAt": "2025-09-18T03:13:39.757000+00:00",
+        "updatedAt": "2026-11-16T09:01:25.462000+00:00",
         "publishedAt": "2024-01-22T14:06:02.802000+00:00",
-        "revisedAt": "2025-09-18T03:13:39.757000+00:00",
+        "revisedAt": "2026-11-16T09:01:25.462000+00:00",
         "name": "デアリングタクト",
         "cn_name": "谋勇兼备",
         "en": "Daring Tact",
@@ -11721,7 +11721,7 @@
         "weight": "自然な推移",
         "size": "B80・W55・H82",
         "detail": "厳しくも美しい大自然の中でのびのびと育った、朗らかで礼儀正しく芯の強いウマ娘。\n自分を育んでくれた故郷の素晴らしさを証明するという夢のため、日夜真摯に修行中。\n先輩のデアリングハートと共に山籠もりに向かう姿がよく目撃されている。",
-        "movie_id": "",
+        "movie_id": "v8740_szNAA",
         "is_top": null,
         "is_music": true,
         "list_thumb": {
@@ -11816,16 +11816,16 @@
             }
         },
         "adapt": {
-            "grass": "",
-            "mud": "",
-            "short": "",
-            "mile": "",
-            "middle": "",
-            "long": "",
-            "run_away": "",
-            "first": "",
-            "center": "",
-            "chase": ""
+            "grass": "A",
+            "mud": "G",
+            "short": "F",
+            "mile": "A",
+            "middle": "A",
+            "long": "F",
+            "run_away": "G",
+            "first": "D",
+            "center": "A",
+            "chase": "F"
         }
     },
     "sakuralaurel": {
@@ -14791,9 +14791,9 @@
     "believe": {
         "id": "believe",
         "createdAt": "2024-06-24T03:22:37.682000+00:00",
-        "updatedAt": "2025-09-28T12:33:35.290000+00:00",
+        "updatedAt": "2026-11-18T07:55:51.318000+00:00",
         "publishedAt": "2024-06-24T12:46:33.032000+00:00",
-        "revisedAt": "2025-09-28T12:33:35.290000+00:00",
+        "revisedAt": "2026-11-18T07:55:51.318000+00:00",
         "name": "ビリーヴ",
         "cn_name": "信念",
         "en": "Believe",
@@ -14820,7 +14820,7 @@
         "detail": "確固たる信念を持つ、職人気質のウマ娘。\n黙々と努力を重ね、丁寧かつ完璧な仕事をこなす忍耐力、持続力の持ち主である。\nスピードにはこだわりがあり、『持続してこそ速さ』という信念のもと、短距離路線を邁進する。\n実は、かなりのおじいちゃん子なのだとか。",
         "movie_id": "Lctfzs_R_r4",
         "is_top": null,
-        "is_music": false,
+        "is_music": true,
         "list_thumb": {
             "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/142f6ac947e7444bb5235b1e17c8c5b7/believe_list.png",
             "height": 389,
@@ -14949,9 +14949,9 @@
     "noreason": {
         "id": "noreason",
         "createdAt": "2024-01-22T14:06:02.821000+00:00",
-        "updatedAt": "2025-09-18T03:13:41.230000+00:00",
+        "updatedAt": "2026-11-18T07:56:15.783000+00:00",
         "publishedAt": "2024-01-22T14:06:02.821000+00:00",
-        "revisedAt": "2025-09-18T03:13:41.230000+00:00",
+        "revisedAt": "2026-11-18T07:56:15.783000+00:00",
         "name": "ノーリーズン",
         "cn_name": "莫名其妙",
         "en": "No Reason",
@@ -14978,7 +14978,7 @@
         "detail": "群雄割拠なレース界にて名を馳せんとする、豪放磊落なウマ娘。\n天下人になるという壮大な野心を抱いており、戦に勝つためならばからめ手をも用いるその姿は、まさに戦国武将。\n……が、時々でっかいやらかしをするらしい。",
         "movie_id": "0XxmGoQnkgg",
         "is_top": null,
-        "is_music": false,
+        "is_music": true,
         "list_thumb": {
             "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4d848a9d09eb4d4996321debd8c22c8c/noreason_list.png",
             "height": 389,
@@ -24700,9 +24700,9 @@
     "azuma": {
         "id": "azuma",
         "createdAt": "2026-10-24T04:25:43.239000+00:00",
-        "updatedAt": "2026-10-24T11:42:18.174000+00:00",
+        "updatedAt": "2026-11-18T07:57:35.447000+00:00",
         "publishedAt": "2026-10-24T11:42:18.174000+00:00",
-        "revisedAt": "2026-10-24T11:42:18.174000+00:00",
+        "revisedAt": "2026-11-18T07:57:35.447000+00:00",
         "name": "吾妻",
         "cn_name": "吾妻",
         "en": "Azuma",
@@ -24729,7 +24729,7 @@
         "detail": "十二年に一度行われる、午式駿大祭を司る巫女。\n過去の歴史に詳しく、とりわけウマ娘と人の歴史に関しては誰も知らぬことすら知ると囁かれている。\n皆は畏敬を込め、彼女を“吾妻様”と呼び慕う。\nどれほど長く巫女を務めているかは定かではない。\n彼女の願いは、ウマ娘と人の絆が永久に続くこと。",
         "movie_id": "",
         "is_top": null,
-        "is_music": false,
+        "is_music": true,
         "list_thumb": {
             "url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/81f6ba4037974efb9f03d21897a60eb8/azuma_list.png",
             "height": 389,
